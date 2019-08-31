@@ -1,0 +1,1306 @@
+{
+  "status": "ok",
+  "totalResults": 415,
+  "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Angela Watercutter",
+      "title": "8 Movies and TV Shows You Need to Stream This Weekend",
+      "description": "You could go outside, but...",
+      "url": "https://www.wired.com/story/labor-day-weekend-streaming-guide/",
+      "urlToImage": "https://media.wired.com/photos/5d68407d94976200095497e7/master/w_1280,c_limit/Culture_2blkladysketch_1_Mlfh48nKrk7cm6nJPe1r7A.jpg",
+      "publishedAt": "2019-08-30T13:00:00Z",
+      "content": "Do you know what today is? Its the last day before a long weekend! Labor Day generally marks the end of summer and while the three-day break is usually reserved for barbeques, park time, and going to the beach, its also a mighty good time to catch up on some … [+3400 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Adam Rogers",
+      "title": "Netflix Re-Ups the Puppetry—and Perturbations—of *Dark Crystal*",
+      "description": "*The Dark Crystal: Age of Resistance*, a prequel series to the 1982 movie, will freak you and your kids right the hell out in all the best ways.",
+      "url": "https://www.wired.com/story/netflix-dark-crystal-age-of-resistance/",
+      "urlToImage": "https://media.wired.com/photos/5d680f0b7533d10009a6e6ec/master/w_1280,c_limit/Culture_DarkCrystals_DC_Unit_12461_RC.jpg",
+      "publishedAt": "2019-08-30T13:00:00Z",
+      "content": "For sure, Age of Resistance has a dynastic feeling. Designer Brian Froud and his wife Wendy were both back in the Creature Shop creating the basic look of Thra. They were joined by their son Toby (who also played the baby Toby in Labyrinth). Some of the puppe… [+3494 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Sara Harrison",
+      "title": "Elite Athletes Are Changing How They Train for Extreme Heat",
+      "description": "Runners are prepping for the high heat of next month's IAAF World Championships in Doha. Under climate change, that training may become the norm.",
+      "url": "https://www.wired.com/story/elite-athletes-are-changing-how-they-train-for-extreme-heat/",
+      "urlToImage": "https://media.wired.com/photos/5d6704840bc9b50008dd5fe6/master/w_1280,c_limit/Science_Hydrate_830453148.jpg",
+      "publishedAt": "2019-08-30T12:00:00Z",
+      "content": "Frerichs raced in Doha two years ago, in a different event, and encountered a frustrating problem: it was too hot to train outside. She and her teammates ended up practicing on treadmills in an air-conditioned gym or running at night to avoid the worst of the… [+3482 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "WIRED Staff",
+      "title": "Gadget Lab Podcast: Why It’s So Hard to Unlink Yourself From Facebook",
+      "description": "WIRED’s Paris Martineau joins the show to explain all the ways Facebook tracks your activity across Instagram and the rest of its apps.",
+      "url": "https://www.wired.com/story/gadget-lab-podcast-420/",
+      "urlToImage": "https://media.wired.com/photos/5a99b6b03ea6d47cc8933f33/master/w_1280,c_limit/FEATURED-WIRED-Gear-logo.jpg",
+      "publishedAt": "2019-08-30T12:00:00Z",
+      "content": "If you have both an Instagram and Facebook account, chances are they are connected, whether you like it or not. But what if you didnt connect them in the first place, or if you have a Finstagram account that you really dont want linked back to your main? Too … [+2030 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Aarian Marshall",
+      "title": "A California Bill Has Uber and Lyft Running Scared",
+      "description": "The ride-hail companies offer more pay and benefits to drivers—and threaten a ballot measure to prevent those same drivers from being classified as employees.",
+      "url": "https://www.wired.com/story/california-bill-uber-lyft-running-scared/",
+      "urlToImage": "https://media.wired.com/photos/5d683ad17533d10009a6e6f9/master/w_1280,c_limit/Transpo_GigEconomy-1170572267.jpg",
+      "publishedAt": "2019-08-30T11:00:00Z",
+      "content": "Ride-hail companies desperate to stop a proposed California law that would force them to treat workers as employees are suddenly offering to boost driver pay and benefits. And theyve pledged $60 million to fund a state ballot measure aimed at keeping drivers … [+3692 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Sarah Elizabeth Richards",
+      "title": "One Scientist’s Quest to Bring DNA Sequencing to Every Sick Kid",
+      "description": "Ryan Taft didn’t know that he would become one of the world’s leading experts in diagnosing rare genetic diseases. Then he met Stephen Damiani.",
+      "url": "https://www.wired.com/story/one-scientists-quest-to-bring-dna-sequencing-to-every-sick-kid/",
+      "urlToImage": "https://media.wired.com/photos/5d66d0451fc4060009324c3a/master/w_1280,c_limit/2019_07_15_Wired_1.jpg",
+      "publishedAt": "2019-08-30T11:00:00Z",
+      "content": "Stephen Damiani is a numbers guy.\r\nHe can tell you that on May 26, 2010, he and his wife, Sally, listened as a doctor told them that there were no more tests to try to figure out what was wrong with their son. He can recall that at that point 306 days had pas… [+3622 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Andy Greenberg, Lily Hay Newman",
+      "title": "Mysterious iOS Attack Changes Everything We Know About iPhone Hacking",
+      "description": "For two years, a handful of websites have indiscriminately hacked thousands of iPhones.",
+      "url": "https://www.wired.com/story/ios-attack-watering-hole-project-zero/",
+      "urlToImage": "https://media.wired.com/photos/5d68cb1afba8240009f42a7a/master/w_1280,c_limit/Security-iphonehacking-489884328.jpg",
+      "publishedAt": "2019-08-30T09:01:56Z",
+      "content": "Hacking the iPhone has long been considered a rarified endeavor, undertaken by sophisticated nation states against only their most high-value targets. But a discovery by a group of Google researchers has turned that notion on its head: For two years, someone … [+3539 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Jason Parham",
+      "title": "Depth of Field: Visual Poetry in the Chicken Sandwich War",
+      "description": "This one paradoxical photo captures the essence of unmet fried food desires.",
+      "url": "https://www.wired.com/story/chicken-sandwich-war-photography/",
+      "urlToImage": "https://media.wired.com/photos/5d680d2994976200095497e2/master/w_1280,c_limit/Culture_DOF_1164367846.jpg",
+      "publishedAt": "2019-08-29T21:52:25Z",
+      "content": "Just over two weeks ago, on August 12, Popeyesthe iconic fast food chain known for their savory take on Southern cuisinedebuted its own version of a fried chicken sandwich. The public announcement, made via Twitter in the reliably unfunny brand-speak many com… [+3004 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Julie Muncy",
+      "title": "'Control' Is a Paranoiac's Dream Turned Into a Videogame",
+      "description": "On the surface, the game feels cold and brutal. But beneath all that, it's disturbingly alive.",
+      "url": "https://www.wired.com/story/control-review/",
+      "urlToImage": "https://media.wired.com/photos/5d66b0d07533d10009a6e6e5/master/w_1280,c_limit/Culture_controlgame_screen4.jpg",
+      "publishedAt": "2019-08-29T20:32:29Z",
+      "content": "It's easy for videogames to be surreal. Games are, by the very nature of their design, good at abstraction, abrupt changes, and weird settings. Videogames have always been weird. But being surreal in a meaningful way, in a way that feels surprising? That feel… [+3810 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Alex Baker-Whitcomb",
+      "title": "A New Kind of Wi-Fi, a Streaming Piracy Bust, and More News",
+      "description": "Catch up on the most important news from today in two minutes or less.",
+      "url": "https://www.wired.com/story/wifi-6-jetflix-istreamitall-piracy-streaming/",
+      "urlToImage": "",
+      "publishedAt": "2019-08-29T19:15:30Z",
+      "content": "The next generation of Wi-Fi is coming soon, the government took down two illegal streaming juggernauts, and the flu is killing in border detention camps. Here's the news you need to know, in two minutes or less.\r\nWant to receive this two-minute roundup as an… [+1623 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Lauren Goode",
+      "title": "Apple Will Give Indie Repair Shops the Tools to Fix iPhones",
+      "description": "Your options for repairing a broken Apple device just got a lot better as the company loosens its policies on third-party fixes.",
+      "url": "https://www.wired.com/story/apple-offers-customers-more-iphone-repair-options/",
+      "urlToImage": "https://media.wired.com/photos/5d6819707533d10009a6e6ee/master/w_1280,c_limit/Gear-iphone%2520owner-repairs-859340040.jpg",
+      "publishedAt": "2019-08-29T19:11:18Z",
+      "content": "Its soon going to be much easier to get your iPhone fixed. Apple said earlier today that it was expanding its product repair program. The company plans to give more independently owned repair businesses the same tools and manuals it gives to Apple Authorized … [+3590 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": null,
+      "title": "WIRED Autocomplete Interviews - Novak Djokovic Answers the Web's Most Searched Questions",
+      "description": "Novak Djokovic takes the WIRED Autocomplete Interview and answers the internet's most searched questions about himself. Is Novak Djokovic the best ever? What does Novak eat for breakfast? When did he start playing tennis? What color are his eyes? Novak answer…",
+      "url": "https://www.wired.com/video/watch/novak-djokovic-answers-the-web-s-most-searched-questions",
+      "urlToImage": null,
+      "publishedAt": "2019-08-29T19:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Lily Hay Newman",
+      "title": "Everything We Know About the Capital One Hacking Case So Far",
+      "description": "A new indictment against alleged Capital One hacker Paige Thompson includes a few fresh details about the case.",
+      "url": "https://www.wired.com/story/capital-one-paige-thompson-case-hacking-spree/",
+      "urlToImage": "https://media.wired.com/photos/5d681d56e2d7db0008ee205b/master/w_1280,c_limit/security_capital-one_458553537.jpg",
+      "publishedAt": "2019-08-29T18:48:20Z",
+      "content": "At the end of July, the FBI and Capital One disclosed that the bank had suffered a massive data breach just a few months before, exposing personal and financial data from more than 100 million customers. The FBI arrested former Amazon employee Paige Thompson,… [+3392 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Angela Watercutter",
+      "title": "The Final Trailer for 'Joker' Is Beyond Bleak",
+      "description": "Also, 'The OA' won't be getting a movie and Rotten Tomatoes adds more female critics.",
+      "url": "https://www.wired.com/story/new-joker-trailer/",
+      "urlToImage": "https://media.wired.com/photos/5d67e8570bc9b50008dd5fec/master/w_1280,c_limit/Culture_Monitor_Joker.jpg",
+      "publishedAt": "2019-08-29T15:43:54Z",
+      "content": "Happy Thursday and welcome to a new edition of The Monitor, WIRED's culture news roundup. What do we have this time around? First, we have some sad updates for fans of The OA and Saturday Night Live. But, we have good tidings for folks who are excited for Jok… [+2063 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Michael Hardy",
+      "title": "Luxembourg's Bold Plan to Mine Asteroids for Rare Minerals",
+      "description": "Photographer Ezio D'Agostino documents the tiny European country's space-mining ambitions.",
+      "url": "https://www.wired.com/story/luxembourg-asteroid-mining/",
+      "urlToImage": "https://media.wired.com/photos/5d6547ffec9a9600081debb7/master/w_1280,c_limit/photo_neos_12.jpg",
+      "publishedAt": "2019-08-29T14:00:00Z",
+      "content": "In 2016 the tiny European country of Luxembourg announced an ambitious initiative to mine asteroids and other near-Earth objects (NEOs) for rare minerals. It wasnt the countrys first foray into spacein the 1980s it launched some of the first European satellit… [+2608 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Brian Barrett",
+      "title": "What the Jetflicks and iStreamItAll Takedowns Mean for Piracy",
+      "description": "In a sweeping indictment, the feds came down hard on two unauthorized streaming services that allegedly crossed a very important line.",
+      "url": "https://www.wired.com/story/jetflicks-istreamitall-takedown-piracy/",
+      "urlToImage": "https://media.wired.com/photos/5d670fb4c732b5000846d236/master/w_1280,c_limit/security_piracy_95583065.jpg",
+      "publishedAt": "2019-08-29T12:03:27Z",
+      "content": "For almost a decade, Jetflicks offered one of the best streaming deals out there. For $9.99 a monthless, if prepaid for a longer increment of timesubscribers could access popular shows from across all the major networks and streaming platforms, commercial-fre… [+3450 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Alex Davies",
+      "title": "How Anthony Levandowski Put Himself at the Center of an Industry",
+      "description": "Levandowski has been part of key developments in self-driving tech, from the Darpa Grand Challenge to his time at Google and Otto and Uber.",
+      "url": "https://www.wired.com/story/anthony-levandowski-put-himself-center-industry/",
+      "urlToImage": "https://media.wired.com/photos/5d66c01c7cb02600083c7499/master/w_1280,c_limit/Transpo_Anthony_-1164446546.jpg",
+      "publishedAt": "2019-08-29T12:00:00Z",
+      "content": "If federal prosecutors successfully prosecute Anthony Levandowski for 33 federal charges of theft and attempted theft of trade secrets, the self-driving engineer could face millions in fines and decades in prison. The accusations arent newthey rehash the core… [+3645 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Sarah Scoles",
+      "title": "How America's Spooks Seek to Spy on Distant Satellites",
+      "description": "The intelligence community has plans for a telescope network that can see not just a blob in orbit but details such as a satellite’s solar panels.",
+      "url": "https://www.wired.com/story/how-americas-spooks-seek-to-spy-on-distant-satellites/",
+      "urlToImage": "https://media.wired.com/photos/5d6700f6c732b5000846d234/master/w_1280,c_limit/Science_Telescopes_LOWELL-NPOI-SITE80MB-sm-(1).jpg",
+      "publishedAt": "2019-08-29T12:00:00Z",
+      "content": "On August 30, 2017, a video appeared online showing footage of every satellite operators worst nightmare: an anomaly. Its the word space types use when they mean a bad thing, especially one they perhaps dont understand and may want to downplay.\r\nIn the video,… [+3885 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Lauren Goode",
+      "title": "What Is Wi-Fi 6 and When Will I Get It?",
+      "description": "The new standard promises to improve the speed and reliability of your home Wi-Fi network. And it arrives as soon as this fall.",
+      "url": "https://www.wired.com/story/what-is-wi-fi-6/",
+      "urlToImage": "https://media.wired.com/photos/5d6704c8f176d30008f5ac99/master/w_1280,c_limit/Gear-Galaxy-S10-Ceramic-Black_side.jpg",
+      "publishedAt": "2019-08-29T11:00:00Z",
+      "content": "In January of this year, at the annual multithousand-square-foot madhouse of consumer electronics in Las Vegas, manufacturers started slipping a new claim into their spec sheets: Supports Wi-Fi 6. New laptops and routers from HP, Dell, Asusthey would all supp… [+3793 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Aarian Marshall",
+      "title": "Levandowski’s Fate May Turn on the Meaning of ‘Trade Secret’",
+      "description": "Former Google and Uber engineer Anthony Levandowski was indicted on charges of stealing trade secrets. But what exactly are those, anyway?",
+      "url": "https://www.wired.com/story/levandowskis-fate-turn-meaning-trade-secret/",
+      "urlToImage": "https://media.wired.com/photos/5d66e2efe2d7db0008ee2050/master/w_1280,c_limit/Transpoe_Tradesecrets_H921G3.jpg",
+      "publishedAt": "2019-08-29T11:00:00Z",
+      "content": "On Tuesday, engineer and self-driving pioneer Anthony Levandowski entered a San Jose courtroom sans tie to plead not guilty to 33 charges of theft and attempted theft of trade secrets. Exactly 564 days earlier, his former employers Uber and Waymoreached a $24… [+4144 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Sara Harrison",
+      "title": "Of Course Citizens Should Be Allowed to Kick Robots",
+      "description": "Seen in the wild, robots often appear cute and nonthreatening. This doesn't mean we shouldn't be hostile.",
+      "url": "https://www.wired.com/story/citizens-should-be-allowed-to-kick-robots/",
+      "urlToImage": "https://media.wired.com/photos/5d605b165006670008f3b719/master/w_1280,c_limit/Culture_kickrobots_688223544.jpg",
+      "publishedAt": "2019-08-29T11:00:00Z",
+      "content": "Every day for 10 months, Knightscope K5 patrolled the parking garage across the street from the city hall in Hayward, California. An autonomous security robot, it rolled around by itself, taking video and reading license plates. Locals had complained the gara… [+3596 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Alex Baker-whitcomb",
+      "title": "Capitalism Burns the Amazon, Lawsuits Burn YouTube, and More News",
+      "description": "Capitalism Burns the Amazon, Lawsuits Burn YouTube, and More News wired.com",
+      "url": "https://www.wired.com/story/amazon-rainforest-fire-youtube-lawsuit/",
+      "urlToImage": "https://media.wired.com/photos/5d66e61d59af510008b602b6/master/w_1280,c_limit/Science_TechinTwo-1164446873.jpg",
+      "publishedAt": "2019-08-28T21:02:42Z",
+      "content": "Unchecked capitalism is driving the Amazon fire, YouTube is making everyone mad, and experts have discovered the next Flint, Michigan. Here's the news you need to know, in two minutes or less.\r\nWant to receive this two-minute roundup as an email every weekday… [+2013 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Emma Grey Ellis",
+      "title": "The Post-Truth World of Influencer Romances",
+      "description": "Internet celebrity fauxmances are turning fans into cynical, screen-bound sleuths.",
+      "url": "https://www.wired.com/story/internet-influencer-fauxmance/",
+      "urlToImage": "https://media.wired.com/photos/5d65a9a858bf860008dab8f3/master/w_1280,c_limit/Culture_influencers_1158372250.jpg",
+      "publishedAt": "2019-08-28T20:47:06Z",
+      "content": "Here are some new ways to describe your upcoming nuptials, courtesy of Tana Mongeau, one half of YouTube's most controversial power couple. You are invited to: \"a lighthearted thing we're obviously doing for fun and content,\" that's \"one of the biggest days o… [+3825 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Jason Parham",
+      "title": "'David Makes Man' Invents a Doorway to a New Kind of TV",
+      "description": "The show rebels against a genre of television-making that has historically cast out the stories of black teen boys.",
+      "url": "https://www.wired.com/story/david-makes-man-review/",
+      "urlToImage": "https://media.wired.com/photos/5d6560ca5d2fd30009a0e8f3/master/w_1280,c_limit/Culture_DavidMakesMan_PHOTO2_DMM101e_0578_r1.jpg",
+      "publishedAt": "2019-08-28T20:13:52Z",
+      "content": "In a mid-season episode of David Makes Man, the new Oprah Winfrey Network drama that explores the emotional volume of black teenhood and the gnawing effects of trauma, lead character David (Akili McDowell) encounters calamity. When friends from competing worl… [+3248 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Robbie Gonzalez",
+      "title": "Behold the Firenado's Twisting, Infernal Column of Flames",
+      "description": "Call them fire tornadoes or fire whirls, these spinning conflagrations can tear roofs off houses and spread flames unpredictably. Here's how they work.",
+      "url": "https://www.wired.com/story/behold-the-firenados-twisting-infernal-column-of-flames/",
+      "urlToImage": "https://media.wired.com/photos/5d65a0cb82d8b20009e2e09f/master/w_1280,c_limit/Science_firenado_591632046.jpg",
+      "publishedAt": "2019-08-28T19:37:32Z",
+      "content": "Not all meteorologists agree on what distinguishes a fire tornado from a fire whirl. Some say it's size that sets them apart. Their magnitude can vary considerably; some are no more than a few feet high, whereas others can reach miles into the atmosphere and … [+2401 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Angela Watercutter",
+      "title": "Netflix Can Kill *The OA*, But It Can't Kill a Movement",
+      "description": "The effort to save the beloved but little-watched sci-fi show is one that understands the stakes of the streaming wars.",
+      "url": "https://www.wired.com/story/save-the-oa-netflix-fans/",
+      "urlToImage": "https://media.wired.com/photos/5d66ced8c732b5000846d231/master/w_1280,c_limit/Culture_OA_202_Unit_00062R.jpg",
+      "publishedAt": "2019-08-28T19:03:39Z",
+      "content": "There's something ironic about #SaveTheOA. For those who need a primer, the hashtagand the movement around itsprung up a few weeks ago when Netflix announced it was canceling the beloved but little-watched sci-fi drama The OA. It's not strange that fans would… [+2183 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Paris Martineau",
+      "title": "On Instagram, 'Unlink Account' Won't Unlink a Facebook Account",
+      "description": "Facebook knows so much about its users that it can link their accounts, even when created under different names, from different devices.",
+      "url": "https://www.wired.com/story/instagram-unlink-account-wont-unlink-facebook/",
+      "urlToImage": "https://media.wired.com/photos/5d571836ec9b530008edcde8/master/w_1280,c_limit/fb-ig-separation.jpg",
+      "publishedAt": "2019-08-28T17:57:07Z",
+      "content": "The settings on Instagram include a page devoted to the Linked Accounts feature. As you might expect, it displays your linked accounts. Users have the option to connect to Twitter, Tumblr, and, of course, Instagrams parent company, Facebook, among others.\r\nOn… [+3833 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Nicholas Thompson",
+      "title": "Why Wired.com Looks Different Today",
+      "description": "It’s faster, cleaner, and easier to read. We're ADA compliant to boot!",
+      "url": "https://www.wired.com/story/why-wiredcom-looks-different-today/",
+      "urlToImage": "https://media.wired.com/photos/5d65c1eac8eafc000804d9a7/master/w_1280,c_limit/business_verso_51058429.jpg",
+      "publishedAt": "2019-08-28T16:50:15Z",
+      "content": "For a publication about technology, WIRED has sometimes had a vexed relationship to the web. One of the first great web sites, Suck, was a rogue operation run out of the magazines server rooms behind the editors backs. Around the same time, we may have invent… [+1493 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Adrienne So",
+      "title": "Fitbit Premium, Versa 2, Aria Air: Pricing, Specs, Details",
+      "description": "The company’s new offerings include two fitness-tracking products, a subscription service for personalized health advice, and lots and lots of partnerships.",
+      "url": "https://www.wired.com/story/fitbit-versa-2-aria-air-smart-scale-fitbit-premium/",
+      "urlToImage": "https://media.wired.com/photos/5d65a6d443e62000086148e5/191:100/pass/Gear-Fitbit_Versa_2-Lead.jpg",
+      "publishedAt": "2019-08-28T13:00:00Z",
+      "content": "As the fitness tracker market matures, its gotten easier to differentiate which wearable you should get depending on your lifestyle and needs. If you want to ski the backcountry or run a faster marathon, you get a Garmin or a Suunto; if you own an iPhone, an … [+5952 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Molly Enking",
+      "title": "Flint, Newark, and the Persistent Crisis of Lead in Water",
+      "description": "The lead-contaminated water in Flint and Newark is not unusual, and some experts think they know where the next \\\"next Flint\\\" will be.",
+      "url": "https://www.wired.com/story/first-flint-now-newark-the-water-crisis-is-far-from-over/",
+      "urlToImage": "https://media.wired.com/photos/5d644974ec9a9600081debad/191:100/pass/Science_Climate-Desk_AP_19224844409542.jpg",
+      "publishedAt": "2019-08-28T13:00:00Z",
+      "content": "This story originally appeared on Grist and is part of the Climate Desk collaboration.\r\nTell me if youve heard this one before: A US city is facing a public health crisis, after years of denying that it had a problem with lead in its drinking water supply. In… [+8503 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Timothy A. Wise",
+      "title": "Big Ag Is Sabotaging Progress on Climate Change",
+      "description": "Opinion: Grim as the UN’s latest climate report is, it doesn’t confront the dangerous, government-hijacking power of agribusiness.",
+      "url": "https://www.wired.com/story/big-ag-is-sabotaging-progress-on-climate-change/",
+      "urlToImage": "https://media.wired.com/photos/5d6599f678147200098f2290/191:100/pass/OpEd-AgriBiz-519490018.jpg",
+      "publishedAt": "2019-08-28T13:00:00Z",
+      "content": "Climate experts have sounded yet another dire alarm, this time aimed straight at our stomachs. The United Nations Intergovernmental Panel on Climate Changes latest report, on Climate Change and Land, warns that meeting the challenges of our climate crisis req… [+8292 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Peter Rubin",
+      "title": "Best Running Clothes for Hot Days: Shorts, Shirts, and Gear",
+      "description": "It's incredibly hot this year. If you're going for a run, be sure to wear the right clothes and stay hydrated. Here's how we do it at WIRED.",
+      "url": "https://www.wired.com/gallery/best-running-clothes-gear-for-hot-days/",
+      "urlToImage": "https://media.wired.com/photos/5d65b5d358b2f00008ce03e7/master/pass/s-lab-sense-ultra-5-set_sm.jpg",
+      "publishedAt": "2019-08-28T12:00:00Z",
+      "content": "As the runner's rule of thumb goes, you should always dress like it's 20 degrees warmer than it is. That's why you see racers in singlets and shorts when it's 45 degrees out: Once your furnace gets going, winter turns to spring and spring turns to summer.\r\nBu… [+1096 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Maryn McKenna",
+      "title": "Why Denying Migrants Flu Shots Is a Dangerous, Foolish Move",
+      "description": "Putting folks at higher risk of infectious disease by holding them in cramped, unhygienic camps is a public health travesty. It’s also probably illegal.",
+      "url": "https://www.wired.com/story/why-denying-migrants-flu-shots-is-a-dangerous-foolish-move/",
+      "urlToImage": "https://media.wired.com/photos/5d60665d5d2fd30009a0e8e4/191:100/pass/Ideas_Art-Detention-Centers-1153414130.jpg",
+      "publishedAt": "2019-08-28T12:00:00Z",
+      "content": "Its a puzzle of public health that we dont take flu seriously. Every year, only about half of American adults get the vaccine that prevents it. And yet, every year, at least 37 million Americans catch the flu, more than 500,000 become sick enough to be hospit… [+7799 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Jess Grey",
+      "title": "Microsoft Surface Pro 6 Deal: $270 Off Right Now",
+      "description": "Microsoft's laptop-tablet hybrid is as cheap as we've seen it.",
+      "url": "https://www.wired.com/story/surface-pro-6-sale-august-2019/",
+      "urlToImage": "https://media.wired.com/photos/5bb3d0939d86a52d3f1d025c/191:100/pass/surfacepro.jpg",
+      "publishedAt": "2019-08-28T12:00:00Z",
+      "content": "Microsoft's Surface lineup has gotten stronger over the years with the additions of the Surface Book and Surface Laptop. But the flagship Surface Pro 6 (8/10, WIRED Recommends) is still something of a niche device. It walks that tightrope between being a tabl… [+2645 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Sara Harrison",
+      "title": "No One's Happy With YouTube's Content Moderation Policies",
+      "description": "YouTube faces dueling lawsuits from a conservative group and an LGBTQ+ group, both of which argue that the video site discriminates against them.",
+      "url": "https://www.wired.com/story/no-ones-happy-youtubes-content-moderation/",
+      "urlToImage": "https://media.wired.com/photos/5d65e26bc8eafc000804d9af/191:100/pass/business_youtube_1005070638.jpg",
+      "publishedAt": "2019-08-28T11:00:00Z",
+      "content": "Strange times make for strange bedfellows. So it is in 2019 when conservative nonprofit Prager University finds itself allied with a group of left-leaning LGBTQ+ YouTubers. The common denominator? Both groups are suing YouTube for discriminating against their… [+7430 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Matt Simon",
+      "title": "Who's Burning the Amazon? Rampant Capitalism",
+      "description": "Market forces and the administration of Jair Bolsonaro are supercharging the deforestation that's imperiling the world's biggest tropical rainforest.",
+      "url": "https://www.wired.com/story/whos-burning-the-amazon-rampant-capitalism/",
+      "urlToImage": "https://media.wired.com/photos/5d644aa35b12750008de7b2f/191:100/pass/Science_Farming-incentives_1163948487.jpg",
+      "publishedAt": "2019-08-28T11:00:00Z",
+      "content": "Capitalism rarely meets something it cant put a price on. Goods and services, like cars and housecleaning, those have a price. Health insurance puts a price on your well-beingand worse, slavery puts a price on a human being. Exotic plants and animals have the… [+8214 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": null,
+      "title": "Extreme Events Fire Tornado",
+      "description": "Extreme wildfires can get so intense that the heat from the fire can generate its own weather patterns. In rare cases, like during the 2018 wildfire in Redding California, the wildfire created its own tornado, or the more commonly known: a firenado!",
+      "url": "https://www.wired.com/video/watch/extreme-events-fire-tornado",
+      "urlToImage": null,
+      "publishedAt": "2019-08-27T22:58:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Taj Tsonga",
+      "title": "Autonomous Vehicles: The Answer to Our Growing Traffic Woes",
+      "description": "Autonomous Vehicles: The Answer to Our Growing Traffic Woes wired.com",
+      "url": "https://www.wired.com/wiredinsider/2019/08/autonomous-vehicles-answer-growing-traffic-woes/",
+      "urlToImage": "https://www.wired.com/wp-content/uploads/2019/08/AdobeStock_258434936-1200x630.jpeg",
+      "publishedAt": "2019-08-27T22:24:38Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Alex Baker-Whitcomb",
+      "title": "A Hack to Steal a Tesla, a Yelp Overhaul, and More News",
+      "description": "Catch up on the most important news from today in two minutes or less.",
+      "url": "https://www.wired.com/story/tesla-key-fob-hack-yelp-custom-search/",
+      "urlToImage": "https://media.wired.com/photos/5d6588f6a261840008ba8b49/191:100/pass/security_tesla_1156448821.jpg",
+      "publishedAt": "2019-08-27T20:56:02Z",
+      "content": "Researchers have figured out how to steal a Tesla, Yelp is switching up your search results, and Honda has a new take on the airbag. Here's the news you need to know, in two minutes or less.\r\nWant to receive this two-minute roundup as an email every weekday? … [+1711 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Matt Simon",
+      "title": "What on Earth Is Water Doing in Hawaii's Kilauea Volcano?",
+      "description": "WIRED sits down with a geologist to learn how scientists might sample the newfound water—and why you shouldn’t panic and cancel your island getaway.",
+      "url": "https://www.wired.com/story/kilauea-volcano-water/",
+      "urlToImage": "https://media.wired.com/photos/5d659085b2d4fd000840cedb/191:100/pass/science_watervarticle_multimediaFile-2749.jpg",
+      "publishedAt": "2019-08-27T20:27:23Z",
+      "content": "Earlier this month, something exceedingly rare appeared in the crater of Hawaii's Kilauea volcano: water. What once was a bubbling lake of lava now holds a pond of sorts. And that's got scientists all worked upin a good way.\r\nThe big question is: where did th… [+916 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Andy Greenberg",
+      "title": "Hackers Could Steal a Tesla Model S by Cloning Its Key Fob—Again",
+      "description": "The same researchers who figured out how to clone a Tesla Model S key fob have done it again, cracking the replacement that was meant to fix the problem.",
+      "url": "https://www.wired.com/story/hackers-steal-tesla-model-s-key-fob-encryption/",
+      "urlToImage": "https://media.wired.com/photos/5d645d902a81ba0008bd0906/191:100/pass/security_tesla_1162628429.jpg",
+      "publishedAt": "2019-08-27T19:45:00Z",
+      "content": "Two weeks shy of a year ago, researchers revealed a serious flaw in the security of Tesla's vehicles. With little more than some standard radio equipment, they were able to defeat the encryption on a Model S's keyless entry system to wirelessly clone the seda… [+6836 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Aarian Marshall",
+      "title": "Ex-Uber Engineer Levandowski Charged With Trade-Secret Theft",
+      "description": "Prosecutors say Anthony Levandowski took drawings and designs for self-driving technology from Google to Uber in 2016.",
+      "url": "https://www.wired.com/story/ex-uber-engineer-levandowski-charged-trade-secret-theft/",
+      "urlToImage": "https://media.wired.com/photos/5d657f1857fd1400096696ca/191:100/pass/Transpo_Levandowski_605519778.jpg",
+      "publishedAt": "2019-08-27T19:38:53Z",
+      "content": "Former Waymo and Uber self-driving car engineer Anthony Levandowskiregarded by many as a father of the fledgling autonomous vehicle industrywas indicted Tuesday on 33 federal charges of theft and attempted theft of trade secrets. The charges stem from the sam… [+3822 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": null,
+      "title": "Scientist Explains What Water Pooling in Kilauea's Volcanic Crater Means",
+      "description": "Don Swanson, a scientist with the United States Geological Survey, explains why researchers are so interested in a pool of water that's formed in the crater of Hawaii's Kilauea volcano.",
+      "url": "https://www.wired.com/video/watch/scientist-explains-what-water-pooling-in-kilauea-s-volcanic-crater-means",
+      "urlToImage": null,
+      "publishedAt": "2019-08-27T16:30:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Robert Carnevale",
+      "title": "Nintendo Switch Lite: Our Hands-On First Impressions",
+      "description": "Despite its limitations, the Lite offers an affordable path to the amazing universe of Switch games.",
+      "url": "https://www.wired.com/story/nintendo-switch-lite-first-impressions/",
+      "urlToImage": "https://media.wired.com/photos/5d6468905af21f000859fc47/191:100/pass/Gear-NintendoSwitchLite_artwork_02.jpg",
+      "publishedAt": "2019-08-27T15:00:00Z",
+      "content": "What is the definitive Nintendo handheld? Ask around and you'll get a different answer each time. For me, the Nintendo DS Lite remains king, in all its stylish, small, sturdy-as-hell glory. It was the perfect pocket-sized revision to the chunky DS that allowe… [+5426 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Laura Mallonee",
+      "title": "For These Sword-Wielding Warriors, Medieval Battles Live On",
+      "description": "To photograph an IRL Game of Thrones-style clash of armies, Alessandro D’Angelo avoided getting struck by swords, axes, and shields.",
+      "url": "https://www.wired.com/story/sword-wielding-warriors-medieval-battles-live-on/",
+      "urlToImage": "https://media.wired.com/photos/5d40810d74eaf000087afa53/191:100/pass/01_Battle_Nations.jpg",
+      "publishedAt": "2019-08-27T14:00:00Z",
+      "content": "War photographers typically wear flak jackets in combat zones. While covering the Battle of the Nations in Serbia this May, Alessandro DAngelo opted for a medieval-style tunic and hatthough chainmail and a helmet might have been more advisable. When looking t… [+2067 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Alexis Papazoglou",
+      "title": "Silicon Valley's Secret Philosophers Should Share Their Work",
+      "description": "Opinion: Tech giants must stop hiring philosophers as pawns, and allow them to make sense of the world tech is molding.",
+      "url": "https://www.wired.com/story/silicon-valleys-secret-philosophers-should-share-their-work/",
+      "urlToImage": "https://media.wired.com/photos/5d6056f7c0548100086359a6/191:100/pass/OpEd-Philosophy-471237809.jpg",
+      "publishedAt": "2019-08-27T13:00:00Z",
+      "content": "Karl Marx famously complained that philosophers have only interpreted the world ... The point, however, is to change it. While its doubtful Silicon Valleys mission to disrupt the world was inspired by Marx, the father of communism captures how many capitalist… [+6717 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Rhett Allain",
+      "title": "You're Racing Toward a Wall. Should You Brake Hard—or Swerve?",
+      "description": "Say you’re driving and come upon an obstacle. Is it best to slam on the brakes, turn, or start weaving? Here’s how to crunch the numbers.",
+      "url": "https://www.wired.com/story/youre-racing-toward-a-wall-should-you-brake-hardor-swerve/",
+      "urlToImage": "https://media.wired.com/photos/5d6470cf57fd1400096696c0/191:100/pass/Sciece_swervecar_1125522296.jpg",
+      "publishedAt": "2019-08-27T13:00:00Z",
+      "content": "I know it was a long time ago, but there was this interesting discussion about stopping a car on an episode of Car Talk. Should you just brake as hard as possible or should you brake and weave back and forth? The idea is that by weaving back and forth you inc… [+6806 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Alex Davies",
+      "title": "A Novelist Takes Self-Driving to Its Illogical Conclusion",
+      "description": "In John Marrs' sixth novel, *The Passengers*, a hacker traps eight people in self-driving cars—with results as revealing as they are ridiculous.",
+      "url": "https://www.wired.com/story/book-review-the-passengers-john-marrs/",
+      "urlToImage": "https://media.wired.com/photos/5d6474295b12750008de7b37/master/w_1280,c_limit/Transpo_BookReview_846050906.jpg",
+      "publishedAt": "2019-08-27T13:00:00Z",
+      "content": "The Fate of the Furious doesnt really get crazy until the movies villain, played by Charlize Theron, tells her hacker minions to make it rain. A few obedient keystrokes later and empty cars are flinging themselves from a high-rise parking garage onto the stre… [+4167 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Louise Matsakis",
+      "title": "Yelp Is Overhauling Its App to Emphasize Personalization",
+      "description": "Users can customize the app to reflect their stated preferences and lifestyles.",
+      "url": "https://www.wired.com/story/yelp-app-personalization/",
+      "urlToImage": "https://media.wired.com/photos/5d6473a9a261840008ba8b3e/191:100/pass/Yelp-updates-1032728924.jpg",
+      "publishedAt": "2019-08-27T13:00:00Z",
+      "content": "Yelp wants to know if you're a car owner who prefers jazz bars and Korean food or a vegan parent who loves going to the beach. No, Yelp isnt expanding into online dating. It just wants to match you to restaurants (and other businesses) better. The company ann… [+6751 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Adam Rogers",
+      "title": "Jeffrey Epstein and the Power of Networks",
+      "description": "The billionaire child rapist bought his way into an elite crowd of intellectuals that defined the last three decades of science, tech, and culture.",
+      "url": "https://www.wired.com/story/jeffrey-epstein-and-the-power-of-networks/",
+      "urlToImage": "https://media.wired.com/photos/5d5ef0c05d2fd30009a0e8d6/191:100/pass/Science_Epstein-593374632.jpg",
+      "publishedAt": "2019-08-27T11:00:00Z",
+      "content": "Give the money back.\r\nAnyone who took money or accrued influence from accused child rapist Jeffrey Epstein, who died of an apparent suicide in jail, should give that money back. Or they should donate an equivalent amount to someone who will help people with i… [+8084 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Lydia Horne",
+      "title": "China Trade Spillover, LA’s Pollution by Block, and More News",
+      "description": "China Trade Spillover, LA’s Pollution by Block, and More News wired.com",
+      "url": "https://www.wired.com/story/china-trade-spillover-las-pollution-by-block-and-more-news/",
+      "urlToImage": "https://media.wired.com/photos/5d64458aec9a9600081debab/191:100/pass/business_trump_1159004999.jpg",
+      "publishedAt": "2019-08-27T00:39:42Z",
+      "content": "Worldwide spillover from US-China trade wars, block by block road emissions in LA, and America's history of wanting to nuke hurricanes. Here's the news you need to know, in two minutes or less.\r\nWant to receive this two-minute roundup as an email every weekda… [+2308 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Patrick Farrell",
+      "title": "Learn How to Fall With Climber Alex Honnold",
+      "description": "What to wear, what to eat, how to fall during bouldering, and more from the subject of the Oscar-winning documentary *Free Solo*.",
+      "url": "https://www.wired.com/story/tech-support-alex-honnold/",
+      "urlToImage": "https://media.wired.com/photos/5d641aa51858a50008339df3/191:100/pass/WI_TSU_S02_Ep012_TechSupport_AlexHonnold_082619_Video_Still_02.jpg",
+      "publishedAt": "2019-08-26T20:27:37Z",
+      "content": "People have a lot of questions for Alex Honnold, the professional climber who ascended 3,000 vertical feet of Yosemite National Park granite without any safety equipment in last years Academy Award-winning documentary Free Solo. The film follows Honnold's obs… [+1471 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": null,
+      "title": "Tech Support - Alex Honnold Answers Climbing Questions From Twitter",
+      "description": "Alex Honnold uses the power of Twitter to answer common questions about climbing. What's Alex's favorite type of climbing hold? Do all rock climbers live in vans? Once you get to the top, how do you get back down? Alex answers all these questions, and more!",
+      "url": "https://www.wired.com/video/watch/alex-honnold-answers-rock-climbing-questions-from-twitter",
+      "urlToImage": null,
+      "publishedAt": "2019-08-26T18:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Brian Barrett",
+      "title": "New 'Star Wars: The Rise of Skywalker' Footage Shows Rey Breaking Bad",
+      "description": "Sure, you could dissect the new ‘Star Wars’ trailer frame by frame. But look at that double-lightsaber!",
+      "url": "https://www.wired.com/story/star-wars-rise-of-skywalker-trailer-d23/",
+      "urlToImage": "https://media.wired.com/photos/5d63fd2a895f71000883d370/191:100/pass/Culture_rise-skywalker-d23-trailer.jpg",
+      "publishedAt": "2019-08-26T16:54:34Z",
+      "content": "While it's not the first trailer for Star Wars: The Rise of Skywalker, the new footage Disney showed off at its D23 conference this past weekend is a whole lot more illuminating. It's got plenty of fan service, packing in snippets from every previous film in … [+2139 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Garrett M. Graff",
+      "title": "A History of Plans to Nuke Hurricanes (and Other Stuff Too)",
+      "description": "If you think dropping a nuclear bomb into the eye of a hurricane is a bad idea, wait'll you see what they had in mind for the polar ice caps.",
+      "url": "https://www.wired.com/story/nuking-hurricanes-polar-ice-caps-climate-change/",
+      "urlToImage": "https://media.wired.com/photos/5d63f777ec9a9600081deba5/191:100/pass/security_nuclear_2667516.jpg",
+      "publishedAt": "2019-08-26T15:46:23Z",
+      "content": "Sunday night, Axioss Jonathan Swan broke news that Donald Trumpamong his many often random musingsappears to have considered one of the worst-but-most-persistent ideas in public policy: Nuking hurricanes.\r\nThe idea has evidently surfaced multiple times in the… [+10255 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Graeme McMillan",
+      "title": "After Star Wars: The Rise of Skywalker, Everything Changes",
+      "description": "The release of Episode IX not only signals the end of the Skywalker saga but also spurs a whole new notion of just what Star Wars is.",
+      "url": "https://www.wired.com/story/cantina-talk-92/",
+      "urlToImage": "https://media.wired.com/photos/5d605c3fec9a9600081deba2/191:100/pass/Culture_Cantina-815176370.jpg",
+      "publishedAt": "2019-08-26T13:00:00Z",
+      "content": "Were in a strange period. Expectations for Star Wars: The Rise of Skywalker continues to buildits only a few months away!but theres a lot more going on in so many other areas of a galaxy far, far away that its easy to lose track. Read on for news on no less t… [+5215 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Matt Simon",
+      "title": "See How LA Belches Emissions, Block by Block",
+      "description": "Researchers quantify the emissions of every road and building in the nearly 5,000 square miles of the Los Angeles metro area. Your city could be next.",
+      "url": "https://www.wired.com/story/la-emissions-block-by-block/",
+      "urlToImage": "https://media.wired.com/photos/5d603d73ee69d100089ae124/191:100/pass/Science_Laemissions-184957370.jpg",
+      "publishedAt": "2019-08-26T13:00:00Z",
+      "content": "Hovering above the iconic Hollywood sign is Southern Californias other icon: smog. After decades of gains fighting the menace, LA is now losing ground, clocking a 10 percent rise in deaths from ozone pollution between 2010 and 2017. Cars, of course, are the m… [+4323 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Adrienne So",
+      "title": "Review: Rad Power Bikes RadRunner Is a Comfy, Utility-Minded E-Bike",
+      "description": "Rad Power’s latest ride is a heavy, affordable electric cruiser.",
+      "url": "https://www.wired.com/review/rad-power-bikes-radrunner/",
+      "urlToImage": "https://media.wired.com/photos/5d605bba5006670008f3b71b/191:100/pass/9-RadRunner-Green-FA.jpg",
+      "publishedAt": "2019-08-26T13:00:00Z",
+      "content": "Whether youre looking for a mountain bike, a car replacement, or a convenient commuter, theres an electric bike out there for you. According to the market research firmNPD Group, ebike sales skyrocketed by almost 91 percent in 2017 over the previous year. Tha… [+4809 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Klint Finley",
+      "title": "Trump’s Trade War Isn’t Just a US–China Problem",
+      "description": "As companies explore manufacturing options outside China, the countries that stand to gain most from new business might still lose in the end.",
+      "url": "https://www.wired.com/story/us-china-trade-war-spills-over/",
+      "urlToImage": "https://media.wired.com/photos/5d63d17c57fd1400096696b4/191:100/pass/Business_Trump-G7-1163802628.jpg",
+      "publishedAt": "2019-08-26T12:39:29Z",
+      "content": "The US and China wont be the only ones affected in the trade war raging between the two countries. As companies scramble to find ways around the ever-increasing tariffs that the worlds two largest economies impose on each others goods, other countries are bei… [+7553 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Klint Finley",
+      "title": "Trump’s Trade War Isn’t Just a US–China Problem",
+      "description": "As companies explore manufacturing options outside China, the countries that stand to gain most from new business might still lose in the end.",
+      "url": "https://www.wired.com/story/us-china-trade-war-spills-over",
+      "urlToImage": null,
+      "publishedAt": "2019-08-26T12:16:57Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Gregory Barber",
+      "title": "What Sci-Fi Can Teach Computer Science About Ethics",
+      "description": "Schools are adding ethics classes to their computer-science curricula. The reading assignments: science fiction.",
+      "url": "https://www.wired.com/story/how-we-learn-computer-science-ethics/",
+      "urlToImage": "https://media.wired.com/photos/5d5d8ba45006670008f3b6cc/191:100/pass/James-Yang-wired%20ai%20ethics.jpg",
+      "publishedAt": "2019-08-26T11:00:00Z",
+      "content": "This story is part of a series on how we learnfrom augmented reality to music-training devices.\r\nThe protagonist of Rebecca Roanhorses short story Welcome to Your Authentic Indian ExperienceTM is a bit of a sad sack. A guide for a VR tourism company in Sedona… [+8050 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Boone Ashworth",
+      "title": "I Tried to Become a Musician Using Apps and a Light-Up Piano",
+      "description": "This musically challenged guinea pig is going to become an artist—or at least record one (sort of) song.",
+      "url": "https://www.wired.com/story/how-we-learn-music-technology-apps-lessons/",
+      "urlToImage": "https://media.wired.com/photos/5d6054f1c0548100086359a4/master/w_1280,c_limit/Gear-Piano-10125765.jpg",
+      "publishedAt": "2019-08-26T11:00:00Z",
+      "content": "In the lobby of the Hyatt, I catch up with Zhang, the teenage maestro, after his MTAC recital. He tells me hes been playing piano since he was 5, works regularly with a professional teacher, and practices at least two hours a day. I tell him about my plan to … [+3580 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Tom Simonite",
+      "title": "OpenAI Said Its Code Was Risky. Two Grads Recreated It Anyway",
+      "description": "The artificial intelligence lab cofounded by Elon Musk said its software could too easily be adapted to crank out fake news.",
+      "url": "https://www.wired.com/story/dangerous-ai-open-source/",
+      "urlToImage": "https://media.wired.com/photos/5d6037235006670008f3b700/191:100/pass/business%20-%20open%20source%20ai%20text%20-%20918020790.jpg",
+      "publishedAt": "2019-08-26T11:00:00Z",
+      "content": "In February, an artificial intelligence lab cofounded by Elon Musk informed the world that its latest breakthrough was too risky to release to the public. OpenAI claimed it had made language software so fluent at generating text that it might be adapted to cr… [+4993 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Gregory Barber",
+      "title": "Lambda School's For-Profit Plan to Solve Student Debt",
+      "description": "The online institution offers a coding education in exchange for a share of post-graduation income. Does this tuition model benefit students—or investors?",
+      "url": "https://www.wired.com/story/how-we-learn-lambda-income-sharing-agreements/",
+      "urlToImage": "https://media.wired.com/photos/5d5d8acd5d2fd30009a0e8ba/191:100/pass/James-Yang-wired%20online%20college.jpg",
+      "publishedAt": "2019-08-26T11:00:00Z",
+      "content": "This story is part of a series on how we learnfrom augmented reality to music-training devices.\r\nEarly this summer, the tech entrepreneur Austen Allred was on Reddit, as he often is, when he noticed something suspicious. The coding forums he frequents, where … [+18293 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "WIRED Cartoons",
+      "title": "Today’s Cartoon: Sky-High Delivery Service",
+      "description": "Pickup, takeout, or drone?",
+      "url": "https://www.wired.com/story/wired-cartoons-week-2/",
+      "urlToImage": "https://media.wired.com/photos/5d604b6cf0b4760008c8968b/191:100/pass/20190826-ash-takeout.jpg",
+      "publishedAt": "2019-08-26T11:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Tom Simonite",
+      "title": "Ask the Know-It-Alls: How Do Machines Learn?",
+      "description": "Don’t get swept away by the hype: Machine learning doesn’t make computers anything like people. No matter how \\\"smart\\\" they get, they still need us.",
+      "url": "https://www.wired.com/story/how-we-learn-machine-learning-human-teachers/",
+      "urlToImage": "https://media.wired.com/photos/5d5d8c8dee69d100089ae0f9/191:100/pass/James-Yang-Wired%20AI%20learning.jpg",
+      "publishedAt": "2019-08-26T11:00:00Z",
+      "content": "This story is part of a series on how we learnfrom augmented reality to music-training devices.\r\nOur in-house Know-It-Alls answer questions about your interactions with science and technology.\r\nQ: How do machines learn?\r\nBy now you must have heard the good ne… [+4420 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Angela Watercutter",
+      "title": "This 8-Minute Galactic Primer Is the Future of AR Education",
+      "description": "Can augmented reality help children with reading skills? Boring math lessons? Chris Milk and the team at Within believes it can.",
+      "url": "https://www.wired.com/story/how-we-learn-augmented-reality-wonderscope/",
+      "urlToImage": "https://media.wired.com/photos/5d5d8d62895f71000883d318/191:100/pass/James-Yang-wired%20AR%20star.jpg",
+      "publishedAt": "2019-08-26T11:00:00Z",
+      "content": "This story is part of a series on how we learnfrom augmented reality to music-training devices.\r\nI swear I learned this once in school. Something about fusion and explosions. Yet for the life of me, aside from a few Lady Gaga musical montages, I can't remembe… [+9654 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Megan Molteni",
+      "title": "Brazil's Plans for Gene-Edited Cows Got Scrapped—Here's Why",
+      "description": "The country was going to start a herd of genetically dehorned cows. Then errors in the cows' DNA cropped up.",
+      "url": "https://www.wired.com/story/brazils-plans-for-gene-edited-cows-got-scrappedheres-why/",
+      "urlToImage": "https://media.wired.com/photos/5d60567da9558100099f37e7/191:100/pass/Science_crsipr_CF3A6236_FINAL.jpg",
+      "publishedAt": "2019-08-26T10:00:00Z",
+      "content": "Up until a few months ago, Brazil was all set to create the countrys first herd of genetically dehorned dairy cows. In October 2018, Brazilian regulators had determined that an American biotechnology companys efforts to produce such an animal didnt require an… [+4555 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Jess Grey",
+      "title": "Razer Blade Pro 17 Review: The Best Large Gaming Laptop",
+      "description": "Razer's latest 17-inch laptop offers desktop-grade gaming performance in a weighty but portable package.",
+      "url": "https://www.wired.com/review/razer-blade-pro-17-2019/",
+      "urlToImage": "https://media.wired.com/photos/5d5ec4d7a9558100099f379e/191:100/pass/Gear-Razer-blade-pro-17-source-razer-FATA.jpg",
+      "publishedAt": "2019-08-25T13:00:00Z",
+      "content": "Laptops usually come in one of two flavors: 13-inch for portability or 15-inch for horsepower. Simple. Easy-peasy. Occasionally though, a manufacturer makes a laptop outside of that binary. Sometimes they're itty-bitty 12-inch ultrabooks, designed to slip int… [+7080 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Graeme McMillan",
+      "title": "While You Were Offline: Who Wants to See Sean Spicer’s Samba?",
+      "description": "Not us, and not Tom Bergeron!",
+      "url": "https://www.wired.com/story/internet-week-234/",
+      "urlToImage": "https://media.wired.com/photos/5d604ec7f0b4760008c8968d/191:100/pass/Culture_spicer_683807150.jpg",
+      "publishedAt": "2019-08-25T13:00:00Z",
+      "content": "Its been a week where people got very upset about the prospect of Spider-Man not appearing in any more Marvel movies but slightly less so about the fires in the Amazon rainforest. Its also been a week where Taylor Swift put out a new album while announcing a … [+12047 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Aarian Marshall",
+      "title": "Bugatti's Centodieci, VW's Electric Dune Buggy, and More Cars News",
+      "description": "Plus, an inside look at Netflix’s crazy new car show and Ford’s plan to gather data from college scooter riders.",
+      "url": "https://www.wired.com/story/bugatti-centodieci-vw-ev-dune-buggy-roundup/",
+      "urlToImage": "https://media.wired.com/photos/5d602a8ba9558100099f37e1/191:100/pass/Transpo_Roundup_03_CD_SIDE.jpg",
+      "publishedAt": "2019-08-25T13:00:00Z",
+      "content": "Faster, pricier, sandier: This week was an exercise in seeing how far the people building and driving vehicles might go. We took close looks at the new Bugatti Centodieci, we climbed aboard the all-electric VW dune buggy, and we examined what it takes to buil… [+2074 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "David Nield",
+      "title": "How To Get the Most Out of Your Smartphone Battery",
+      "description": "If you treat your smartphone's battery right, you'll drive yourself a lot less crazy trying to find an outlet.",
+      "url": "https://www.wired.com/story/smartphone-battery-care-last-longer/",
+      "urlToImage": "https://media.wired.com/photos/5d6040c35b12750008de7b17/191:100/pass/Gear-Phone-Battery-686529968.jpg",
+      "publishedAt": "2019-08-25T11:00:00Z",
+      "content": "The battery is the most important component in your smartphone, because if the battery isn't working, nothing else can. With the right sort of care and attention, you can make sure your battery stays charged for longerand lasts longer overall, as well.\r\nThere… [+5443 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Shannon Stirone",
+      "title": "Space Photos of the Week: Hubbub Over Hubble",
+      "description": "You can’t beat space telescopes for an unencumbered view of the cosmos.",
+      "url": "https://www.wired.com/story/space-photos-hubbub-over-hubble/",
+      "urlToImage": "https://media.wired.com/photos/5d602d3ea261840008ba8b1a/191:100/pass/photo_space_hubble-5.jpg",
+      "publishedAt": "2019-08-24T14:00:00Z",
+      "content": "We are entering low earth orbit this week and spending time with the Hubble Space Telescope. Hubble was launched from the Discovery space shuttle in 1990, and has been operating and studying the cosmos ever since. It has helped determine the age of the univer… [+2806 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Geek's Guide To The Galaxy",
+      "title": "Nobody’s Watching the Best Giant-Monster Movies",
+      "description": "<em>Colossal</em>, <em>A Monster Calls</em>, and <em>I Kill Giants</em> are terrific sci-fi films with weird, big themes. They all failed to connect with audiences.",
+      "url": "https://www.wired.com/2019/08/geeks-guide-monster-movies/",
+      "urlToImage": "https://www.wired.com/wp-content/uploads/2019/08/Culture_Geeks_MCDMOCA_EC044-1200x630-e1566598623899.jpg",
+      "publishedAt": "2019-08-24T13:34:04Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Brian Barrett",
+      "title": "Cryptocurrency Mining Employees Expose Nuclear Plant to Internet",
+      "description": "Xbox eavesdropping, email scammers, and more of the week's top security news.",
+      "url": "https://www.wired.com/story/nuclear-plant-cryptomining-bec-scam-xbox-security-roundup/",
+      "urlToImage": "https://media.wired.com/photos/5d603e177e0b9a0008192b8e/191:100/pass/security_yuzhnoukrainsk-498680558.jpg",
+      "publishedAt": "2019-08-24T13:00:00Z",
+      "content": "While the cybersecurity world took a collective deep breath after the Black Hat and Defcon hacker conferences, there was still plenty of news to be had this week. After first announcing an iOS-compatible YubiKey in January, Yubico has finally released it. We … [+3400 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": null,
+      "title": "Nobody’s Watching the Best Giant-Monster Movies",
+      "description": "\"Colossal,\" \"A Monster Calls,\" and \"I Kill Giants\" are terrific sci-fi films with weird, big themes. They all failed to connect with audiences.",
+      "url": "https://www.wired.com/2019/08/geeks-guide-monster-movies",
+      "urlToImage": null,
+      "publishedAt": "2019-08-24T13:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Scott Gilbertson",
+      "title": "I Replaced My Oven With a Waffle Maker, and You Should Too",
+      "description": "Dust off that waffle iron and enter a world of cooking that goes way beyond breakfast.",
+      "url": "https://www.wired.com/story/waffle-maker-rants-and-raves/",
+      "urlToImage": "https://media.wired.com/photos/5d5f2ed75d2fd30009a0e8df/191:100/pass/National-Waffle-Day-124760837.jpg",
+      "publishedAt": "2019-08-24T12:00:00Z",
+      "content": "Everyone has a bizarre cooking shortcut they love, and its usually a device of some sort. It might be a mango peeler, a multi-edge brownie pan, or an all-in-one egg sandwich device. (Yup, that's a thing.) My guilty pleasure: the waffle maker.\r\nA waffle maker … [+5581 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Adrienne So",
+      "title": "REI Labor Day Sale: 26 Best Outdoor Deals for 2019",
+      "description": "REI's annual Labor Day Sale has kicked off early, with deals on foldable kayaks, cargo bikes, headlamps, socks, and more.",
+      "url": "https://www.wired.com/story/rei-labor-day-sale-outdoor-deals-2019/",
+      "urlToImage": "https://media.wired.com/photos/5d5ee1c0c054810008635999/191:100/pass/Yuba-Mundo-Lux.jpg",
+      "publishedAt": "2019-08-24T11:00:00Z",
+      "content": "For many newbies, the first outdoor gear store they set foot in will probably be an REI. One of WIRED's favorite retailers, the venerable customer collective has been around since 1938. Because its shareholders are members, it's able to prioritize environment… [+7543 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Eric Adams",
+      "title": "Honda's New Airbag Catches Your Head to Save Your Brain",
+      "description": "The automaker’s got a brand new bag, and it could reduce the chances of brain injury in some crashes by 75 percent.",
+      "url": "https://www.wired.com/story/honda-new-airbag-catches-your-head-to-save-your-brain/",
+      "urlToImage": "https://media.wired.com/photos/5d6056fc57fd1400096696ae/191:100/pass/Transpo_Honda_ERIC_ADAMS-DSC07842.jpg",
+      "publishedAt": "2019-08-24T11:00:00Z",
+      "content": "Since their explosive debut in the 1970s, airbags have saved tens of thousands of livesat least 50,000 in the United States aloneand their impact has only expanded with time. Today, they fire not just from the dashboard and steering wheel but from every conce… [+3941 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Sara Harrison",
+      "title": "Vaping May Have Killed Someone, Health Officials Say",
+      "description": "An investigation into respiratory illnesses connected to e-cigs by the Centers for Disease Control and Prevention turned up the first known death this week.",
+      "url": "https://www.wired.com/story/vaping-may-have-killed-someone/",
+      "urlToImage": "https://media.wired.com/photos/5d604b1b5006670008f3b705/191:100/pass/Science_ASAPWHO_1155241523.jpg",
+      "publishedAt": "2019-08-23T22:02:14Z",
+      "content": "Sometime between Wednesday and Friday, an Illinois resident died of an unknown respiratory illness that may have been the result of vaping. The death was one of nearly 200 cases of mysterious respiratory problems across 22 states whose only known link is the … [+4401 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Alex Baker-Whitcomb",
+      "title": "Why the Amazon’s On Fire, a Robocall Fight, and More News",
+      "description": "Catch up on the most important news from today in two minutes or less.",
+      "url": "https://www.wired.com/story/amazon-fires-cause-brazil-president-robocalls/",
+      "urlToImage": "https://media.wired.com/photos/5d60392ea261840008ba8b1c/191:100/pass/Science_TechinTwo_1125307699.jpg",
+      "publishedAt": "2019-08-23T20:55:48Z",
+      "content": "Humans are fueling the fire in the Amazon, a powerful group has assembled to fight robocalls, and we've got some ideas on how to keep your kids occupied while traveling. Here's the news you need to know, in two minutes or less.\r\nWant to receive this two-minut… [+1909 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Matt Simon",
+      "title": "Amazon Fires and the Horrifying Science of Deforestation",
+      "description": "At the core of Brazil's out-of-control fires in the Amazon is deforestation. Here's how human meddling fundamentally transforms a rainforest.",
+      "url": "https://www.wired.com/story/the-horrifying-science-of-the-deforestation-fueling-amazon-fires/",
+      "urlToImage": "https://media.wired.com/photos/5d6027925af21f000859fc13/191:100/pass/Science_AmazonASAP_1125307709.jpg",
+      "publishedAt": "2019-08-23T20:50:37Z",
+      "content": "Being a rainforest, the Amazon isnt supposed to burn out of control, unlike Californias drier landscape, which is built to burn, and burn explosively. Yet here we are, watching swaths of the Amazon go up in flames. And we can easily nail down the cause: human… [+4405 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Emma Grey Ellis",
+      "title": "Pepe the Frog Means Something Different in Hong Kong—Right?",
+      "description": "Pepe is popping up all over Hong Kong—on walls, in forums, in sticker packs for apps—as a symbol of resistance against an authoritarian state.",
+      "url": "https://www.wired.com/story/pepe-the-frog-meme-hong-kong/",
+      "urlToImage": "https://media.wired.com/photos/5d60252b7e0b9a0008192b86/191:100/pass/Culture_HK_1162663195.jpg",
+      "publishedAt": "2019-08-23T19:22:07Z",
+      "content": "If youre a Very Online American but not alt-right, finding a Pepe the Frog meme in a comment section feels like finding a KKK hood in the back of someones closet. Its objectively goofy-looking and the people associated with it have been banished by polite soc… [+2973 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Louise Matsakis",
+      "title": "Twitter Trust and Safety Advisers Say They’re Being Ignored",
+      "description": "Members of Twitter’s safety council say the company is keeping them in the dark and want to talk to CEO Jack Dorsey, in a letter obtained by WIRED.",
+      "url": "https://www.wired.com/story/twitter-trust-and-safety-council-letter/",
+      "urlToImage": "https://media.wired.com/photos/5d5f04562a81ba0008bd08d9/master/w_1280,c_limit/business_dorsey_1134474993.jpg",
+      "publishedAt": "2019-08-23T18:50:00Z",
+      "content": "When critics accuse social media platforms of ignoring problems like misinformation, hate speech, and harassment, the companies often defend themselves by touting their relationships with outside nonprofits and researchers. Facebook recently invited experts t… [+3483 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "CNE",
+      "title": "Jada Pinkett Smith Answers the Web's Most Searched Questions",
+      "description": "Angel Has Fallen star Jada Pinkett Smith takes the WIRED Autocomplete Interview and answers the internet's most searched questions about herself. \r\n\r\nAngel Has Fallen is in theaters everywhere August 23",
+      "url": "https://www.wired.com/video/watch/jada-pinkett-smith-answers-the-web-s-most-searched-questions",
+      "urlToImage": "http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_450,q_80,w_800/v1566578370/wired_jada-pinkett-smith-answers-the-web-s-most-searched-questions.jpg",
+      "publishedAt": "2019-08-23T16:49:00Z",
+      "content": "1 World Trade Center, New York, NY 10007 Tel (212) 286-2860\r\n© 2019 Condé Nast. All rights reserved.Use of and/or registration on any portion of this site constitutes acceptance ofour\r\n User Agreement\r\n (updated 5/25/18)\r\nand\r\nPrivacy Policy\r\n (updated 5/25/1… [+253 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "David Vladeck",
+      "title": "The Consumer Bureau's Reckless Plan for Debt Collection",
+      "description": "Opinion: A CFPB proposal would create a quandary for consumers. Click and risk a computer virus, or don't click and miss a debt payment.",
+      "url": "https://www.wired.com/story/the-consumer-bureaus-reckless-plan-for-debt-collection/",
+      "urlToImage": "https://media.wired.com/photos/5d5f21015b12750008de7b0f/191:100/pass/oped%20cfpb%20vulnerability%20v2.jpg",
+      "publishedAt": "2019-08-23T13:00:00Z",
+      "content": "We learn in email 101 that hyperlinks from unfamiliar senders are breeding grounds for scams. Microsoft has warned against clicking on foreign links for decades. The Federal Trade Commission (FTC) has repeatedly cautioned Americans to be wary of malware and p… [+5090 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Julie Muncy",
+      "title": "Sony Buys Studio Behind Its Awesome *Spider-Man* Game",
+      "description": "The move furthers a trend of hardware manufacturers consolidating their brands by adding studios to their stable of first-party creators.",
+      "url": "https://www.wired.com/story/sony-buys-insomniac-games/",
+      "urlToImage": "https://media.wired.com/photos/5d5f08f42a81ba0008bd08db/master/w_1280,c_limit/Culture_Spider-Man_PS4_PGW_Hero.jpg",
+      "publishedAt": "2019-08-23T13:00:00Z",
+      "content": "Welcome to Replay, where we endeavor to recap all the most important videogame news of the week in just a couple of minutes! This week was Gamescom, one of the year's biggest videogame conferenceswhich means, naturally, a ton of news dropped. Here, let's cut … [+3257 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "WIRED Staff",
+      "title": "Gadget Lab Podcast: You’ve Got Microplastics",
+      "description": "WIRED’s Matt Simon joins the show to talk about microplastics—what they are, why they’re a nightmare, and whether you should fret about eating them.",
+      "url": "https://www.wired.com/story/gadget-lab-podcast-419/",
+      "urlToImage": "https://media.wired.com/photos/5a99b6b03ea6d47cc8933f33/191:100/pass/FEATURED-WIRED-Gear-logo.jpg",
+      "publishedAt": "2019-08-23T12:00:00Z",
+      "content": "Plastic is everywhere. No, really, it is everywhere. Tiny bits of plastic waste, called microplastic, have come to permeate nearly every part of the planet. We drink it in our water. We breathe it in the air. It is inescapable. On this episode of the Gadget L… [+1758 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Adrienne So",
+      "title": "Best Travel Gear for Babies and Kids (Flights, Car Rides)",
+      "description": "Hitting the road with babies, toddlers, or young kids is no picnic—even if food is involved. These accessories should help.",
+      "url": "https://www.wired.com/gallery/best-travel-gear-for-kids/",
+      "urlToImage": null,
+      "publishedAt": "2019-08-23T12:00:00Z",
+      "content": "Parenting involves more than a little magical thinking. If I go anywhere that parents gather, sooner or later a desperate mom or dad will ask me for the one thing that will make it easier to travel with a baby or small children. I can't make a 4-year-old aver… [+488 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Andy Greenberg",
+      "title": "What Is Cyberwar? The Complete WIRED Guide",
+      "description": "The threat of cyberwar looms over the future: a new dimension of conflict capable of leapfrogging borders and teleporting the chaos of war to civilians thousands of miles beyond its front.",
+      "url": "https://www.wired.com/story/cyberwar-guide/",
+      "urlToImage": "https://media.wired.com/photos/5d487c59d0bcbf00081d8717/191:100/pass/WIRED_Cyberwar_1080p.jpg",
+      "publishedAt": "2019-08-23T11:00:00Z",
+      "content": "Not so long ago, stories about cyberwar started with scary hypotheticals: What if state-sponsored hackers were to launch widespread attacks that blacked out entire cities? Crippled banks and froze ATMs across a country? Shut down shipping firms, oil refinerie… [+28200 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Emma Grey Ellis",
+      "title": "You Are Already Having Sex With Robots",
+      "description": "Sex robots are here, and their AI-enabled pseudosexuality isn’t long behind.",
+      "url": "https://www.wired.com/story/you-are-already-having-sex-with-robots/",
+      "urlToImage": "https://media.wired.com/photos/5d5f26fdee69d100089ae11b/191:100/pass/Culture_realbotixdoll_h_14688785.jpg",
+      "publishedAt": "2019-08-23T11:00:00Z",
+      "content": "Henry the sex robot is the mind of a woman trapped in the body of a man. When you talk to Henry, youre really talking to an artificial intelligence database Realbotix developed for its female predecessor, Harmony. To masculinize Henry, Realbotix founder and C… [+13690 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Robbie Gonzalez",
+      "title": "Why the NFL's Field Goal Record Is Waiting to Be Smashed",
+      "description": "Players, coaches, and scientists alike say that the current record of 64 yards is well shy of what humans are capable of kicking.",
+      "url": "https://www.wired.com/story/why-the-nfls-field-goal-record-is-waiting-to-be-smashed/",
+      "urlToImage": "https://media.wired.com/photos/5d5ddb762a81ba0008bd08c9/master/w_1280,c_limit/AI-FIELD-GOAL-FINAL-CUT-V1.00_05_35_12.Still004.jpg",
+      "publishedAt": "2019-08-22T22:44:39Z",
+      "content": "A northeasterly breeze blows across the football field at the University of Wisconsin-Whitewater. To me the wind provides some glorious relief: It's the middle of the day in the middle of July, and a heatwave has just descended on the region. But to Harrison … [+3593 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Lily Hay Newman",
+      "title": "The Fight Against Robocalls Gets Powerful New Allies",
+      "description": "All the state attorneys general, along with 12 major companies, promise to finally make serious moves against robocalls.",
+      "url": "https://www.wired.com/story/attorneys-general-robocalls-telecoms/",
+      "urlToImage": "https://media.wired.com/photos/5d5f18d55d2fd30009a0e8dd/191:100/pass/Security-Robocall-154769347.jpg",
+      "publishedAt": "2019-08-22T22:43:29Z",
+      "content": "The bitter fight against robocalls has raged for years, but today it gets a boost from significant players: attorneys general from all 50 US states and the District of Columbia, working in concert with a dozen major telecoms, including AT&amp;T, T-Mobile, Ver… [+4743 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Alex Baker-whitcomb",
+      "title": "A Tugboat in Space, Microplastics In Your Water, and More News",
+      "description": "A Tugboat in Space, Microplastics In Your Water, and More News wired.com",
+      "url": "https://www.wired.com/story/space-tug-microplastic-pollution/",
+      "urlToImage": "https://media.wired.com/photos/5d5efec5ee69d100089ae112/191:100/pass/Science_techintwo_momentus-fervoride.jpg",
+      "publishedAt": "2019-08-22T22:12:59Z",
+      "content": "Space tug boats could soon be a thing, you've been drinking and inhaling microplastics, and public library computers are under attack. Here's the news you need to know, in two minutes or less.\r\nWant to receive this two-minute roundup as an email every weekday… [+1716 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Eric Niiler",
+      "title": "Humans, More Than Drought, Are Fueling the Amazon's Flames",
+      "description": "Economic activity appears to be causing the rainforest to burn, unlike the other epic fires ravaging the world.",
+      "url": "https://www.wired.com/story/humans-more-than-drought-are-fueling-the-amazons-flames/",
+      "urlToImage": "https://media.wired.com/photos/5d5ed225ee69d100089ae10d/191:100/pass/Science_AmazonFire_RTS2NEBX.jpg",
+      "publishedAt": "2019-08-22T21:02:39Z",
+      "content": "From his office in Greenbelt, Maryland, Doug Morton can see the Amazon burning.\r\nHe watches images from NASA satellites that circle the tropics four times a day, their cameras pointed at the trees below to produce images from visible light, infrared, and ther… [+4927 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Jason Parham",
+      "title": "Depth of Field: The Movie Poster Brexit Deserves",
+      "description": "John MacDougall’s portrait-style capture of German chancellor Angela Merkel and UK Prime Minister Boris Johnson suggests the allure of a spy thriller.",
+      "url": "https://www.wired.com/story/brexit-talks-merkel-johnson/",
+      "urlToImage": "https://media.wired.com/photos/5d5daf4c57fd140009669654/191:100/pass/Culture_DOF-1163058803.jpg",
+      "publishedAt": "2019-08-22T20:24:13Z",
+      "content": "Photographs, Susan Sontag once famously wrote, fiddle with the scale of the world. They tell us only a distortion. They are incomplete, even as they strive to render the frame whole and exact. That does not make them false. Exactly the opposite. Photographs i… [+2914 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Peter Rubin",
+      "title": "Spider-Man Swings Back to Sony—Unraveling the Universe",
+      "description": "It's not about what's good for Spider-Man. It's about the fate of comic-book movies—which might be doomed.",
+      "url": "https://www.wired.com/story/spider-man-sony-disney-future-of-comic-book-movies/",
+      "urlToImage": "https://media.wired.com/photos/5d5e005fc054810008635995/master/w_1280,c_limit/Culture_SpiderMan_DF-07090_rv2.jpg",
+      "publishedAt": "2019-08-22T19:06:48Z",
+      "content": "If you thought superhero movie titles were getting too long, try fitting Into the Contract-Verse: The Curious Case of Spider-Man and the Film Rights Impasse on a theater marquee. After months of negotiations between Sony Pictures and Disney, it appears that S… [+3716 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Ryan Loughlin",
+      "title": "Why It's Almost Impossible to Kick a 90 Yard Field Goal",
+      "description": "The world record for a N.F.L. game field goal is 64 yards. But place kickers have sent the ball far further in practice. Is a 90 yard kick possible? To find out, WIRED's Robbie Gonzalez explores the physics of long kicks and gets a lesson from pro kicker Harr…",
+      "url": "https://www.wired.com/video/watch/almost-impossible-why-it-s-almost-impossible-to-kick-a-90-yard-field-goal",
+      "urlToImage": "http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_450,q_80,w_800/v1566442683/wired_almost-impossible-why-it-s-almost-impossible-to-kick-a-90-yard-field-goal.jpg",
+      "publishedAt": "2019-08-22T18:35:00Z",
+      "content": "1 World Trade Center, New York, NY 10007 Tel (212) 286-2860\r\n© 2019 Condé Nast. All rights reserved.Use of and/or registration on any portion of this site constitutes acceptance ofour\r\n User Agreement\r\n (updated 5/25/18)\r\nand\r\nPrivacy Policy\r\n (updated 5/25/1… [+253 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Ryan Loughlin",
+      "title": "Why It's Almost Impossible to Kick a 90 Yard Field Goal",
+      "description": "The world record for a N.F.L. game field goal is 64 yards. But place kickers have sent the ball far further in practice. Is a 90 yard kick possible? To find out, WIRED's Robbie Gonzalez explores the physics of long kicks and gets a lesson from pro kicker Harr…",
+      "url": "http://video.wired.com/watch/almost-impossible-why-it-s-almost-impossible-to-kick-a-90-yard-field-goal",
+      "urlToImage": "http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_450,q_80,w_800/v1566442683/wired_almost-impossible-why-it-s-almost-impossible-to-kick-a-90-yard-field-goal.jpg",
+      "publishedAt": "2019-08-22T18:35:00Z",
+      "content": "1 World Trade Center, New York, NY 10007 Tel (212) 286-2860\r\n© 2019 Condé Nast. All rights reserved.Use of and/or registration on any portion of this site constitutes acceptance ofour\r\n User Agreement\r\n (updated 5/25/18)\r\nand\r\nPrivacy Policy\r\n (updated 5/25/1… [+253 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Kam Burns",
+      "title": "Queering Comics and Cosplay at Flame Con",
+      "description": "Justin J Wee’s portraits highlight what it means to be queer and seen in the comics community.",
+      "url": "https://www.wired.com/story/queering-comics-cosplay-flame-con/",
+      "urlToImage": "https://media.wired.com/photos/5d5b3bd6c05481000863596f/191:100/pass/Photo-FlameCon-16.jpg",
+      "publishedAt": "2019-08-22T14:00:00Z",
+      "content": "The scene was organized chaos. Rows upon rows of artists displaying their latest work, engrossed in conversation with fans. Panels of podcasters and performers. So much cosplay. It was pretty much what youd expect to see at a comic conventionbut a whole lot g… [+2498 chars]"
+    }
+  ]
+}

@@ -1,0 +1,1306 @@
+{
+  "status": "ok",
+  "totalResults": 841,
+  "articles": [
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Name gehört sich nicht: Entwickler forkt GIMP zu Glimpse",
+      "description": "Nach 24 Jahren GIMP forkt ein Entwicklerteam um Oracle-Mitarbeiter Barry Moss das Projekt, um es unter dem Namen Glimpse fortzuentwickeln. Der alte Name ist ihnen zu unangenehm. Das Open-Source-Projekt GIMP ist eines der Urgesteine in der Entwicklung freier S…",
+      "url": "https://t3n.de/news/glimpse-entwickler-forkt-gimp-1193328/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/gimp-ui.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-30T19:11:49Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Depp, Trottel, Krüppel: Entwickler forkt GIMP, weil er den Namen für untragbar hält",
+      "description": "Nach 24 Jahren GIMP forkt ein Entwicklerteam um Oracle-Mitarbeiter Barry Moss das Projekt, um es unter dem Namen Glimpse fortzuentwickeln. Der alte Name ist ihnen zu unangenehm. Das Open-Source-Projekt GIMP ist eines der Urgesteine in der Entwicklung freier S…",
+      "url": "https://t3n.de/news/depp-trottel-krueppel-forkt-1193328/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/gimp-ui.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-30T19:11:49Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Jochen G. Fuchs",
+      "title": "Le Tote kauft Lord & Taylor: Wieso Pureplayer Kaufhäuser retten",
+      "description": "Le Tote, ein Fashion-Startup kauft die milliardenschwere Kaufhauskette Lord & Taylor. Wieso der Deal nicht nur passt, sondern zukunftsweisend ist. Le Tote kauft Lord & Taylor, das ist in etwa so als würde ein kleiner, gut laufender Fashion-Onlineshop H&M kauf…",
+      "url": "https://t3n.de/news/le-tote-kauft-lord-taylor-1193158/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/le-tote-lord-taylor-kaufhaus-1-shutterstock-1338705848-e1567178353106.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-30T16:24:19Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Andreas Floemer",
+      "title": "iPhone 11 Pro und 11 Pro Max: So sehen sie aus, das steckt wohl drin",
+      "description": "Anfang September ist wieder iPhone-Zeit: Der Konzern wird am 10. September eine neue Smartphone-Generation präsentieren. Was vom iPhone 11 ( wohl mit Pro-Zusatz) und 11 Max zu erwarten ist. Es deutet sich an, dass Apples 2019er iPhone-Lineup dem letztjährigen…",
+      "url": "https://t3n.de/news/apple-iphone-11-pro-11-pro-max-geruechte-ausstattung-release-1184254/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/iPhone-11-Mockups.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-30T16:01:57Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Bitkom-Umfrage: Sollte die Entwicklung von Flugtaxis politisch gefördert werden?",
+      "description": "Besonders jüngere Menschen wünschen sich eine Vorreiterrolle Deutschlands bei der Entwicklung von Flugtaxis und plädieren für mehr politische Unterstützung. Das ist das Ergebnis einer repräsentativen Umfrage des Bitkom. Mit einem autonomen Fluggerät aus der I…",
+      "url": "https://t3n.de/news/bitkom-umfrage-sollte-flugtaxis-1193260/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2017/04/lilium-lufttaxi-1.jpeg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-30T14:57:02Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Bitkom-Umfrage: Deutsche sehen in Flugtaxis Chance für die Wirtschaft",
+      "description": "Besonders jüngere Menschen wünschen sich eine Vorreiterrolle Deutschlands bei der Entwicklung von Flugtaxis und plädieren für mehr politische Unterstützung. Das ist das Ergebnis einer repräsentativen Umfrage des Bitkom. Mit einem autonomen Fluggerät aus der I…",
+      "url": "https://t3n.de/news/bitkom-vorreiterrolle-flugtaxis-1193260/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2017/04/lilium-lufttaxi-1.jpeg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-30T14:57:02Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Kathrin Stoll",
+      "title": "Express-Alternative: JavaScript-Framework Feathers in Version 4 erschienen",
+      "description": "Ihr braucht nicht noch ein JavaScript-Framework? Doch! Feathers ist Open Source und ein bisschen anders als die anderen. Seit dieser Woche ist Version 4 öffentlich verfügbar – ein Anlass, sich den Underdog mit den Vogelarten im Versionsnamen genauer anzuschau…",
+      "url": "https://t3n.de/news/express-alternative-feathers-4-1193192/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/Kraehe-feathersv4.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-30T14:23:12Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Kathrin Stoll",
+      "title": "Feathers 4: Das bringt das Update des JavaScript-Frameworks",
+      "description": "Ihr braucht nicht noch ein JavaScript-Framework? Doch! Feathers ist Open Source und ein bisschen anders als die anderen. Seit dieser Woche ist Version 4 öffentlich verfügbar – ein Anlass, sich den Underdog mit den Vogelarten im Versionsnamen genauer anzuschau…",
+      "url": "https://t3n.de/news/feathers-4-update-1193192/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/Kraehe-feathersv4.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-30T14:23:12Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Windows 10: Microsoft zeigt neuen Tablet-Mode für Convertibles",
+      "description": "Mit dem Build 18970 der Windows 10 Insider Preview Build (20H1) hat Microsoft einen neuen Tablet-Mode eingeführt, der sich radikal vom bisherigen Modus unterscheidet. Registrierten Beta-Testern der für das erste Halbjahr 2020 zu erwartenden neuen Windows-Vers…",
+      "url": "https://t3n.de/news/windows-10-neuer-tablet-mode-1193154/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2017/09/windows-10-fall-creators-update-3.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-30T12:19:47Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Windows 10 soll neuen Tablet-Mode bekommen",
+      "description": "Mit dem Build 18970 der Windows 10 Insider Preview Build (20H1) hat Microsoft einen neuen Tablet-Mode eingeführt, der sich radikal vom bisherigen Modus unterscheidet. Registrierten Beta-Testern der für das erste Halbjahr 2020 zu erwartenden neuen Windows-Vers…",
+      "url": "https://t3n.de/news/windows-10-neuen-tablet-mode-1193154/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2017/09/windows-10-fall-creators-update-3.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-30T12:19:47Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Windows 10: Microsoft zeigt neuen Tablet-Mode für Convertibles",
+      "description": "Mit dem Build 18970 der Windows 10 Insider Preview Build (20H1) hat Microsoft einen neuen Tablet-Mode eingeführt, der sich radikal vom bisherigen Modus unterscheidet. Registrierten Beta-Testern der für das erste Halbjahr 2020 zu erwartenden neuen Windows-Vers…",
+      "url": "https://t3n.de/news/windows-10-microsoft-zeigt-neuen-1193154/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2017/09/windows-10-fall-creators-update-3.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-30T12:19:47Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "t3n Redaktion",
+      "title": "Zukunft Personal Europe gibt Impulse für das Arbeiten in der digitalen Zukunft",
+      "description": "Aktuelle Megatrends der Arbeitswelt in einer 360-Grad-Perspektive erleben: Die Zukunft Personal Europe vom 17. bis 19. September 2019 in Köln macht’s möglich! Angekündigt sind zum 20. Jubiläum des HR-ExpoEvents mehr als 770 Aussteller, eine spannende Agenda m…",
+      "url": "https://t3n.de/news/zukunft-personal-europe-1187390/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/t3n-Teaserbild-Zukunft-Personal-Europe-2018.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-30T11:30:47Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "t3n Redaktion",
+      "title": "Sexuelle Übergriffe im Job: „Wenn niemand redet, ändert sich nichts“",
+      "description": "Vor knapp zwei Jahren startete die #metoo-Bewegung. Was hat sich seither getan in der deutschen Wirtschaft? Und wie können sich Frauen – aber auch Männer vor sexueller Belästigung schützen? Eine anzügliche Bemerkung, eine unerwünschte Berührung: Viele Frauen,…",
+      "url": "https://t3n.de/news/sexuelle-uebergriffe-job-niemand-1193093/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2016/11/shutterstock-387274792.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-30T11:24:09Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Patrick Büttgen",
+      "title": "Netflix zeigt dreiteilige Dokumentation über Bill Gates",
+      "description": "Netflix zeigt ab dem 20. September die dreiteilige Dokumentation „Der Mensch Bill Gates“. Sie thematisiert Gates’ Vergangenheit, seine Arbeitsweise und sein soziales Engagement. Der Streamingdienst Netflix hat für den 20. September eine dreiteilige Netflix Or…",
+      "url": "https://t3n.de/news/netflix-mensch-bill-gates-doku-1193085/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2016/07/bill-gates-pokemon-go.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-30T10:23:04Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Patrick Büttgen",
+      "title": "Netflix veröffentlicht Trailer zur dreiteiligen Doku über Bill Gates",
+      "description": "Netflix zeigt ab dem 20. September die dreiteilige Dokumentation „Der Mensch Bill Gates“. Sie thematisiert Gates’ Vergangenheit, seine Arbeitsweise und sein soziales Engagement. Der Streamingdienst Netflix hat für den 20. September eine dreiteilige Netflix Or…",
+      "url": "https://t3n.de/news/netflix-veroeffentlicht-trailer-1193085/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2016/07/bill-gates-pokemon-go.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-30T10:23:04Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Patrick Büttgen",
+      "title": "Netflix zeigt dreiteilige Dokumentation über Bill Gates",
+      "description": "Netflix zeigt ab dem 20. September die dreiteilige Dokumentation „Der Mensch Bill Gates“. Sie thematisiert Gates’ Vergangenheit, seine Arbeitsweise und sein soziales Engagement. Der Streamingdienst Netflix hat für den 20. September eine dreiteilige Netflix Or…",
+      "url": "https://t3n.de/news/netflix-zeigt-dreiteilige-ueber-1193085/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2016/07/bill-gates-pokemon-go.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-30T10:23:04Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "t3n Redaktion",
+      "title": "Ifa will Umsatzflaute in der Unterhaltungselektronik trotzen",
+      "description": "Mit einer Fülle von Innovationen lockt die Ifa wieder auf das Messegelände in Berlin. Die Branche erhofft sich vor allem Schwung für das Weihnachtsgeschäft. Denn sinkende Konjunkturerwartungen drücken auch auf das Geschäft der Unterhaltungselektronik. Die Tec…",
+      "url": "https://t3n.de/news/ifa-umsatzflaute-trotzen-1193080/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2018/08/ifa-smartspeaker.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-30T10:04:44Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "t3n Redaktion",
+      "title": "Das erwartet Besucher auf der Ifa 2019",
+      "description": "Mit einer Fülle von Innovationen lockt die Ifa wieder auf das Messegelände in Berlin. Die Branche erhofft sich vor allem Schwung für das Weihnachtsgeschäft. Denn sinkende Konjunkturerwartungen drücken auch auf das Geschäft der Unterhaltungselektronik. Die Tec…",
+      "url": "https://t3n.de/news/erwartet-besucher-ifa-2019-1193080/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2018/08/ifa-smartspeaker.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-30T10:04:44Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Intels Comet Lake und AMDs Picasso finden den Weg in Consumer-Notebooks",
+      "description": "Lenovo stellt seine neuen Notebooks für den privaten Anwender vor. Dabei liefert das Unternehmen nicht nur Prozessoren der neuesten Generation, sondern bleibt auch dem Chromebook-Segment treu. Lenovo Ideapad S540: Design-Notebook mit Apple-Reminiszenzen Das L…",
+      "url": "https://t3n.de/news/intel-comet-lake-amd-picasso-notebooks-1193047/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/lenovo-notebooks-ideapad-teaser.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-30T09:27:36Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Lenovo verbaut schnelle Prozessoren auch in günstigeren Consumer-Notebooks",
+      "description": "Lenovo stellt seine neuen Notebooks für den privaten Anwender vor. Dabei liefert das Unternehmen nicht nur Prozessoren der neuesten Generation, sondern bleibt auch dem Chromebook-Segment treu. Lenovo Ideapad S540: Design-Notebook mit Apple-Reminiszenzen Das L…",
+      "url": "https://t3n.de/news/lenovo-verbaut-schnelle-1193047/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/lenovo-notebooks-ideapad-teaser.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-30T09:27:36Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Lenovo stellt neue Ideapads mit aktuellen Intel- und AMD-Prozessoren vor",
+      "description": "Lenovo stellt seine neuen Notebooks für den privaten Anwender vor. Dabei liefert das Unternehmen nicht nur Prozessoren der neuesten Generation, sondern bleibt auch dem Chromebook-Segment treu. Lenovo Ideapad S540: Design-Notebook mit Apple-Reminiszenzen Das L…",
+      "url": "https://t3n.de/news/lenovo-stellt-neue-ideapads-1193047/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/lenovo-notebooks-ideapad-teaser.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-30T09:27:36Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Jochen G. Fuchs",
+      "title": "Sold by Amazon: Was bringt das Händlerprogramm mit Mindestmargen?",
+      "description": "Amazon versucht sich mit Sold by Amazon an einem Programm, das Preissenkungen ermöglicht – und dabei Händlermargen schützt. Ob das gelingt? Sold by Amazon (SBA) heißt das neue Programm, das Amazon für seine Marktplatzhändler eingeführt hat. Für Produkte, die …",
+      "url": "https://t3n.de/news/sold-by-amazon-neues-haendlerprogramm-sba-1192407/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/02/amazon-paket.png?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-30T08:15:29Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Clara Herdeanu",
+      "title": "Gutes Storytelling in der PR: Wie finde ich Geschichten, die Journalisten interessant finden?",
+      "description": "Am Lagerfeuer, bei Kaffee im Büro oder in der PR – Menschen leben in Geschichten. Da gute Geschichten Aufmerksamkeit wecken, ist strategisches Storytelling für Unternehmen in der Pressearbeit ein Muss. Wenn ihr PR betreibt, wollt ihr Aufmerksamkeit für euer U…",
+      "url": "https://t3n.de/news/gutes-storytelling-pr-finde-1191950/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/Storytelling-Geschichte-PR-Shutterstock.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-30T07:02:58Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Alexandra Vollmer",
+      "title": "Darauf solltest du achten, wenn du befördert wirst",
+      "description": "Damit es mit der Karriere klappt, musst du zuallererst wissen, was du selbst willst und kannst. Denn nicht jede Beförderung ist automatisch gut für dich. Worauf du achten solltest. „Wenn ich befördert werde, muss ich ja alle Fachthemen meiner Abteilung beherr…",
+      "url": "https://t3n.de/news/befoerderung-richtig-1192307/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/fizkes-aufmacher-befoerderung.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-30T05:51:46Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Ideacentre A540: Lenovos iMac-Konkurrent kann kabellos Smartphones laden",
+      "description": "Lenovo hat sein Ifa-Lineup an Geräten für den privaten Nutzer vorgestellt. Der All-in-One-Rechner A540 mit Qi-Ladestation fällt besonders ins Auge. Die Ifa 2019 steht ins Haus und Lenovo hat offenbar entschieden, sich nicht darauf zu verlassen, während der Me…",
+      "url": "https://t3n.de/news/ideacentre-a540-lenovo-1192901/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/lenovo-ideacentre-a540-teaser.png?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T17:17:59Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Ideacentre A540: Lenovos iMac-Konkurrent kann kabellos Smartphones laden",
+      "description": "Lenovo hat sein Ifa-Lineup an Geräten für den privaten Nutzer vorgestellt. Der All-in-One-Rechner A540 mit Qi-Ladestation fällt besonders ins Auge. Die Ifa 2019 steht ins Haus und Lenovo hat offenbar entschieden, sich nicht darauf zu verlassen, während der Me…",
+      "url": "https://t3n.de/news/ideacentre-a540-lenovos-kabellos-1192901/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/lenovo-ideacentre-a540-teaser.png?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T17:17:59Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Lenovos neuer All-in-One-Computer Ideacentre A540 vereint ungewöhnliche Optik mit ungewöhnlicher Funktionalität",
+      "description": "Lenovo hat sein Ifa-Lineup an Geräten für den privaten Nutzer vorgestellt. Der All-in-One-Rechner A540 mit Qi-Ladestation fällt besonders ins Auge. Die Ifa 2019 steht ins Haus und Lenovo hat offenbar entschieden, sich nicht darauf zu verlassen, während der Me…",
+      "url": "https://t3n.de/news/lenovos-neuer-all-in-one-computer-1192901/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/lenovo-ideacentre-a540-teaser.png?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T17:17:59Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Lenovo Ideacentre A540: Der All-in-One-Rechner ist gleichzeitig eine kabellose Ladestation für Smartphones",
+      "description": "Lenovo hat sein Ifa-Lineup an Geräten für den privaten Nutzer vorgestellt. Der All-in-One-Rechner A540 mit Qi-Ladestation fällt besonders ins Auge. Die Ifa 2019 steht ins Haus und Lenovo hat offenbar entschieden, sich nicht darauf zu verlassen, während der Me…",
+      "url": "https://t3n.de/news/lenovo-ideacentre-a540-kabellose-1192901/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/lenovo-ideacentre-a540-teaser.png?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T17:17:59Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Lenovos neuer All-in-One-Rechner lädt Smartphones kabellos",
+      "description": "Lenovo hat sein Ifa-Lineup an Geräten für den privaten Nutzer vorgestellt. Der All-in-One-Rechner A540 mit Qi-Ladestation fällt besonders ins Auge. Die Ifa 2019 steht ins Haus und Lenovo hat offenbar entschieden, sich nicht darauf zu verlassen, während der Me…",
+      "url": "https://t3n.de/news/lenovos-neuer-all-in-one-rechner-1192901/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/lenovo-ideacentre-a540-teaser.png?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T17:17:59Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Andreas Floemer",
+      "title": "iPhone 11 Pro kommt: Apple lädt zum Event am 10. September",
+      "description": "Der Termin steht: Das iPhone 11 Pro (Max) wird am 10. September vorgestellt. Apple hat am Donnerstag Einladungen zum Special-Event verschickt. Seit Wochen kursiert der 10. September schon als Termin für das iPhone-Event. Jetzt hat Apple den Termin offiziell b…",
+      "url": "https://t3n.de/news/iphone-11-pro-apple-event-10-september-1192039/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/apple-event-september-2019-hero-1.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T16:25:14Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Andreas Floemer",
+      "title": "iPhone 11 Pro kommt: Apple lädt zum Event am 10. September 2019",
+      "description": "Der Termin steht: Das iPhone 11 Pro (Max) wird am 10. September vorgestellt. Apple hat am Donnerstag Einladungen zum Special-Event verschickt. Seit Wochen kursiert der 10. September schon als Termin für das iPhone-Event. Jetzt hat Apple den Termin offiziell b…",
+      "url": "https://t3n.de/news/iphone-11-pro-kommt-apple-laedt-1192039/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/apple-event-september-2019-hero.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T16:25:14Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Andreas Floemer",
+      "title": "Apple-Event: Das iPhone 11 kommt am 10. September",
+      "description": "Der Termin steht: Das iPhone 11 Pro (Max) wird am 10. September vorgestellt. Apple hat am Donnerstag Einladungen zum Special-Event verschickt. Seit Wochen kursiert der 10. September schon als Termin für das iPhone-Event. Jetzt hat Apple den Termin offiziell b…",
+      "url": "https://t3n.de/news/apple-event-iphone-11-10-1192039/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/apple-event-september-2019-hero.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T16:25:14Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Andreas Floemer",
+      "title": "iPhone 11 Pro kommt: Apple lädt zum Event am 10. September 2019",
+      "description": "Der Termin steht: Das iPhone 11 Pro (Max) wird am 10. September vorgestellt. Apple hat am Donnerstag Einladungen zum Special-Event verschickt. Seit Wochen kursiert der 10. September schon als Termin für das iPhone-Event. Jetzt hat Apple den Termin offiziell b…",
+      "url": "https://t3n.de/news/iphone-11-pro-kommt-apple-laedt-zum-event-1192039/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/apple-event-september-2019-hero.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T16:25:14Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Tab M-Serie: Lenovo bietet echte Familien-Tablets",
+      "description": "Lenovo hat kurz vor der Ifa 2019 zwei neue Android-Tablets vorgestellt, die sehr preisgünstig sind und nicht nur deshalb in Familien mit Kindern ihre Zielgruppe finden könnten. Die neuen Android-Tablets mit den Bezeichnungen M7 und M8 fokussieren sich auf Ent…",
+      "url": "https://t3n.de/news/tab-m-serie-lenovo-bietet-echte-1192876/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/lenovo-tab-m-teaser.png?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T16:10:13Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Tab M: Lenovo präsentiert neue Tablets für Familien",
+      "description": "Lenovo hat kurz vor der Ifa 2019 zwei neue Android-Tablets vorgestellt, die sehr preisgünstig sind und nicht nur deshalb in Familien mit Kindern ihre Zielgruppe finden könnten. Die neuen Android-Tablets mit den Bezeichnungen M7 und M8 fokussieren sich auf Ent…",
+      "url": "https://t3n.de/news/tab-m-lenovo-tablet-ifa-2019-1192876/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/lenovo-tab-m-teaser.png?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T16:10:13Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Tab M: Lenovo präsentiert neue Tablets für Familien",
+      "description": "Lenovo hat kurz vor der Ifa 2019 zwei neue Android-Tablets vorgestellt, die sehr preisgünstig sind und nicht nur deshalb in Familien mit Kindern ihre Zielgruppe finden könnten. Die neuen Android-Tablets mit den Bezeichnungen M7 und M8 fokussieren sich auf Ent…",
+      "url": "https://t3n.de/news/tab-m-lenovo-praesentiert-neue-1192876/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/lenovo-tab-m-teaser.png?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T16:10:13Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Lenovo Tab M: Einsteiger-Tablets für wenig Geld",
+      "description": "Lenovo hat kurz vor der Ifa 2019 zwei neue Android-Tablets vorgestellt, die sehr preisgünstig sind und nicht nur deshalb in Familien mit Kindern ihre Zielgruppe finden könnten. Die neuen Android-Tablets mit den Bezeichnungen M7 und M8 fokussieren sich auf Ent…",
+      "url": "https://t3n.de/news/lenovo-tab-m-einsteiger-tablets-1192876/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/lenovo-tab-m-teaser.png?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T16:10:13Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Andreas Floemer",
+      "title": "iOS 13 und iPadOS: Auf diese Features können wir uns freuen",
+      "description": "Mit iOS 13 wird Apple im September das nächste große Update seines mobilen Betriebssystems auf viele iPhones bringen. Wir haben für euch eine Übersicht der wohl spannendsten Funktionen gesammelt, die ihr schon in der Public Beta testen könnt. iOS 13 für iPhon…",
+      "url": "https://t3n.de/news/ios-13-ipados-spannende-neue-features-1172615/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/06/apple-ios-13-update.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T15:04:01Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Jochen G. Fuchs",
+      "title": "Emmas Enkel: Real startet Alternative zu Amazon Go",
+      "description": "Ein autonomer Mini-Supermarkt mit Self-Service, mobilem Shopping – und einer menschlichen Noten. Der Überblick über das Konzept. Real startet gerade ein neues, kleines Ladenkonzept unter dem Namen „Emmas Enkel“. Am Rosenbergplatz in Stuttgart ist mit 45 Quadr…",
+      "url": "https://t3n.de/news/real-startet-emmas-enkel-autonomer-supermarkt-1192753/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/real-Emmas-Enkel-Stuttgart-Abholterminal-2.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T14:56:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Jochen G. Fuchs",
+      "title": "Real startet Emmas Enkel, einen automatisierten Tante-Emma-Laden",
+      "description": "Ein autonomer Mini-Supermarkt mit Self-Service, mobilem Shopping – und einer menschlichen Noten. Der Überblick über das Konzept. Real startet gerade ein neues, kleines Ladenkonzept unter dem Namen „Emmas Enkel“. Am Rosenbergplatz in Stuttgart ist mit 45 Quadr…",
+      "url": "https://t3n.de/news/real-startet-emmas-enkel-1192753/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/real-Emmas-Enkel-Stuttgart-Abholterminal-2.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T14:56:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Jochen G. Fuchs",
+      "title": "Emmas Enkel: Real startet Alternative zu Amazon Go",
+      "description": "Ein autonomer Mini-Supermarkt mit Self-Service, mobilem Shopping – und einer menschlichen Noten. Der Überblick über das Konzept. Real startet gerade ein neues, kleines Ladenkonzept unter dem Namen „Emmas Enkel“. Am Rosenbergplatz in Stuttgart ist mit 45 Quadr…",
+      "url": "https://t3n.de/news/emmas-enkel-real-startet-amazon-1192753/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/real-Emmas-Enkel-Stuttgart-Abholterminal-2.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T14:56:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Andreas Floemer",
+      "title": "Mit Chrome OS gegen Windows: Google will verstärkt Chromebooks in Unternehmen bringen",
+      "description": "Dell bringt seine neuen Chromebooks der Latitude-Reihe für Business-Kunden nach Deutschland. Außerdem hat Google passend dazu neue Funktionen für sein Chrome-OS-Enterprise-Programm angekündigt. Google will mit seinem cloudbasierten Betriebssystem Chrome OS of…",
+      "url": "https://t3n.de/news/chrome-os-gegen-windows-google-1192750/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/chromebook-dell-latitude-chrome-os-enterprise.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T14:34:34Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Andreas Floemer",
+      "title": "Angriff auf Microsoft: Google will verstärkt Chrome OS in Unternehmen bringen – Dell erster Partner",
+      "description": "Dell bringt seine neuen Chromebooks der Latitude-Reihe für Business-Kunden nach Deutschland. Außerdem hat Google passend dazu neue Funktionen für sein Chrome-OS-Enterprise-Programm angekündigt. Google will mit seinem cloudbasierten Betriebssystem Chrome OS of…",
+      "url": "https://t3n.de/news/angriff-microsoft-google-chrome-1192750/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/chromebook-dell-latitude-chrome-os-enterprise.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T14:34:34Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Andreas Floemer",
+      "title": "Chrome OS: Google und Dell mit ersten Enterprise-Chromebooks gegen die Windows-Dominanz",
+      "description": "Dell bringt seine neuen Chromebooks der Latitude-Reihe für Business-Kunden nach Deutschland. Außerdem hat Google passend dazu neue Funktionen für sein Chrome-OS-Enterprise-Programm angekündigt. Google will mit seinem cloudbasierten Betriebssystem Chrome OS of…",
+      "url": "https://t3n.de/news/chrome-os-google-dell-ersten-1192750/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/chromebook-dell-latitude-chrome-os-enterprise.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T14:34:34Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Andreas Floemer",
+      "title": "Mit Chrome OS gegen Windows: Google will verstärkt Chromebooks in Unternehmen bringen",
+      "description": "Dell bringt seine neuen Chromebooks der Latitude-Reihe für Business-Kunden nach Deutschland. Außerdem hat Google passend dazu neue Funktionen für sein Chrome-OS-Enterprise-Programm angekündigt. Google will mit seinem cloudbasierten Betriebssystem Chrome OS of…",
+      "url": "https://t3n.de/news/chrome-os-microsoft-google-chromeboks-1192750/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/chromebook-dell-latitude-chrome-os-enterprise.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T14:34:34Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Andreas Floemer",
+      "title": "Mit Chrome OS gegen Windows: Google will verstärkt Chromebooks in Unternehmen bringen",
+      "description": "Dell bringt seine neuen Chromebooks der Latitude-Reihe für Business-Kunden nach Deutschland. Außerdem hat Google passend dazu neue Funktionen für sein Chrome-OS-Enterprise-Programm angekündigt. Google will mit seinem cloudbasierten Betriebssystem Chrome OS of…",
+      "url": "https://t3n.de/news/angriff-microsoft-google-chrome-os-1192750/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/chromebook-dell-latitude-chrome-os-enterprise.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T14:34:34Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Tesla erhöht Laderate an V2-Superchargern auf 150 Kilowatt",
+      "description": "Teslas Supercharger der Generation V2 geben künftig 150 statt 120 Kilowatt Ladeleistung ab. Das betrifft nahezu alle der 500 europäischen Supercharger-Standorte. An bis zu 4.500 Schnellladeplätzen in Europa kann künftig mit 150 statt mit 120 Kilowatt geladen …",
+      "url": "https://t3n.de/news/tesla-erhoeht-laderate-150-1192804/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/tesla-supercharger-e1567085413757.png?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T14:23:41Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "150 statt 120 Kilowatt: Tesla rüstet sein V2-Supercharger-Netzwerk auf",
+      "description": "Teslas Supercharger der Generation V2 geben künftig 150 statt 120 Kilowatt Ladeleistung ab. Das betrifft nahezu alle der 500 europäischen Supercharger-Standorte. An bis zu 4.500 Schnellladeplätzen in Europa kann künftig mit 150 statt mit 120 Kilowatt geladen …",
+      "url": "https://t3n.de/news/150-statt-120-kilowatt-tesla-1192804/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/tesla-supercharger-e1567085413757.png?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T14:23:41Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Schneller laden: Tesla gibt 25 Prozent mehr Leistung auf seine V2-Supercharger",
+      "description": "Teslas Supercharger der Generation V2 geben künftig 150 statt 120 Kilowatt Ladeleistung ab. Das betrifft nahezu alle der 500 europäischen Supercharger-Standorte. An bis zu 4.500 Schnellladeplätzen in Europa kann künftig mit 150 statt mit 120 Kilowatt geladen …",
+      "url": "https://t3n.de/news/schneller-laden-tesla-gibt-25-1192804/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/tesla-supercharger-e1567085413757.png?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T14:23:41Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Rouven Theiß",
+      "title": "Microsoft ist wieder auf dem Radar von Datenschützern",
+      "description": "Verstößt Windows 10 weiterhin gegen die Datenschutz-Grundverordnung (DSGVO) der Europäischen Union? Zumindest möglicherweise, ist die niederländische Datenschutzaufsicht der Ansicht. Die Dutch Data Protection Agency (DPA) hat die Windows-10-Versionen Pro und …",
+      "url": "https://t3n.de/news/microsoft-radar-datenschuetzern-1192766/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/07/microsoft-quartalsbericht-teaser.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T14:03:42Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Rouven Theiß",
+      "title": "Windows 10 ist wieder auf dem Radar von Datenschützern",
+      "description": "Verstößt Windows 10 weiterhin gegen die Datenschutz-Grundverordnung (DSGVO) der Europäischen Union? Zumindest möglicherweise, ist die niederländische Datenschutzaufsicht der Ansicht. Die Dutch Data Protection Agency (DPA) hat die Windows-10-Versionen Pro und …",
+      "url": "https://t3n.de/news/windows-10-radar-datenschuetzern-1192766/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/07/microsoft-quartalsbericht-teaser.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T14:03:42Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Rouven Theiß",
+      "title": "Windows 10 erneut im Fokus der EU-Datenschützer",
+      "description": "Verstößt Windows 10 weiterhin gegen die Datenschutz-Grundverordnung (DSGVO) der Europäischen Union? Zumindest möglicherweise, ist die niederländische Datenschutzaufsicht der Ansicht. Die Dutch Data Protection Agency (DPA) hat die Windows-10-Versionen Pro und …",
+      "url": "https://t3n.de/news/windows-10-erneut-fokus-1192766/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/07/microsoft-quartalsbericht-teaser.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T14:03:42Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "t3n Redaktion",
+      "title": "Apple gewährt freien Werkstätten Zugang zu Original-Ersatzteilen",
+      "description": "Apple-Originalteile für das iPhone waren bisher nur für einige tausend autorisierte Service-Partner zugänglich. Nun sollen auch kleine Werkstätten sie bekommen können – zunächst nur in den USA. Apple wird allen unabhängigen Reparatur-Werkstätten den Zugang zu…",
+      "url": "https://t3n.de/news/apple-gewaehrt-freien-zugang-1192801/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2018/09/akku-notch-ifixit-iphone-xs-max.jpeg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T13:53:38Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "t3n Redaktion",
+      "title": "Studie: Nahverkehr in Berlin bringt Menschen rekordschnell zum Ziel",
+      "description": "Mit Bussen und Bahnen kommt man in Berlin vergleichsweise schnell voran. Das zumindest fanden Forscher beim Vergleich der Fahrpläne von Städten auf verschiedenen Kontinenten heraus. In Berlin kommt man mit dem öffentlichen Nahverkehr schneller von A nach B al…",
+      "url": "https://t3n.de/news/studie-nahverkehr-berlin-ziel-1192774/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2018/11/berlin-u-bahn-internet-lte.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T13:39:37Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Rouven Theiß",
+      "title": "Illegale Ferienwohnungen: Rechtsstreit zwischen Airbnb und München geht weiter",
+      "description": "Airbnb soll zur Vermeidung illegaler Ferienwohnungen persönliche Daten an die Stadt München weitergeben. Das hatte das Münchner Verwaltungsgericht geurteilt. Airbnb will das verhindern – und hatte jetzt mit dem Berufungsantrag Erfolg. Der Rechtsstreit zwische…",
+      "url": "https://t3n.de/news/illegale-ferienwohnungen-airbnb-1192741/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/01/facebook-muenchen.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T13:20:14Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Rouven Theiß",
+      "title": "Rechtsstreit zwischen Airbnb und der Stadt München geht weiter",
+      "description": "Airbnb soll zur Vermeidung illegaler Ferienwohnungen persönliche Daten an die Stadt München weitergeben. Das hatte das Münchner Verwaltungsgericht geurteilt. Airbnb will das verhindern – und hatte jetzt mit dem Berufungsantrag Erfolg. Der Rechtsstreit zwische…",
+      "url": "https://t3n.de/news/rechtsstreit-zwischen-airbnb-geht-1192741/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/01/facebook-muenchen.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T13:20:14Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Rouven Theiß",
+      "title": "Airbnb und die Stadt München liegen weiter im Clinch",
+      "description": "Airbnb soll zur Vermeidung illegaler Ferienwohnungen persönliche Daten an die Stadt München weitergeben. Das hatte das Münchner Verwaltungsgericht geurteilt. Airbnb will das verhindern – und hatte jetzt mit dem Berufungsantrag Erfolg. Der Rechtsstreit zwische…",
+      "url": "https://t3n.de/news/airbnb-stadt-muenchen-liegen-1192741/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/01/facebook-muenchen.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T13:20:14Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Microsoft bringt exFAT-Dateisystem in den Linux-Kernel",
+      "description": "Microsoft unterstützt die Implementation seines exFAT-Dateisystems in den Linux-Kernel und kündigt die Einstellung der entsprechenden Patente in den Open-Invention-Network-Pool an. Nun ist es offiziell: Microsoft gibt die Patente seines exFAT-Dateisystems, da…",
+      "url": "https://t3n.de/news/microsoft-exfat-dateisystem-1192743/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/01/pinguin-linux-apfs-treiber-shutterstock-359295014.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T12:43:20Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Microsofts exFAT-Dateisystem landet offiziell im Linux-Kernel",
+      "description": "Microsoft unterstützt die Implementation seines exFAT-Dateisystems in den Linux-Kernel und kündigt die Einstellung der entsprechenden Patente in den Open-Invention-Network-Pool an. Nun ist es offiziell: Microsoft gibt die Patente seines exFAT-Dateisystems, da…",
+      "url": "https://t3n.de/news/microsofts-exfat-dateisystem-1192743/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/01/pinguin-linux-apfs-treiber-shutterstock-359295014.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T12:43:20Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Microsoft stellt Patente für das exFAT-Dateisystemfür Linux-Nutzung bereit",
+      "description": "Microsoft unterstützt die Implementation seines exFAT-Dateisystems in den Linux-Kernel und kündigt die Einstellung der entsprechenden Patente in den Open-Invention-Network-Pool an. Nun ist es offiziell: Microsoft gibt die Patente seines exFAT-Dateisystems, da…",
+      "url": "https://t3n.de/news/microsoft-stellt-patente-fuer-1192743/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/01/pinguin-linux-apfs-treiber-shutterstock-359295014.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T12:43:20Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Rouven Theiß",
+      "title": "Apples Abhängigkeit von China hat seit 2015 zugenommen",
+      "description": "Die Abhängigkeit des Weltkonzerns Apple von der Volksrepublik China wird immer größer. Das belegt die Nachrichtenagentur Reuters durch eine Analyse von verschiedenen Angaben des US-Unternehmens zu den eigenen Lieferketten. Wie Reuters ermittelt hat, befindet …",
+      "url": "https://t3n.de/news/apples-abhaengigkeit-china-hat-1192721/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2018/12/apple-store.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T12:00:08Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Rouven Theiß",
+      "title": "Apples Abhängigkeit von China nimmt weiter zu",
+      "description": "Die Abhängigkeit des Weltkonzerns Apple von der Volksrepublik China wird immer größer. Das belegt die Nachrichtenagentur Reuters durch eine Analyse von verschiedenen Angaben des US-Unternehmens zu den eigenen Lieferketten. Wie Reuters ermittelt hat, befindet …",
+      "url": "https://t3n.de/news/apples-abhaengigkeit-china-nimmt-1192721/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2018/12/apple-store.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T12:00:08Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Rouven Theiß",
+      "title": "Apple und China: Abhängigkeit nimmt weiter zu",
+      "description": "Die Abhängigkeit des Weltkonzerns Apple von der Volksrepublik China wird immer größer. Das belegt die Nachrichtenagentur Reuters durch eine Analyse von verschiedenen Angaben des US-Unternehmens zu den eigenen Lieferketten. Wie Reuters ermittelt hat, befindet …",
+      "url": "https://t3n.de/news/apple-china-abhaengigkeit-nimmt-1192721/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2018/12/apple-store.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T12:00:08Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Patrick Büttgen",
+      "title": "Berliner Startup Inkitt sichert sich mehr als 14 Millionen Euro",
+      "description": "Das Berliner Bücher-Startup Inkitt hat in einer zweiten Finanzierungsrunde mehr als 14 Millionen Euro erhalten. Der Gründer will damit das „Disney des 21. Jahrhunderts“ finanzieren.Verlage stecken seit Jahren in der Krise und haben mit sinkenden Auflagen und …",
+      "url": "https://t3n.de/news/inkitt-investment-14-millionen-1192701/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/Inkitt-Startup-Investment.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T11:41:43Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Stephan Dörner",
+      "title": "Stefan Groß-Selbeck, wie baut man digitale Geschäftsmodelle?",
+      "description": "Stefan Groß-Selbeck machte sich als Chef von Ebay Deutschland und Xing einen Namen – heute baut er Startups im Auftrag von Volkswagen und Bosch auf. Im t3n Podcast erklärt er, wie das geht. Stefan Groß-Selbeck führte einst Ebay Deutschland und Xing als Chef –…",
+      "url": "https://t3n.de/news/stefan-gross-selbeck-baut-1191854/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/stefan-gross-selbeck.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T11:29:57Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Sichtbare Frequenzen: Dieser Künstler plottet Bilder aus WLAN-Signalen",
+      "description": "In seinem Kunstprojekt „Wifi Impressionist“ zeichnet der Niederländer Richard Vijgen elektromagnetische Landschaftsbilder, die die steigende Dichte urbaner WLAN-Signale eindrucksvoll visualisieren. Inspiriert wurde der „Wifi Impressionist“ von den Stadtbilder…",
+      "url": "https://t3n.de/news/plotter-kunst-niederlaender-1192633/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2018/12/5g.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T10:06:21Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "t3n Redaktion",
+      "title": "DGB-Studie: Azubis oft nur wenig auf Digitalisierung vorbereitet",
+      "description": "Der Wandel in die digitale Welt ist in manchen Ausbildungszweigen noch nicht richtig angekommen. Darauf deuten Ergebnisse einer Studie hin, die der Deutsche Gewerkschaftsbund am Donnerstag veröffentlicht. Nur etwas mehr als jeder zweite Auszubildende in Deuts…",
+      "url": "https://t3n.de/news/dgb-studie-azubis-oft-nur-wenig-1192662/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2016/05/Fotolia_Ausbildung.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T09:33:50Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "t3n Redaktion",
+      "title": "Studie: Azubis oft nur wenig auf Digitalisierung vorbereitet",
+      "description": "Der Wandel in die digitale Welt ist in manchen Ausbildungszweigen noch nicht richtig angekommen. Darauf deuten Ergebnisse einer Studie hin, die der Deutsche Gewerkschaftsbund am Donnerstag veröffentlicht. Nur etwas mehr als jeder zweite Auszubildende in Deuts…",
+      "url": "https://t3n.de/news/studie-azubis-oft-nur-wenig-1192662/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2016/05/Fotolia_Ausbildung.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T09:33:50Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "t3n Redaktion",
+      "title": "Facebook verschärft vor US-Präsidentenwahl Regeln zur Wahlwerbung",
+      "description": "Soziale Netzwerke werden von Parteien immer wieder als Plattform genutzt, um Wahlwerbung zu verbreiten. Im Zuge der Präsidentschaftswahl in den USA will Facebook sichtbar machen, wer wie Wahlwerbung schaltet. Facebook will vor der US-Präsidentschaftswahl 2020…",
+      "url": "https://t3n.de/news/facebook-verschaerft-regeln-1192665/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2017/01/shutterstock-460918729.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T09:26:47Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "t3n Redaktion",
+      "title": "Apple wird Nutzer um Erlaubnis zum Anhören von Siri-Aufnahmen bitten",
+      "description": "Die Erkenntnis, dass Siri-Unterhaltungen auch von Dritten gehört werden können, hat Apple besonders unter Druck gesetzt – wirbt der iPhone-Konzern doch oft mit seinem Datenschutz-Versprechen. Jetzt gibt Apple den Nutzern mehr Kontrolle als die Konkurrenz. App…",
+      "url": "https://t3n.de/news/apple-nutzer-um-erlaubnis-bitten-1192644/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2016/05/apple-siri.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T08:31:39Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Katsche P. Platz",
+      "title": "Diese Slack-Workspaces sollten digitale Nomaden kennen",
+      "description": "Digitale Nomaden arbeiten von überall aus – da ist Vernetzung umso wichtiger. Mit diesen Slack-Workspaces klappt es auf jeden Fall. An sich kennen die meisten digital arbeitenden Menschen Slack ja bereits. Slack ist eine webbasierte Software, die für die Komm…",
+      "url": "https://t3n.de/news/diese-slack-workspaces-sollten-1191548/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2018/11/slack-team-messenger.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T08:19:22Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Andreas Floemer",
+      "title": "Riesenproblem für Huawei: Mate 30 Pro kommt ohne Google-Dienste und -Apps",
+      "description": "Herber Tiefschlag für Huawei: Das nächste Topmodell, das Huawei Mate 30, muss ohne Google-Dienste und Apps wie den Play-Store, Google Maps oder Gmail auskommen, bestätigt Google. Im Mai wurde der weltweit zweitgrößte Smartphone-Hersteller von der US-Regierung…",
+      "url": "https://t3n.de/news/riesenproblem-fuer-huawei-mate-30-pro-google-1192612/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/huawei-mate-30-pro-leak-1.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T08:03:16Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Andreas Floemer",
+      "title": "Riesenproblem für Huawei: Mate 30 Pro kommt ohne Google-Dienste und -Apps",
+      "description": "Herber Tiefschlag für Huawei: Das nächste Topmodell, das Huawei Mate 30, muss ohne Google-Dienste und Apps wie den Play-Store, Google Maps oder Gmail auskommen, bestätigt Google. Im Mai wurde der weltweit zweitgrößte Smartphone-Hersteller von der US-Regierung…",
+      "url": "https://t3n.de/news/riesenproblem-fuer-huawei-mate-30-google-1192612/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/huawei-mate-30-pro-leak-1.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T08:03:16Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Andreas Floemer",
+      "title": "Huawei Mate 30 darf nicht mit offiziellen Google-Apps und -Diensten starten, sagt Google",
+      "description": "Herber Tiefschlag für Huawei: Das nächste Topmodell, das Huawei Mate 30, muss ohne Google-Dienste und Apps wie den Play-Store, Google Maps oder Gmail auskommen, bestätigt Google. Im Mai wurde der weltweit zweitgrößte Smartphone-Hersteller von der US-Regierung…",
+      "url": "https://t3n.de/news/huawei-mate-30-darf-offiziellen-1192612/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/huawei-mate-30-pro-leak-1.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T08:03:16Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Luca Caracciolo",
+      "title": "Nachhaltigkeitsforscherin Maja Göpel: „Jetzt ist das Fe­­­nster der Möglichkeiten da!“",
+      "description": "Maja Göpel ist Generalsekretärin des WBGU, dem wissenschaftlichen Beirat, der für die Bundesregierung globale Umweltveränderungen analysiert. Im März hat sie mit anderen Wissenschaftlern die Scientists for Future initiiert. Sie erklärt, wie wir den Klimawande…",
+      "url": "https://t3n.de/magazin/nachhaltigkeitsforscherin-maja-248375/",
+      "urlToImage": "https://assets.t3n.sc/magazin/wp-content/uploads/2019/08/Nachhaltigkeitsforscherin-Maja-Gopel1-c-OleWitt.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T07:02:41Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Daniel Hüfner",
+      "title": "Diese Gründer bieten Mietwagen für einen Euro an – wie ist das möglich?",
+      "description": "Mietwagen für einen Euro: Mit diesem unglaublichen Versprechen wirbt das Bremer Startup Flipcar neuerdings um Kunden. Doch für Kunden hat der Dienst auch zwei entscheidende Nachteile. Von München nach Düsseldorf für einen mickrigen Euro: Gegen die Preise von …",
+      "url": "https://t3n.de/news/flipcar-mietwagen-fuer-einen-euro-1189452/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/flipcar-gruenderfoto2-web.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-29T05:55:52Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Patrick Büttgen",
+      "title": "Zattoo veröffentlicht progressive Web-App mit neuen Funktionen",
+      "description": "Zattoo hat eine progressive Web-App veröffentlicht, die den bisherigen Web-Player ablöst. Die nativen Apps für Smartphones und Tablets sind weiterhin nutzbar. Der Live-TV Streaming-Anbieter Zattoo hat seinen Web-Player in den Ruhestand geschickt und eine prog…",
+      "url": "https://t3n.de/news/zattoo-progressive-web-app-1192505/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/Zattoo-Progressive-Web-App.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-28T20:27:06Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Patrick Büttgen",
+      "title": "Zattoo veröffentlicht progressive Web-App mit neuen Funktionen",
+      "description": "Zattoo hat eine progressive Web-App veröffentlicht, die den bisherigen Web-Player ablöst. Die nativen Apps für Smartphones und Tablets sind weiterhin nutzbar. Der Live-TV Streaming-Anbieter Zattoo hat seinen Web-Player in den Ruhestand geschickt und eine prog…",
+      "url": "https://t3n.de/news/zattoo-veroeffentlicht-web-app-1192505/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/Zattoo-Progressive-Web-App.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-28T20:27:06Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Patrick Büttgen",
+      "title": "Zattoo veröffentlicht browserbasierte App mit neuen Funktionen",
+      "description": "Zattoo hat eine progressive Web-App veröffentlicht, die den bisherigen Web-Player ablöst. Die nativen Apps für Smartphones und Tablets sind weiterhin nutzbar. Der Live-TV Streaming-Anbieter Zattoo hat seinen Web-Player in den Ruhestand geschickt und eine prog…",
+      "url": "https://t3n.de/news/zattoo-veroeffentlicht-app-neuen-1192505/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/Zattoo-Progressive-Web-App.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-28T20:27:06Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Patrick Büttgen",
+      "title": "TV-Streamingdienst Zattoo veröffentlicht progressive Web-App",
+      "description": "Zattoo hat eine progressive Web-App veröffentlicht, die den bisherigen Web-Player ablöst. Die nativen Apps für Smartphones und Tablets sind weiterhin nutzbar. Der Live-TV Streaming-Anbieter Zattoo hat seinen Web-Player in den Ruhestand geschickt und eine prog…",
+      "url": "https://t3n.de/news/tv-streamingdienst-zattoo-web-app-1192505/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/Zattoo-Progressive-Web-App.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-28T20:27:06Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Nichts wie weg: Google verlagert Pixel-Produktion nach Vietnam",
+      "description": "Google verlagert maßgebliche Teile der Produktion seiner Pixel-Smartphones nach Vietnam. Dafür hat das Unternehmen eine alte Nokia-Fabrik umbauen lassen. Wie der Nikkei Asian Review berichtet, will Google schon im Herbst 2019 in der nordvietnamesischen Provin…",
+      "url": "https://t3n.de/news/nichts-weg-google-verlagert-1192528/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/05/google-pixel-3a-xl-hands-on-28.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-28T20:08:16Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Google produziert die Pixel 3a demnächst in einer alten Nokia-Fabrik in Vietnam",
+      "description": "Google verlagert maßgebliche Teile der Produktion seiner Pixel-Smartphones nach Vietnam. Dafür hat das Unternehmen eine alte Nokia-Fabrik umbauen lassen. Wie der Nikkei Asian Review berichtet, will Google schon im Herbst 2019 in der nordvietnamesischen Provin…",
+      "url": "https://t3n.de/news/google-pixel-3a-vietnam-1192528/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/05/google-pixel-3a-xl-hands-on-28.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-28T20:08:16Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Google produziert die Pixel 3a demnächst in einer alten Nokia-Fabrik in Vietnam",
+      "description": "Google verlagert maßgebliche Teile der Produktion seiner Pixel-Smartphones nach Vietnam. Dafür hat das Unternehmen eine alte Nokia-Fabrik umbauen lassen. Wie der Nikkei Asian Review berichtet, will Google schon im Herbst 2019 in der nordvietnamesischen Provin…",
+      "url": "https://t3n.de/news/google-produziert-pixel-3a-alten-1192528/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/05/google-pixel-3a-xl-hands-on-28.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-28T20:08:16Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Flucht aus China? Google will Pixel-Produktion in eine alte Nokia-Fabrik in Vietnam verlagern",
+      "description": "Google verlagert maßgebliche Teile der Produktion seiner Pixel-Smartphones nach Vietnam. Dafür hat das Unternehmen eine alte Nokia-Fabrik umbauen lassen. Wie der Nikkei Asian Review berichtet, will Google schon im Herbst 2019 in der nordvietnamesischen Provin…",
+      "url": "https://t3n.de/news/flucht-china-google-alte-vietnam-1192528/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/05/google-pixel-3a-xl-hands-on-28.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-28T20:08:16Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Fitbit Versa 2: Fitness-Smartwatch mit Alexa und Spotify, aber ohne GPS",
+      "description": "Fitbit hat heute eine aktualisierte Version seines Fitness-Smartwatch-Bestsellers unter der Bezeichnung Versa 2 vorgestellt. Die technischen Daten versprechen keine Innovationen. Der Preis bleibt gleich. Die Fitbit Versa ist das Erfolgsmodell des amerikanisch…",
+      "url": "https://t3n.de/news/fitbit-versa-2-alexa-spotify-1192451/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/fitbit-versa-2-teaser.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-28T16:45:02Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Fitbit stellt Fitness-Smartwatch Versa 2 mit Alexa und Spotify vor",
+      "description": "Fitbit hat heute eine aktualisierte Version seines Fitness-Smartwatch-Bestsellers unter der Bezeichnung Versa 2 vorgestellt. Die technischen Daten versprechen keine Innovationen. Der Preis bleibt gleich. Die Fitbit Versa ist das Erfolgsmodell des amerikanisch…",
+      "url": "https://t3n.de/news/fitbit-stellt-fitness-smartwatch-1192451/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/fitbit-versa-2-teaser.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-28T16:45:02Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Fitbit Versa 2: Aktualisierte Version des Beststellers unter den Fitness-Smartwatches",
+      "description": "Fitbit hat heute eine aktualisierte Version seines Fitness-Smartwatch-Bestsellers unter der Bezeichnung Versa 2 vorgestellt. Die technischen Daten versprechen keine Innovationen. Der Preis bleibt gleich. Die Fitbit Versa ist das Erfolgsmodell des amerikanisch…",
+      "url": "https://t3n.de/news/fitbit-versa-2-aktualisierte-1192451/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/fitbit-versa-2-teaser.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-28T16:45:02Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Fitbit Versa 2: Aktualisierte Version des Beststellers unter den Fitness-Smartwatches",
+      "description": "Fitbit hat heute eine aktualisierte Version seines Fitness-Smartwatch-Bestsellers unter der Bezeichnung Versa 2 vorgestellt. Die technischen Daten versprechen keine Innovationen. Der Preis bleibt gleich. Die Fitbit Versa ist das Erfolgsmodell des amerikanisch…",
+      "url": "https://t3n.de/news/fitbit-versa-2-aktualisierte-1192451/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/08/fitbit-versa-2-teaser.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-28T16:45:02Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Andreas Floemer",
+      "title": "Öffi, Taxi, Sharing: Google Maps zeigt euch multimodale Verkehrs-Verbindungen an",
+      "description": "Googles Routenplaner in Google Maps wird multimodal. Künftig kann Google Maps euch Routen mit verschiedenen Verkehrsmitteln anzeigen, die euch schneller ans Ziel bringen sollen. Google bietet Nutzern der Kartenapp seit jeher die Möglichkeit, Routen für versch…",
+      "url": "https://t3n.de/news/oeffi-taxi-sharing-google-maps-1192425/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2018/10/google-maps-hero.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-28T14:44:28Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Andreas Floemer",
+      "title": "Google Maps: Routenplanung wird multimodal",
+      "description": "Googles Routenplaner in Google Maps wird multimodal. Künftig kann Google Maps euch Routen mit verschiedenen Verkehrsmitteln anzeigen, die euch schneller ans Ziel bringen sollen. Google bietet Nutzern der Kartenapp seit jeher die Möglichkeit, Routen für versch…",
+      "url": "https://t3n.de/news/google-maps-routenplanung-1192425/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2018/10/google-maps-hero.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-28T14:44:28Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Andreas Floemer",
+      "title": "Google Maps: Neues Feature verbindet Öffis, Taxis, Bike- und Ride-Sharing",
+      "description": "Googles Routenplaner in Google Maps wird multimodal. Künftig kann Google Maps euch Routen mit verschiedenen Verkehrsmitteln anzeigen, die euch schneller ans Ziel bringen sollen. Google bietet Nutzern der Kartenapp seit jeher die Möglichkeit, Routen für versch…",
+      "url": "https://t3n.de/news/google-maps-neues-feature-multimodaler-verkehr-1192425/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2018/10/google-maps-hero.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-28T14:44:28Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "t3n Redaktion",
+      "title": "Hiscox: Der Spezialversicherer für deine digitalen Risiken",
+      "description": "Ob Marketing-Spezialist, IT-Experte oder Onlineshop-Betreiber: Du arbeitest in deinem Business-Alltag mit personenbezogenen Daten. Deshalb drohen auch spezielle Risiken – zum Beispiel, dass eine Datenpanne passiert. Es ist wichtig, dass du sorgsam mit Unterne…",
+      "url": "https://t3n.de/news/hiscox-spezialversicherer-fuer-digitale-risiken-1174448/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/07/t3n-kooperationen-hiscox.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-28T14:30:36Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Neuauflage der „Deutschen Cloud”: Microsoft stellt neue Rechenzentrumsregionen vor",
+      "description": "Microsoft hält sich an seinen Zeitplan und kündigt heute eine flexiblere Variante seiner schon einmal gescheiterten „Deutschen Cloud“ an, bei der Daten in Deutschland gespeichert werden. Ab sofort können deutsche Unternehmen und behördliche Kunden zwei neue R…",
+      "url": "https://t3n.de/news/deutsche-cloud-microsoft-2019-1192412/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2018/04/microsoft-zentrale-muenchen.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-28T13:57:46Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Microsoft stellt neue „Deutsche Cloud“ vor",
+      "description": "Microsoft hält sich an seinen Zeitplan und kündigt heute eine flexiblere Variante seiner schon einmal gescheiterten „Deutschen Cloud“ an, bei der Daten in Deutschland gespeichert werden. Ab sofort können deutsche Unternehmen und behördliche Kunden zwei neue R…",
+      "url": "https://t3n.de/news/microsoft-stellt-neue-deutsche-1192412/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2018/04/microsoft-zentrale-muenchen.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-28T13:57:46Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Neuauflage der „Deutschen Cloud”: Microsoft stellt neue Rechenzentrumsregionen vor",
+      "description": "Microsoft hält sich an seinen Zeitplan und kündigt heute eine flexiblere Variante seiner schon einmal gescheiterten „Deutschen Cloud“ an, bei der Daten in Deutschland gespeichert werden. Ab sofort können deutsche Unternehmen und behördliche Kunden zwei neue R…",
+      "url": "https://t3n.de/news/neuauflage-deutschen-cloud-neue-1192412/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2018/04/microsoft-zentrale-muenchen.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-28T13:57:46Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Datenspeicherung in Deutschland: Microsoft eröffnet neue Rechenzentren",
+      "description": "Microsoft hält sich an seinen Zeitplan und kündigt heute eine flexiblere Variante seiner schon einmal gescheiterten „Deutschen Cloud“ an, bei der Daten in Deutschland gespeichert werden. Ab sofort können deutsche Unternehmen und behördliche Kunden zwei neue R…",
+      "url": "https://t3n.de/news/datenspeicherung-deutschland-1192412/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2018/04/microsoft-zentrale-muenchen.jpg?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-28T13:57:46Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Huawei: US-Unternehmen warten auf 130 Handelserlaubnisse",
+      "description": "Das US-Handelsministerium hat mehr als 130 Anträge auf Erteilung einer Handelserlaubnis mit Huawei vorliegen. Genehmigungen gibt es bislang keine. Aus informierten Kreisen hat die Nachrichtenagentur Reuters erfahren, dass dem US-Handelsministerium mehr als 13…",
+      "url": "https://t3n.de/news/huawei-us-unternehmen-warten-130-1192331/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/02/huawei-logo.png?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-28T13:07:50Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Warten auf Trump: US-Unternehmen stellten 130 Anträge auf Handelserlaubnis mit Huawei",
+      "description": "Das US-Handelsministerium hat mehr als 130 Anträge auf Erteilung einer Handelserlaubnis mit Huawei vorliegen. Genehmigungen gibt es bislang keine. Aus informierten Kreisen hat die Nachrichtenagentur Reuters erfahren, dass dem US-Handelsministerium mehr als 13…",
+      "url": "https://t3n.de/news/warten-trump-us-unternehmen-130-1192331/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/02/huawei-logo.png?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-28T13:07:50Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Dieter Petereit",
+      "title": "Warten auf Trump: US-Unternehmen stellten 130 Anträge auf Handelserlaubnis mit Huawei",
+      "description": "Das US-Handelsministerium hat mehr als 130 Anträge auf Erteilung einer Handelserlaubnis mit Huawei vorliegen. Genehmigungen gibt es bislang keine. Aus informierten Kreisen hat die Nachrichtenagentur Reuters erfahren, dass dem US-Handelsministerium mehr als 13…",
+      "url": "https://t3n.de/news/warteschleife-130-us-unternehmen-1192331/",
+      "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2019/02/huawei-logo.png?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-28T13:07:50Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Felix Schwenzel",
+      "title": "Digitalisierung: Die Jugend handelt erwachsener als ihre Eltern",
+      "description": "Jahrelang haben wir uns Sorgen um die Jugend gemacht und geglaubt, dass die Digitalisierung sie überfordert. Dabei handelt sie längst erwachsener als wir, meint Felix Schwenzel in seiner Kolumne für Irrelevanz. „Technik löst Probleme, die wir ohne sie gar nic…",
+      "url": "https://t3n.de/magazin/digitalisierung-die-jugend-als-248357/",
+      "urlToImage": "https://assets.t3n.sc/magazin/wp-content/uploads/2019/08/Youth-Laptop-325197260.png?auto=format&h=&ixlib=php-2.3.0&w=",
+      "publishedAt": "2019-08-28T12:48:29Z",
+      "content": null
+    }
+  ]
+}

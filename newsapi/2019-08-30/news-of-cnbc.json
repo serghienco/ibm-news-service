@@ -1,0 +1,1306 @@
+{
+  "status": "ok",
+  "totalResults": 3304,
+  "articles": [
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Jacob Pramuk",
+      "title": "'Excuses!' Trump claims 'badly run and weak companies' are using tariffs as a scapegoat",
+      "description": "Trump's tweet comes as more companies from a range of industries have started to slam his tariffs on about $550 billion in Chinese goods.",
+      "url": "https://www.cnbc.com/2019/08/30/trump-criticizes-companies-for-blaming-china-trade-war-tariffs.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106054888-1564681991914trump2.jpg?v=1564682007",
+      "publishedAt": "2019-08-30T14:34:00Z",
+      "content": "President Donald Trump on Friday argued \"badly run and weak companies\" have blamed his trade war with China for flagging business in order to mask \"bad management.\" \r\nHis tweet comes as more companies from a range of industries have started to slam his tariff… [+588 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Jessica Bursztynsky",
+      "title": "American CEOs are 'increasingly unhappy' with Trump's tariffs, says Yale's Jeff Sonnenfeld",
+      "description": "While many top executives are \"very disappointed\" with the escalation of the trade conflict, some also feel a crackdown on China's trade practices was long overdue, says the management specialist.",
+      "url": "https://www.cnbc.com/2019/08/30/ceos-increasingly-unhappy-with-tariffs-says-yale-jeff-sonnenfeld.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106065754-15651863090702019-08-05t161946z_1578719930_rc1a28949a80_rtrmadp_3_usa-economy.jpg?v=1567130116",
+      "publishedAt": "2019-08-30T14:31:00Z",
+      "content": "Corporate America is \"becoming an increasingly unhappy group\" with President Donald Trump's tariff strategy in the U.S.-China trade war, management specialist Jeffrey Sonnenfeld told CNBC on Friday.\r\nHowever, CEOs of U.S. companies are in a quandary, added So… [+2313 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Kate Fazzini",
+      "title": "Google's report on massive iPhone security flaw doubles as dig against Apple's privacy stance",
+      "description": "Google has released a compilation of in-depth research on vulnerabilities in Apple's operating system. The research is interesting and comprehensive, but the impact on the general iPhone using population of the flaws may not be huge.",
+      "url": "https://www.cnbc.com/2019/08/30/googles-iphone-security-report-doubles-as-criticism-of-apple-privacy.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106014090-1562856620048gettyimages-1154875213.jpeg?v=1562856640",
+      "publishedAt": "2019-08-30T14:28:00Z",
+      "content": "Google released a compilation of in-depth research on vulnerabilities in Apple's operating system Thursday night. \r\nThe research is interesting and comprehensive, but the impact of the flaws on most iPhone users may not be huge. Also, Google is using the comp… [+3882 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Reuters",
+      "title": "UK farmers call for import tariffs on agricultural products in no-deal Brexit",
+      "description": "Britain's National Farmers Union wrote to Prime Minister Boris Johnson on Friday calling for import tariffs on eggs, some dairy products, horticultural products and grains if Britain leaves the European Union without a trade deal.",
+      "url": "https://www.cnbc.com/2019/08/30/uk-farmers-call-for-tariffs-on-agricultural-products-in-no-deal-brexit.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106105159-1567174113921gettyimages-921405462.jpeg?v=1567174219",
+      "publishedAt": "2019-08-30T14:10:00Z",
+      "content": "Britain's National Farmers Union wrote to Prime Minister Boris Johnson on Friday calling for import tariffs on eggs, some dairy products, horticultural products and grains if Britain leaves the European Union without a trade deal.\r\nBritish agricultural export… [+1683 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Kevin Breuninger",
+      "title": "Feds say Michael Flynn is ready for sentencing, but his lawyers want another delay",
+      "description": "\"The case is not ready for sentencing,\" Flynn's lawyers, including the recently hired Sidney Powell, wrote in a joint status report filed in Washington, D.C., district court to Judge Emmet Sullivan.",
+      "url": "https://www.cnbc.com/2019/08/30/feds-say-michael-flynn-is-ready-for-sentencing-lawyers-want-another-delay.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106014138-1562857550955flynn.jpg?v=1562857570",
+      "publishedAt": "2019-08-30T14:08:00Z",
+      "content": "President Donald Trump's former national security advisor Michael Flynn is ready to be sentenced, federal prosecutors said Friday, but Flynn's lawyers are demanding more time and access to classified material.\r\n \"The case is not ready for sentencing,\" Flynn's… [+1737 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Jesse Pound",
+      "title": "US consumer sentiment hits 89.8 in August, vs. 92.1 expected",
+      "description": "The University of Michigan's Consumer Index suffers its largest drop since 2012 amid trade war concerns.",
+      "url": "https://www.cnbc.com/2019/08/30/us-consumer-sentiment-august-2019-final.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106103912-1567113155968gettyimages-1170983561.jpeg?v=1567113238",
+      "publishedAt": "2019-08-30T14:00:00Z",
+      "content": "The University of Michigan's final print on its consumer sentiment index came in at 89.8 for August, falling below the preliminary reading from two weeks ago. \r\nThe index was at 98.4 in July, making this the largest monthly decline since December 2012.\r\nThe d… [+1333 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Michael Wayland",
+      "title": "Federal raids on auto union set stage for unprecedented contract talks with Ford, GM, Fiat Chrysler",
+      "description": "Federal raids on the homes of United Auto Workers leaders and properties owned by the union have thrusted the union's collective bargaining with the Detroit automakers this year into unprecedented territory.",
+      "url": "https://www.cnbc.com/2019/08/30/federal-raids-on-auto-union-set-stage-for-unprecedented-contract-talks.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106105028-1567169977762fbi-2.jpg?v=1567170163",
+      "publishedAt": "2019-08-30T13:55:00Z",
+      "content": "FBI agents finish loading materials into a truck out of the home of United Auto Workers President Gary Jones on Wednesday, Aug. 28, 2019.\r\nDETROIT Federal raids on the homes of United Auto Workers leaders and union-owned properties on Wednesday thrusted the u… [+5490 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Kenneth Kiesnoski",
+      "title": "If you're looking to retire early, think about moving to one of these 10 US cities",
+      "description": "The 10 best U.S. cities for early retirement are ranked according to metrics as varied as the effective income tax rate for retirees, the average cost of a silver health insurance plan for a 60-year-old, the concentration of nearby medical facilities and crim…",
+      "url": "https://www.cnbc.com/2019/08/30/the-10-best-us-cities-for-an-early-retirement.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105154877-GettyImages-699084761.jpg?v=1567166483",
+      "publishedAt": "2019-08-30T13:46:00Z",
+      "content": "Source: SmartAsset\r\nRetiring early can take some careful financial planning, especially in a era when many Americans have to keep working not only past 65 but well into their 70s just to make ends meet.\r\nWhere you decide to settle down to ease into your golde… [+4007 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Jennifer Liu",
+      "title": "1 in 3 workers would rather have a casual dress code than an extra $5,000 in pay",
+      "description": "This is how many people would quit their job or turn down an offer if they were required to suit up every day.",
+      "url": "https://www.cnbc.com/2019/08/30/1-in-3-workers-would-rather-have-a-casual-dress-code-than-an-extra-5k.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106103292-1567096147210gettyimages-138423841.jpg?v=1567096336",
+      "publishedAt": "2019-08-30T13:45:49Z",
+      "content": "What's the value of being able to show up to work in your favorite T-shirt and jeans? For one in three workers, a cool $5,000.\r\nAt least, that's what they'd be willing to give up in salary in order to work for a company that has an informal dress code, accord… [+2402 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Taylor Locke",
+      "title": "Jack Ma: A.I. could give us 12-hour work weeks",
+      "description": "Jack Ma, the billionaire founder of Alibaba, previously supported the idea of a 12-hour work day. Now, he says people should have a 12-hour work week, with help from AI.",
+      "url": "https://www.cnbc.com/2019/08/30/jack-ma-ai-could-give-us-12-hour-work-weeks.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106101940-1567051744089gettyimages-1164575823.jpeg?v=1567095516",
+      "publishedAt": "2019-08-30T13:34:30Z",
+      "content": "Billionaire Jack Ma, who stirred controversy when he made comments supporting 12-hour work days, now says with the advent of advanced technology and artificial intelligence, people should work 12-hour work weeks.\r\n \"I think people should work three days a wee… [+2403 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Jessi Joseph",
+      "title": "$135 million Beverly Hills estate featured in 'The Godfather' and 'The Bodyguard'—take a look inside",
+      "description": "This massive 50,000-square-foot estate in Beverly Hills has a glamorous Hollywood past: It's the former home of William Randolph Hearst, and Jacqueline and John F. Kennedy spent their honeymoon there.",
+      "url": "https://www.cnbc.com/2019/08/30/photos-multimillion-dollar-beverly-hills-estate-in-the-godfather.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106043415-15641694440461.jpg?v=1566316671",
+      "publishedAt": "2019-08-30T13:30:00Z",
+      "content": "This massive 50,000-square-foot estate in Beverly Hills has a glamorous Hollywood past: It's the former home of William Randolph Hearst, and Jacqueline and John F. Kennedy spent their honeymoon there.\r\nKnown as the Beverly House, the 19-bedroom, 29-bathroom c… [+2867 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Angelica Lavito",
+      "title": "Altria and PMI's proposed tobacco merger faces a future with fewer cigarettes, more regulation",
+      "description": "If Altria and Philip Morris International reunite to become the world's largest tobacco company, it would focus on far more than cigarettes.",
+      "url": "https://www.cnbc.com/2019/08/30/altria-pmis-200-billion-merger-would-face-future-with-fewer-cigarettes.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/103932501-GettyImages-457309072.jpg?v=1567087697",
+      "publishedAt": "2019-08-30T13:28:00Z",
+      "content": "For Altria and Philip Morris International, breakin' up may have been too hard to do.\r\nA decade after going their separate ways, the two tobacco giants announced this week they are considering a merger.\r\nThe potential merger would end years of speculation on … [+6921 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Kevin Stankiewicz",
+      "title": "Blackstone warns that stocks normally rally when bond yields invert, so recession still a risk",
+      "description": "\"The yield curve never inverts when conditions are bad. It inverts when conditions are good,\" Blackstone's chief investment strategist says.",
+      "url": "https://www.cnbc.com/2019/08/30/blackstone-stocks-can-rise-when-yields-invert-recession-still-a-risk.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105822404-1553871725282img_9194.jpg?v=1553871827",
+      "publishedAt": "2019-08-30T13:17:00Z",
+      "content": "The ongoing Wall Street rally isn't a sign the yield curve inversion is a false recession flag this time, the chief investment strategist at private equity giant Blackstone told CNBC on Friday. Rather, it is exactly what to expect.\r\nThe Dow Jones Industrial A… [+1935 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Jasmine Wu",
+      "title": "Beyond the sandwich wars: Chick-fil-A's history of outrunning competitors and criticism",
+      "description": "Chick-fil-A has surged to the third largest restaurant chain, passing KFC, Wendy's and Burger King. Its an ascent so rapid that other fast-food brands are taking note, as Popeyes' own chicken sandwich debut launched a social media war. But how is it that a re…",
+      "url": "https://www.cnbc.com/2019/08/30/beyond-the-sandwich-wars-chick-fil-as-history-of-outrunning-competitors-and-criticism.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105992032-1561662122594gettyimages-491035502.jpg?v=1567171042",
+      "publishedAt": "2019-08-30T13:14:00Z",
+      "content": "Chick-fil-A is no stranger to competition.\r\nWhen Popeyes Louisiana Kitchen decided to debut its own fried chicken sandwich earlier this month, an all-out social media war erupted between the two fast-food chains.\r\nAnd even McDonald's is taking note. In July 2… [+728 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Sam Meredith",
+      "title": "Argentina has asked for more time to pay its debts as it struggles to avoid another default",
+      "description": "Standard & Poor's announced Thursday it had slashed Argentina's long-term credit rating by three notches into the deepest area of junk debt.",
+      "url": "https://www.cnbc.com/2019/08/30/argentina-crisis-macri-asks-for-more-time-to-pay-debts-amid-default-worries.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106105053-1567170196566gettyimages-1163776813.jpeg?v=1567170297",
+      "publishedAt": "2019-08-30T13:12:00Z",
+      "content": "Thousands of people march from Obelisco monument to Casa Rosada to support President of Argentina Mauricio Macri in Buenos Aires, Argentina on August 24, 2019.\r\nAn intensifying bout of volatility in South America's second-largest country has stoked fears of a… [+5096 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Michelle Fox",
+      "title": "How this 'reluctant investor' overcame her fear and discovered the power of investing",
+      "description": "Investing doesn't have to be scary — it can actually be joyful, says author Danielle Town.",
+      "url": "https://www.cnbc.com/2019/08/30/how-reluctant-investor-danielle-town-discovered-the-power-of-investing.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106103810-1567110121761podcast-polo-tent.jpg?v=1567110159",
+      "publishedAt": "2019-08-30T13:06:00Z",
+      "content": "Author and investor Danielle Town used to be afraid of the stock market.\r\nFinancial statements, numbers and spreadsheets all made her eyes glaze over.\r\n \"I was such a reluctant investor,\" said Town, co-host of the podcast \"InvestED. \"\r\n \"Yet, we can find a wa… [+2454 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Alexandria White",
+      "title": "Get $30 off at Amazon with just 1 Amex point with this limited-time offer",
+      "description": "Amazon is currently running a promotion where you can get $30 off a purchase of $60 when you use an eligible Amex credit card and pay with Membership Rewards points. Here's how you may qualify for the deal.",
+      "url": "https://www.cnbc.com/2019/08/30/get-30-off-at-amazon-with-just-1-amex-point.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105981959-1561138465285dog3.jpg?v=1561143372",
+      "publishedAt": "2019-08-30T13:00:54Z",
+      "content": "Amazon has a generous promotional offer available to American Express cardholders worth $30. Targeted customers can receive an invite to receive $30 off a $60 purchase at Amazon.com when you pay with Membership Rewards® points.\r\nIf you haven't received an inv… [+1704 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Abigail Hess",
+      "title": "The 12 US colleges that pay off the most for sports fans",
+      "description": "When CNBC Make It compared hundreds of colleges and universities across the country to create our first list of the U.S. colleges that pay off the most, many of the top-ranking schools also had strong athletics programs.",
+      "url": "https://www.cnbc.com/2019/08/30/the-12-us-colleges-that-pay-off-the-most-for-sports-fans.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106101648-1567028200477virginiacavaliersfans.jpg?v=1567028248",
+      "publishedAt": "2019-08-30T13:00:43Z",
+      "content": "No country takes college sports quite as seriously as the United States. Today, schools across the country spend millions funding college sports teams from football to fencing. As a result, sports have become synonymous with the college experience, and many s… [+11090 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Todd Haselton",
+      "title": "Google discovers major iPhone security flaw that affected thousands",
+      "description": "Google said it found 14 security flaws in iPhones that existed for two years and could give attackers access to contacts, photos, messages and more.",
+      "url": "https://www.cnbc.com/2019/08/30/iphone-software-exploits-revealed-by-google.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105866618-1556034927121gettyimages-1144596495.jpeg?v=1556034948",
+      "publishedAt": "2019-08-30T12:49:00Z",
+      "content": "Google Project Zero, a group that examines and publishes security and privacy exploits it finds in public software, said on Thursday evening there were huge security holes in iPhone software that existed for two years. The exploits gave attackers access to ph… [+2460 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Brian Schwartz",
+      "title": "With Ruth Bader Ginsburg's health in the spotlight, attention turns to abortion foe in the wings",
+      "description": "Political operatives are laying the groundwork for an unprecedented battle if Ruth Bader Ginsburg leaves the bench ahead of the 2020 election.",
+      "url": "https://www.cnbc.com/2019/08/30/with-rbgs-health-in-the-spotlight-attention-turns-to-judge-barrett.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105565427-1541779659209gettyimages-912317396.jpeg?v=1545662004",
+      "publishedAt": "2019-08-30T12:49:00Z",
+      "content": "Supreme Court Justice Ruth Bader Ginsburg is on the mend after another health scare, but that hasn't stopped political operatives and those on Capitol Hill from laying the groundwork for an unprecedented battle set to ensue if she leaves the bench ahead of th… [+10633 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Reuters",
+      "title": "Campbell Soup shares rise after beating profit estimates on cost cuts",
+      "description": "Campbell Soup reports better-than-expected fourth-quarter profit, benefiting from cost cuts, sending shares climbing before the bell.",
+      "url": "https://www.cnbc.com/2019/08/30/campbell-soup-shares-rise-after-beating-profit-estimates-on-cost-cuts.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105490627-1538753651832gettyimages-156713205.jpeg?v=1567168670",
+      "publishedAt": "2019-08-30T12:47:00Z",
+      "content": "U.S. food company Campbell Soup reported better-than-expected fourth-quarter profit, benefiting from cost cuts, sending shares up 5% before the bell.\r\nTo better focus on its mainstream soup and snack businesses, Campbell has been streamlining its operations b… [+894 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Yun Li",
+      "title": "Mutual fund managers are really long banks, and it's killing them",
+      "description": "Stock pickers are heavily invested in bank stocks and it doesn't bode well for them.",
+      "url": "https://www.cnbc.com/2019/08/30/mutual-fund-managers-are-really-long-banks-and-its-killing-them.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106088572-1566331895306bond.jpg?v=1566331935",
+      "publishedAt": "2019-08-30T12:46:00Z",
+      "content": "Stock pickers are heavily invested in bank stocks, and it hasn't been working out well for them.\r\nMutual funds are most overweight in financials across all sectors, according to a Goldman Sachs analysis of 597 equity mutual funds with $2.6 trillion of asset u… [+1774 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Anmar Frangoul",
+      "title": "These video game consoles defined your childhood and helped pave the way for connected living",
+      "description": "Here are some of the most iconic and influential consoles of the 1990s and early 2000s.",
+      "url": "https://www.cnbc.com/2019/08/30/these-video-game-consoles-defined-your-childhood.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106104903-1567165630752gettyimages-458259491.jpg?v=1567165694",
+      "publishedAt": "2019-08-30T12:42:00Z",
+      "content": "It's 30 years since Nintendo released its handheld console, the Game Boy. Gaming has changed a lot since then, with today's devices offering users top-notch graphics, in-depth stories and online gameplay.\r\nWhile it wasn't the first handheld gaming device, the… [+5321 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Tyler Bailey",
+      "title": "Your first trade for Friday, August 30",
+      "description": "The \"Fast Money\" traders share their first moves for the market open.",
+      "url": "https://www.cnbc.com/2019/08/30/your-first-trade-for-friday-august-30.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104245575-final-trade-logo.jpg?v=1485535955",
+      "publishedAt": "2019-08-30T12:41:00Z",
+      "content": "The \"Fast Money \" traders shared their first moves for the market open.\r\nSteve Grasso was a buyer of Trinseo.\r\nSavita Subramanian was a buyer of the Financial sector.\r\nDan Nathan was a buyer of Microsoft.\r\nGuy Adami was a buyer of CBS. \r\nDisclosure\r\nTrader di… [+1644 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Reuters",
+      "title": "US consumer spending increases solidly; income tepid",
+      "description": "Consumer spending in July was supported by savings as personal income edged up 0.1%, the smallest rise since last September.",
+      "url": "https://www.cnbc.com/2019/08/30/us-consumer-spending-increases-solidly-income-tepid.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104861712-RTX3JSZZ-cash.jpg?v=1567113071",
+      "publishedAt": "2019-08-30T12:34:00Z",
+      "content": "U.S. consumer spending increased solidly in July as households bought a range of goods and services, which could further allay financial market fears of a recession, but the pace of growth in consumption is unlikely to be sustained amid tepid income gains.\r\nT… [+3117 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Megan Leonhardt",
+      "title": "Millennials are making travel a priority more than previous generations—that's not a bad thing",
+      "description": "Millennials are traveling more than Gen X or Baby Boomers, and many are making it a priority to get out and explore as much of the world as they can. And despite the hype, they're not irresponsible about it.",
+      "url": "https://www.cnbc.com/2019/08/30/millennials-making-travel-a-priority-more-than-previous-generations.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106091966-1566485921586meditation-at-the-sunrise-at-the-top-of-mount-batur-in-bali-indonesia_t20_wkymrv.jpg?v=1566486100",
+      "publishedAt": "2019-08-30T12:30:34Z",
+      "content": "Your Instagram feed is probably littered with photos from your friends on vacation sharing breathtaking views of exotic beaches or snapshots of once-in-a-lifetime meals. And if you think that the sheer number of these vacation photos is growing, you're not wr… [+7510 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Kathleen Elkins",
+      "title": "Warren Buffett: Developing this skill can make 'a major difference in your future earning power'",
+      "description": "If you want to get ahead and grow your net worth, focus on your communication skills, billionaire investor Warren Buffett advises.",
+      "url": "https://www.cnbc.com/2019/08/30/warren-buffett-why-you-should-focus-on-your-communication-skills.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105882560-1556636028162gettyimages-168103168.jpg?v=1560364777",
+      "publishedAt": "2019-08-30T12:30:28Z",
+      "content": "If you want to get ahead, focus on your communication skills, billionaire investor Warren Buffett advises.\r\n \"A relatively modest improvement can make a major difference in your future earning power, as well as in many other aspects of your life,\" he told Gil… [+1868 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Christina Farr",
+      "title": "Men's health start-ups tout their simplicity, but some make it hard for customers to cancel",
+      "description": "The CEO of Ro, a company that sells erectile dysfunction and hair loss products, is calling out practices in the industry that make it hard for consumers to cancel.",
+      "url": "https://www.cnbc.com/2019/08/30/ro-ceo-tells-mens-health-start-ups-to-stop-making-it-hard-to-cancel.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/101132252-173931648-1.jpg?v=1532564614",
+      "publishedAt": "2019-08-30T12:12:00Z",
+      "content": "Men's health start-ups have been a hot ticket with consumers who prefer to avoid the doctor for sensitive issues like erectile dysfunction and hair loss. Sign up online, get connected virtually with a physician and within days your pills start showing up in t… [+5534 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "AJ Horch",
+      "title": "How to use Twitter to get free investing tips from Wall Street's wisest",
+      "description": "Financial Twitter, or FinTwit as it is commonly called, can be an entertaining and educational source of investing knowledge. But you need to be careful of who you choose to follow.",
+      "url": "https://www.cnbc.com/2019/08/30/how-to-use-twitter-to-get-investing-tips-from-wall-streets-wisest.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105769216-1551435477406gettyimages-1128061423.jpeg?v=1566238846",
+      "publishedAt": "2019-08-30T12:00:43Z",
+      "content": "Earlier this year (to be exact, March 21, 2019) Twitter officially became a teenager. Conceived as a way to share text messages with friends, Twitter has evolved into a global networking, information and marketing platform now valued by stock market investors… [+4915 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Scott Cohn",
+      "title": "Trump proposal to crack down on food stamp fraud reignites a heated debate",
+      "description": "Proposed changes by the Trump administration to the federal food stamp program have rekindled the debate about whether the system is riddled with fraud.",
+      "url": "https://www.cnbc.com/2019/08/30/trump-plan-to-crack-down-on-food-stamp-fraud-reignites-heated-debate.html",
+      "urlToImage": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif",
+      "publishedAt": "2019-08-30T12:00:27Z",
+      "content": "On the whole, SNAP fraud is significant, but by the numbers it is a relatively small percentage of the more than $60 billion in benefits paid each year by the program, which is administered by the U.S. Department of Agriculture.\r\nIn testimony before a congres… [+1893 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Bertha Coombs",
+      "title": "From Jedis to astronauts: How NASA tapped a video game maker for training",
+      "description": "Medical videos by start-up Level Ex are now poised to pave the way for the future of health care in far away environments like the moon and Mars.",
+      "url": "https://www.cnbc.com/2019/08/30/jedis-to-astronauts-how-nasa-tapped-video-game-maker-for-training.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106099563-1566941457586mouth.jpg?v=1566941499",
+      "publishedAt": "2019-08-30T12:00:00Z",
+      "content": "An image from a Level Ex game for doctors\r\nSam Glassenberg set his sights on being a video game maker as a kid, and never looked back. But when the founder and CEO of Level Ex landed his dream video job 20 years ago, his family wasn't terribly impressed.\r\n \"I… [+3907 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Peter Schacknow",
+      "title": "Stocks making the biggest moves premarket: Campbell Soup, Ulta, Tesla, GE & more",
+      "description": "These are the stocks posting the largest moves before the bell.",
+      "url": "https://www.cnbc.com/2019/08/30/stocks-making-the-biggest-moves-premarket-campbell-soup-ulta-tesla.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105967658-1560454840474gettyimages-1153919034r.jpg?v=1560454859",
+      "publishedAt": "2019-08-30T11:47:00Z",
+      "content": "Check out the companies making headlines before the bell:\r\nCampbell Soup Campbell Soup reported adjusted quarterly profit of 49 cents per share, 8 cents above estimates, with organic sales up 2%. Revenue did fall below Wall Street forecasts, but Campbell said… [+2870 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Matthew J. Belvedere",
+      "title": "5 things to know before the stock market opens Friday",
+      "description": "U.S. stock futures indicate a nearly 200-point advance at the Friday open for the Dow, as Washington and Beijing showed a willingness to try to resolve their yearlong trade war.",
+      "url": "https://www.cnbc.com/2019/08/30/5-things-to-know-before-the-stock-market-opens-august-30-2019.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106072064-1565381894118rtx72kt0.jpg?v=1565381962",
+      "publishedAt": "2019-08-30T11:44:00Z",
+      "content": "1. Dow set to rally on hopes for progress in resolving the US-China trade war\r\nPeople walk on Wall St. outside the New York Stock Exchange, August 7, 2019.\r\nU.S. stock futures were indicating a nearly 200-point advance at the Friday open for the Dow Jones Ind… [+3688 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Michael Wayland",
+      "title": "GM, Lyft, Waymo urge US safety regulators to remove driver controls on autonomous cars",
+      "description": "Notably absent from the comments was Tesla, which has been very public about its aspirations for testing and deploying autonomous vehicles.",
+      "url": "https://www.cnbc.com/2019/08/30/gm-lyft-urge-regulators-to-remove-driver-controls-on-autonomous-cars.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104975281-waymo_van.png?v=1529477367",
+      "publishedAt": "2019-08-30T11:36:00Z",
+      "content": "Chrysler Pacifica hybrid minivan that's party of Waymo's fleet\r\nGeneral Motors and Alphabet's Waymo are among the companies encouraging federal safety regulators to swiftly, yet safely, update laws to better accommodate the testing and approval of fully auton… [+3525 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Michael Sheetz",
+      "title": "China will exempt multiple Tesla models from auto tariffs",
+      "description": "China's automotive regulatory body declared on Friday that it will exempt Tesla electric vehicles from its purchase tax.",
+      "url": "https://www.cnbc.com/2019/08/30/china-will-exempt-multiple-tesla-models-from-auto-tariffs.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105732675-1549934451397gettyimages-1078753032.jpg?v=1558438098",
+      "publishedAt": "2019-08-30T11:30:00Z",
+      "content": "China's automotive regulatory body declared on Friday that it will exempt Tesla electric vehicles from its purchase tax, helping the U.S. company avoid any increased costs tariffs in the ongoing trade war.\r\nThe statement came from the Ministry of Industry and… [+185 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Reuters",
+      "title": "China denies credentials to Wall Street Journal reporter, effectively kicking him out of the country",
+      "description": "A person with direct knowledge of the situation said officials at the foreign ministry, which accredits foreign reporters, had voiced displeasure to the Journal about a June 30 story.",
+      "url": "https://www.cnbc.com/2019/08/30/china-denies-credentials-to-wall-street-journal-reporter.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105991489-1561645411643rts2jknv.jpg?v=1561645473",
+      "publishedAt": "2019-08-30T11:26:00Z",
+      "content": "China has not renewed journalist's credentials for a reporter of the Wall Street Journal, the newspaper's parent company said on Friday, effectively kicking him out of the country.\r\nChun Han Wong, a Singapore national, had been based in Beijing, where he had … [+1859 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Elliot Smith",
+      "title": "Boris Johnson's audacious political ploy has split Wall Street",
+      "description": "Analysts at top global banks are divided on what U.K. Prime Minister Boris Johnson's controversial suspension of parliament will mean for Brexit.",
+      "url": "https://www.cnbc.com/2019/08/30/boris-johnson-audacious-political-ploy-has-split-wall-street.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106097344-1566843936203rts2nyxs.jpg?v=1566843991",
+      "publishedAt": "2019-08-30T11:10:00Z",
+      "content": "Analysts at top global banks are divided on what U.K. Prime Minister Boris Johnson's controversial suspension of parliament will mean for Brexit.\r\nThe possibility of Britain exiting the bloc with no deal has been at the heart of the debate since Johnson took … [+5690 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Keris Lahiff",
+      "title": "Bet on a breakout in this Chinese stock if trade talks progress, technical analyst says",
+      "description": "Thawing trade tensions between the U.S. and China could benefit one Chinese stock the most, says TradingAnalysis.com founder Todd Gordon.",
+      "url": "https://www.cnbc.com/2019/08/30/alibaba-could-break-out-if-us-china-trade-talks-progress-analyst.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105568967-1542039384691gettyimages-1066541604.jpeg?v=1567108240",
+      "publishedAt": "2019-08-30T11:05:00Z",
+      "content": "Thawing trade tensions between the U.S. and China could benefit one Chinese stock the most Alibaba, says TradingAnalysis.com founder Todd Gordon.\r\n \"After the IPO [in 2014], we came down into a double bottom right around the $70 region,\" Gordon said Thursday … [+1339 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Anmar Frangoul",
+      "title": "Why oil prices need to plummet for it to remain competitive in mobility",
+      "description": "Are we on the cusp of a significant change in the way vehicles are powered?",
+      "url": "https://www.cnbc.com/2019/08/30/why-oil-prices-need-to-plummet-to-remain-competitive-in-mobility.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106104756-1567159645792gettyimages-1018144514.jpeg?v=1567159679",
+      "publishedAt": "2019-08-30T10:53:00Z",
+      "content": "Oil prices will need to fall to between $10 and $20 per barrel if it is to remain competitive in the mobility sector, according to a recent report from BNP Paribas Asset Management. \r\nThe report's author, Mark Lewis, told CNBC's Squawk Box Europe Friday that … [+2398 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Matt Clinch",
+      "title": "A contrarian 'buy signal' for stocks has been triggered after waves of selling",
+      "description": "$7.6 billion in cash left equities in the week ending Wedneaday, which took the year-to-date outflow total to $204 billion.",
+      "url": "https://www.cnbc.com/2019/08/30/stock-market-a-contrarian-buy-signal-has-been-triggered.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106074382-1565622763348rts2masx.jpg?v=1565622826",
+      "publishedAt": "2019-08-30T10:50:00Z",
+      "content": "A contrarian \"buy signal\" for risk assets, like equities, has been activated for the first time since January this year.\r\nBank of America Merrill Lynch said in a research note Friday that its flagship sentiment indicator had tumbled from 2.4 to 1.3 and trigge… [+1315 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Jessica Bursztynsky",
+      "title": "What to watch today: Dow to rally, Dorian tracks toward Florida, and Tesla hikes China prices",
+      "description": "August will likely conclude as just the second negative month of 2019, but a month-end rally is set to continue today with U.S. stock futures showing strong gains.",
+      "url": "https://www.cnbc.com/2019/08/30/dow-to-rally-dorian-tracks-toward-florida-tesla-hikes-china-prices.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/102829758-RTX1JMKP.jpg?v=1554145667",
+      "publishedAt": "2019-08-30T10:48:00Z",
+      "content": "August will likely conclude as just the second negative month of 2019, but a month-end rally is set to continue today as U.S. stock futures showed strong gains. The Thursday close for the Dow was the highest since Aug. 8, and the two-day gains for the Dow and… [+5544 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Reuters",
+      "title": "Scottish court rejects interim block on parliament suspension but to hear arguments",
+      "description": "A Scottish court on Friday rejected a request to place an interim block on Prime Minister Boris Johnson's order to suspend parliament.",
+      "url": "https://www.cnbc.com/2019/08/30/scottish-court-rejects-interim-block-on-parliament-suspension.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105932013-1558703042963gettyimages-1080681030.jpeg?v=1567160479",
+      "publishedAt": "2019-08-30T10:20:00Z",
+      "content": "A Scottish court on Friday rejected a request to place an interim block on Prime Minister Boris Johnson's order to suspend parliament but said it would hear full arguments next week, a lawmaker who brought the case said.\r\nJoanna Cherry, a British lawmaker who… [+378 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Reuters",
+      "title": "Fire breaks out at Toyota headquarters in western Japan",
+      "description": "The fire was believed to have broken out in the technology development division, a company spokeswoman said.",
+      "url": "https://www.cnbc.com/2019/08/30/fire-breaks-out-at-toyota-headquarters-in-western-japan.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/101994156-152821653.jpg?v=1532564423",
+      "publishedAt": "2019-08-30T09:38:00Z",
+      "content": "Toyota Motor Corp was investigating a blaze on Friday at its headquarters in western Japan's Toyota City, believed to have broken out in the technology development division, a company spokeswoman said.\r\nPublic broadcaster NHK showed images of people evacuatin… [+243 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Huileng Tan",
+      "title": "Resolving trade war and Hong Kong unrest more important to China than saving 'face,' StanChart says",
+      "description": "China's priorities right now are to resolve its trade dispute with the U.S. and settle the civil unrest in Hong Kong, said Becky Liu, head of China macro strategy at Standard Chartered Bank.",
+      "url": "https://www.cnbc.com/2019/08/30/chinas-priority-resolve-trade-war-and-hong-kong-unrest-stanchart-says.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105487777-1538654984430rts202wj.jpg?v=1567148053",
+      "publishedAt": "2019-08-30T09:20:00Z",
+      "content": "China's priorities right now are to resolve its trade dispute with the U.S. and settle the civil unrest in Hong Kong, said Becky Liu, head of China macro strategy at Standard Chartered Bank.\r\n \"At this stage, we feel that China does want to diffuse some of th… [+2509 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Silvia Amaro",
+      "title": "ECB hawks are trying to downplay the chances of a huge stimulus package in September",
+      "description": "Just as investors gear up for the ECB's next meeting, two notably hawkish members of the euro zone's central bank have decided to inject some reality back into the debate.",
+      "url": "https://www.cnbc.com/2019/08/30/european-central-bnak-hawks-try-to-downplay-the-chances-of-qe.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105781081-1551990401246gettyimages-1134263810.jpeg?v=1551990422",
+      "publishedAt": "2019-08-30T09:14:00Z",
+      "content": "FMario Draghi (C), president of the European Central Bank (ECB)speaks flanked by Luis de Guindos, vice president of the European Central Bank (ECB), and Christine Graeff, director general for communications to the media following a meeting of the ECB Governin… [+3202 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "CNBC Asia Source",
+      "title": "A look at the bull and bear case scenarios for oil",
+      "description": "Helima Croft of RBC Capital Markets discusses what could lie ahead of the oil markets in light of geopolitical tensions. She says it is \"really important\" to watch Iran.",
+      "url": "https://www.cnbc.com/video/2019/08/30/a-look-at-the-bull-and-bear-case-scenarios-for-oil.html",
+      "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2019/08/30/106104294-15671442465ED2-ASB-Helima-082919.600x400.jpg",
+      "publishedAt": "2019-08-30T08:50:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Arjun Kharpal",
+      "title": "Huawei to push ahead with flagship phone launch — with or without Google services",
+      "description": "Huawei will launch a new flagship phone next month which may not come with Google apps, a source with direct knowledge of the matter told CNBC, as the Chinese firm faces being blocked from accessing the search giant's software.",
+      "url": "https://www.cnbc.com/2019/08/30/huawei-to-launch-mate-30-in-september-potentially-with-no-google-services.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105939264-1559186864684gettyimages-1146667825.jpeg?v=1565329550",
+      "publishedAt": "2019-08-30T08:49:00Z",
+      "content": "Huawei will launch a new flagship phone next month which may not come with Google apps, a source with direct knowledge of the matter told CNBC, as the Chinese firm faces being blocked from accessing the search giant's software.\r\nThe Mate 30 will be showcased … [+3614 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Uptin Saiidi",
+      "title": "Retirees in South Korea are going back to work as Airbnb hosts. I stayed with two of them",
+      "description": "Amid an aging crisis in the country, seniors in South Korea are finding new purpose by turning to an unlikely platform: Airbnb. CNBC stayed with one such retired couple who have gone back to work as Airbnb hosts.",
+      "url": "https://www.cnbc.com/2019/08/30/retirees-in-south-korea-are-going-back-to-work-as-airbnb-hosts.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106101664-1567028867655img_0703.jpg?v=1567029495",
+      "publishedAt": "2019-08-30T08:10:00Z",
+      "content": "SEOUL, South Korea Seniors in South Korea are finding new purpose by turning to an unlikely platform: Airbnb.\r\nAmid an aging crisis in the country, coupled with a declining birth rate, it's increasingly common for the mandatory retirement age to be as young a… [+2860 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Karen Gilchrist",
+      "title": "These US cities rank higher for tech security than personal safety",
+      "description": "The U.S. is home to some of the most digitally secure cities in the world, yet it lags behind in other important safety measures, a new study has found.",
+      "url": "https://www.cnbc.com/2019/08/30/eiu-safe-cities-indexthe-worlds-best-cities-for-safetycybersecurity.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106102390-1567068366908gettyimages-967906100.jpg?v=1567068409",
+      "publishedAt": "2019-08-30T08:03:00Z",
+      "content": "The U.S. is home to some of the most digitally secure cities in the world, yet it lags behind in other important safety measures, a new study has found.\r\nChicago, Washington DC, Los Angeles, San Francisco, Dallas and New York are among the world's savviest ci… [+2426 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "CNBC Asia Source",
+      "title": "It's best for us to expand outside of Australia: Harvey Norman",
+      "description": "We're sort of \"treading water\" in Australia and it is more advantageous for us to expand overseas, says Gerry Harvey of Harvey Norman. He also discusses online and offline sales channels.",
+      "url": "https://www.cnbc.com/video/2019/08/30/its-best-for-us-to-expand-outside-of-australia-harvey-norman.html",
+      "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2019/08/30/106104240-15671407315ED2-ASB-GerryHarvey-082919.600x400.jpg",
+      "publishedAt": "2019-08-30T08:03:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Sam Meredith",
+      "title": "US Treasury yields tick higher amid renewed trade talk hopes",
+      "description": "U.S. government debt prices were lower Friday morning, after Chinese officials said the country would be open to calmly resolving its trade war with the world's largest economy.",
+      "url": "https://www.cnbc.com/2019/08/30/us-bonds-wall-street-in-focus-amid-renewed-trade-talk-hopes.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106060345-1565021098577preview-1.jpg?v=1565022512",
+      "publishedAt": "2019-08-30T08:02:00Z",
+      "content": "U.S. government debt prices were lower Friday morning, after Chinese officials said the country would be open to calmly resolving its trade war with the world's largest economy.At around 04:00 a.m. ET, the yield on the benchmark 10-year Treasury note, which m… [+1453 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Reuters",
+      "title": "China rejects Hong Kong's plan to appease protesters, sources say",
+      "description": "Hong Kong Chief Executive Carrie Lam submitted a report to Beijing that assessed protesters' demands and found that withdrawing a contentious extradition bill could help defuse protests in the city.",
+      "url": "https://www.cnbc.com/2019/08/30/china-rejected-hong-kongs-plan-to-appease-protesters-sources-say.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105956827-1560076423604img_6024.jpg?v=1560077290",
+      "publishedAt": "2019-08-30T07:05:00Z",
+      "content": "People in Hong Kong march in a protest rally on June 9, 2019.\r\nEarlier this summer, Carrie Lam, the chief executive of Hong Kong, submitted a report to Beijing that assessed protesters' five key demands and found that withdrawing a contentious extradition bil… [+5926 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Sam Meredith",
+      "title": "US futures point to slightly lower open",
+      "description": "Market focus is largely attuned to global trade developments, after President Trump said some trade discussions had taken place on Thursday.",
+      "url": "https://www.cnbc.com/2019/08/30/stock-market-wall-street-in-focus-amid-us-china-trade-talks.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106085060-1566155245522gettyimages-1143921300.jpeg?v=1566577205",
+      "publishedAt": "2019-08-30T06:49:00Z",
+      "content": "U.S. stock index futures were slightly lower Friday morning.\r\nAt around 02:35 a.m. ET, Dow futures fell 25 points, indicating a negative open of more than 3 points. Futures on the S&amp;P and Nasdaq were marginally lower.\r\nMarket focus is largely attuned to g… [+1215 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Arjun Kharpal",
+      "title": "Chinese ride-hailing giant Didi plans to launch a robotaxi service in Shanghai",
+      "description": "Ride-hailing giant Didi Chuxing joins a number of other Chinese companies in announcing robotaxi services, as China seeks to race ahead in driverless technology.",
+      "url": "https://www.cnbc.com/2019/08/30/china-uber-didi-plans-to-launch-a-robo-taxi-service-in-shanghai.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106104268-1567143051659didishowcasesitsautonomousdrivingfleetatthewaicinshanghai.jpg?v=1567143214",
+      "publishedAt": "2019-08-30T06:17:00Z",
+      "content": "Didi Chuxing, China's version of Uber, announced plans to launch a robotaxi service in Shanghai where users will be able to hail driverless cars from the app.\r\nThe ride-hailing company will deploy 30 different models of so-called level four autonomous vehicle… [+1165 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Elliot Smith",
+      "title": "European stocks set to open cautiously higher on signs of trade war easing",
+      "description": "European stocks were seen opening higher on Friday after China struck an accommodating tone over its trade war with the U.S. and British opposition lawmakers plan to trigger an emergency debate to prevent a no-deal Brexit.",
+      "url": "https://www.cnbc.com/2019/08/30/european-stocks-trade-war-tone-cools-uk-lawmakers-seek-no-deal-brexit-block.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/103278825-trader.jpg?v=1529470365",
+      "publishedAt": "2019-08-30T06:06:00Z",
+      "content": "European stocks were seen opening higher on Friday after China struck an accommodating tone over its trade war with the U.S. and British opposition lawmakers plan to trigger an emergency debate to prevent a no-deal Brexit.\r\nThe FTSE 100 was seen around 11 poi… [+1725 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Yen Nee Lee",
+      "title": "Philippine finance secretary: Duterte talked South China Sea with Xi",
+      "description": "Philippine Secretary of Finance Carlos Dominguez didn't specify whether the two leaders discussed an arbitration court ruling in 2016 that rejected China's claims in the South China Sea.",
+      "url": "https://www.cnbc.com/2019/08/30/xi-jinping-philippines-duterte-talked-south-china-sea-in-beijing.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106104241-1567140759178gettyimages-615775168.jpeg?v=1567140898",
+      "publishedAt": "2019-08-30T05:48:00Z",
+      "content": "Philippine Secretary of Finance Carlos Dominguez told CNBC on Friday his country's president, Rodrigo Duterte brought up the South China Sea in a meeting with Chinese President Xi Jinping.\r\nHowever, Dominguez did not specify on whether the two leaders discuss… [+1004 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Reuters",
+      "title": "Amid crisis, China rejected Hong Kong plan to appease protesters, sources say - CNBC",
+      "description": "Amid crisis, China rejected Hong Kong plan to appease protesters, sources say CNBC Beijing's rebuff of Lam's proposal for how to resolve the crisis, detailed for the first time by Reuters, represents concrete evidence of the extent to which China is...",
+      "url": "https://www.cnbc.com/2019/08/30/reuters-america-exclusive-amid-crisis-china-rejected-hong-kong-plan-to-appease-protesters--sources.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106095995-1566756065676rts2nt54.jpg?v=1566779332",
+      "publishedAt": "2019-08-30T05:45:58Z",
+      "content": "Police officers point their guns toward protesters after a clash, at Tsuen Wan, in Hong Kong, August 25, 2019.\r\nEarlier this summer, Carrie Lam, the chief executive of Hong Kong, submitted a report to Beijing that assessed protesters' five key demands and fou… [+5883 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Ryan Browne",
+      "title": "Tech giants want rules on facial recognition, but critics warn that won't be enough",
+      "description": "Some are calling for a ban of live facial recognition, where surveillance cameras equipped with the technology scan people in public places.",
+      "url": "https://www.cnbc.com/2019/08/30/facial-recognition-tech-firms-want-regulation-but-critics-want-a-ban.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106102197-1567060648439gettyimages-1161933227.jpeg?v=1567142881",
+      "publishedAt": "2019-08-30T05:26:00Z",
+      "content": "It almost comes naturally to many smartphone users today. You can just take out your iPhone or Android equivalent and hold it up to your face to unlock the device.\r\nBut the technology behind that has become increasingly controversial of late, with business ex… [+3445 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "The Associated Press",
+      "title": "Juul faces heightened scrutiny, Illinois and DC launch probes",
+      "description": "The company's rapid rise to the top of the multi-billion dollar U.S. e-cigarette market has been accompanied by accusations from parents, politicians and public health advocates",
+      "url": "https://www.cnbc.com/2019/08/30/the-associated-press-probes-of-e-cigarette-giant-juul-underway-in-illinois-dc.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105666102-1546963264622rts219gb.jpg?v=1546963319",
+      "publishedAt": "2019-08-30T04:59:00Z",
+      "content": "E-cigarette giant Juul Labs is facing mounting scrutiny from state law enforcement officials, with the attorneys general in Illinois and the District of Columbia investigating how the company's blockbuster vaping device became so popular with underage teens, … [+2172 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Weizhen Tan",
+      "title": "China will likely wait out the trade war as it bets on its own economy",
+      "description": "Waiting out the trade war is the best option for China, while it boosts its economy which is largely driven by consumers — not trade, say analysts.",
+      "url": "https://www.cnbc.com/2019/08/30/chinas-consumption-more-crucial-to-its-economy-than-trade-exports.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104865369-IMG_1178.JPG?v=1567124017",
+      "publishedAt": "2019-08-30T03:50:00Z",
+      "content": "China's best option in the trade war is to wait it out, experts say, as it's huge domestic economy is increasingly being driven by the power of its consumers not trade.\r\nPlaying the long game is \"probably the best and only option\" that China has, said Chung M… [+3475 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Yen Nee Lee",
+      "title": "Saudi Aramco reportedly favors Tokyo for its overseas IPO",
+      "description": "Aramco's IPO will take place over two stages: A flotation on the Saudi stock exchange later this year, and an international listing in 2020 or 2021, The Wall Street Journal reported.",
+      "url": "https://www.cnbc.com/2019/08/30/saudi-aramco-ipo-oil-firm-reportedly-favors-tokyo-over-london-hong-kong.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106104110-1567130925185gettyimages-506680496.jpeg?v=1567131042",
+      "publishedAt": "2019-08-30T02:36:00Z",
+      "content": "Saudi Aramco is considering Tokyo instead of early favorites London and Hong Kong as the international destination to list its shares, The Wall Street Journal reported on Thursday.\r\nThe initial public offering of Saudi Arabia's state oil giant's shares will t… [+1550 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Eustance Huang",
+      "title": "Japan-South Korea dispute is a sign that the world order is 'collapsing,' says trade expert",
+      "description": "The trade conflict between Japan and South Korea is a sign that the global order is \"collapsing,\" according to Deborah Elms, executive director at the Asian Trade Centre.",
+      "url": "https://www.cnbc.com/2019/08/30/japan-south-korea-trade-war-a-sign-of-collapsing-world-order-expert.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106100059-1566974014168gettyimages-1169912317.jpeg?v=1566974063",
+      "publishedAt": "2019-08-30T02:00:00Z",
+      "content": "The trade conflict between Japan and South Korea is a sign that the global order \"is now collapsing,\" according to Deborah Elms, executive director at the Asian Trade Centre.\r\nThe two Asian countries are currently locked in a trade dispute that flared up in J… [+2611 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Reuters",
+      "title": "Hong Kong pro-democracy activist Joshua Wong arrested ahead of planned weekend protests",
+      "description": "Hong Kong democracy activist Joshua Wong was arrested on Friday ahead of another weekend of planned protests in the Chinese-ruled city which is grappling with its biggest political crisis since its handover to Beijing more than two decades ago.",
+      "url": "https://www.cnbc.com/2019/08/30/pro-democracy-activist-joshua-wong-arrested-ahead-of-weekend-protests.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106104089-1567127854204gettyimages-1150363807.jpeg?v=1567127947",
+      "publishedAt": "2019-08-30T01:36:00Z",
+      "content": "Hong Kong democracy activist Joshua Wong was arrested on Friday ahead of another weekend of planned protests in the Chinese-ruled city which is grappling with its biggest political crisis since its handover to Beijing more than two decades ago.\r\nWong, the fac… [+1805 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Reuters",
+      "title": "Oil dips after three days of gains",
+      "description": "Oil prices eased on Friday after three days of gains, with concerns about the state of the global economy amid the U.S.-China trade war keeping prices in check.",
+      "url": "https://www.cnbc.com/2019/08/30/oil-markets-us-china-trade-war-global-economy-in-focus.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/103090465-GettyImages-177675706.jpg?v=1445301088",
+      "publishedAt": "2019-08-30T01:20:00Z",
+      "content": "Oil prices eased on Friday after three days of gains, with concerns about the state of the global economy amid the U.S.-China trade war keeping prices in check. \r\nU.S. oil fell 6 cents, or 0.1%, to $56.65 a barrel by 0050 GMT. The contract is heading for a ga… [+2003 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Reuters",
+      "title": "China says a 'bigger step' is possible in offshore oil and gas development with the Philippines",
+      "description": "Chinese President Xi Jinping said China and the Philippines could take a \"bigger step\" in the joint development of oil and gas resources in the South China Sea if they can \"properly\" handle their dispute over sovereignty.",
+      "url": "https://www.cnbc.com/2019/08/30/china-says-possibility-in-offshore-oil-gas-development-with-philippines.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106104080-1567127209186gettyimages-1139190147.jpeg?v=1567127282",
+      "publishedAt": "2019-08-30T01:17:00Z",
+      "content": "Chinese President Xi Jinping said China and the Philippines could take a \"bigger step\" in the joint development of oil and gas resources in the South China Sea if they can \"properly\" handle their dispute over sovereignty.\r\nXi made the remarks on Thursday in a… [+2042 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Reuters",
+      "title": "North Korea changes constitution to solidify Kim Jong Un's rule",
+      "description": "This move comes after Kim was formally named head of state and commander-in-chief of the military in a new constitution in July that analysts said was possibly aimed at preparing for a peace treaty with the United States.",
+      "url": "https://www.cnbc.com/2019/08/30/north-korea-changes-constitution-to-solidify-kim-jong-uns-rule.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105870534-1556157295290rtx6sy8g.jpg?v=1567125269",
+      "publishedAt": "2019-08-30T01:10:00Z",
+      "content": "North Korea's parliament has approved changes to the country's constitution to solidify leader Kim Jong Un's role as head of state, official state media said on Thursday.\r\nThe move comes after Kim was formally named head of state and commander-in-chief of the… [+2960 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Salvador Rodriguez",
+      "title": "Uber and Lyft pledge $60 million to ballot measure in fight to keep drivers as contractors",
+      "description": "Uber and Lyft on Thursday pledged $60 million to a California ballot initiative for the 2020 election that would maintain the status of their drivers as contract workers.",
+      "url": "https://www.cnbc.com/2019/08/29/uber-and-lyft-pledge-60-million-to-fight-california-ballot-measure.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105948061-1559653155102ap_301652267577.jpg?v=1559653289",
+      "publishedAt": "2019-08-30T00:15:00Z",
+      "content": "Uber and Lyft on Thursday pledged $60 million to a California ballot initiative for the 2020 election that would maintain the status of their drivers as contract workers.\r\nThe companies have been fighting a California bill that could force them to reclassify … [+1065 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Eustance Huang",
+      "title": "Asia stocks set to rise amid positive US-China trade sentiment",
+      "description": "Stocks in Asia were set to trade higher on Friday after Beijing signaled it won't retaliate for now on the ongoing U.S.-China trade war.",
+      "url": "https://www.cnbc.com/2019/08/30/asia-markets-august-30-us-china-trade-us-treasurys-currencies.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105502947-1539325710392gettyimages-1042142542.jpeg?v=1567121165",
+      "publishedAt": "2019-08-29T23:36:00Z",
+      "content": "Stocks in Asia were set to trade higher on Friday following hints from Beijing that it will not retaliate against the latest round of tariffs from Washington for now, amid the ongoing U.S.-China trade war.\r\nFutures pointed to a higher open for Japanese shares… [+2271 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Reuters",
+      "title": "Trump administration barring tours of migrant detention centers, Democrats say",
+      "description": "Democrats in the U.S. House of Representatives on Thursday said the Trump administration is blocking investigators from touring immigrant detention facilities nationwide after recent visits revealed what they called \"serious ongoing problems\" concerning how d…",
+      "url": "https://www.cnbc.com/2019/08/29/trump-administration-bars-tours-of-migrant-detention-centers-democrats.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106009175-1562678909562gettyimages-1153414120.jpeg?v=1562678947",
+      "publishedAt": "2019-08-29T22:49:00Z",
+      "content": "Democrats in the U.S. House of Representatives on Thursday said the Trump administration is blocking investigators from touring immigrant detention facilities nationwide after recent visits revealed what they called \"serious ongoing problems\" concerning how d… [+2901 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Jasmin Kim",
+      "title": "Analyst: Bull market should live on until early 2021",
+      "description": "Despite recent recession fears and yield curve inversions, the bull market should live on until early 2021, says analyst Tom McClellan on CNBC's \"Closing Bell.\"",
+      "url": "https://www.cnbc.com/2019/08/29/analyst-bull-market-should-live-on-until-early-2021.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106103948-1567114650844tom.jpg?v=1567114688",
+      "publishedAt": "2019-08-29T22:47:00Z",
+      "content": "Despite recent recession fears and yield curve inversions, the bull market should live on until early 2021, analyst Tom McClellan said Thursday on CNBC's \"Closing Bell. \"\r\n \"Everyone needs to just keep their pants on for now and realize that the yield curve g… [+1755 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "CNBC US Source",
+      "title": "Retail in Focus: 4 trades",
+      "description": "The \"Fast Money\" traders give 4 trades in the retail sector as Dollar General surges after crushing earnings estimates and raising full-year guidance.",
+      "url": "https://www.cnbc.com/video/2019/08/29/retail-in-focus-4-trades.html",
+      "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2019/08/29/106103988-15671183255ED2-FM-REMIX-082919.600x400.jpg",
+      "publishedAt": "2019-08-29T22:41:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Christina Farr",
+      "title": "Walmart will offer mental health and other services at a new clinic in Georgia",
+      "description": "The clinic, called Walmart Health, will offer hearing tests, 60-minute counseling sessions and vision tests, as well as mental health support.",
+      "url": "https://www.cnbc.com/2019/08/29/walmart-is-piloting-health-clinic-at-walmart-health-in-georgia.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106065680-1565184423722gettyimages-458400477.jpeg?v=1565184450",
+      "publishedAt": "2019-08-29T22:40:00Z",
+      "content": "Walmart, the world's biggest retailer, is moving deeper into the primary care and mental health market, opening a new clinic called Walmart Health in Georgia.\r\nThe company recently updated its website with a link to Walmart Health, describing its \"newest loca… [+4197 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Michael Affigne",
+      "title": "Netflix just entered a death cross, and one trader won't get bullish until this happens",
+      "description": "The streaming wars may be heating up, but one name has already cooled down. Netflix is trading at its lowest levels since January, and one trader says it could get even worse.",
+      "url": "https://www.cnbc.com/2019/08/29/netflix-enters-a-death-cross-and-trader-wont-get-bullish-until-this.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104407571-1555450365707gettyimages-646167558r.jpg?v=1567108436",
+      "publishedAt": "2019-08-29T22:06:33Z",
+      "content": "The streaming wars may be heating up, but one name has already cooled down.\r\nNetflix has broken down since July, tumbling to its lowest levels since January. The streaming service is also the worst performing stock in the communication services sector this qu… [+3225 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Melissa Lee",
+      "title": "If Disney wins the streaming wars, who loses?",
+      "description": "Disney goes all in on streaming. A look at who stands to lose as a result. With CNBC's Melissa Lee and the Fast Money traders, Steve Grasso, Savita Subramanian, Dan Nathan and Guy Adami.",
+      "url": "https://www.cnbc.com/video/2019/08/29/if-disney-wins-the-streaming-wars-who-loses.html",
+      "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2019/08/29/106103971-15671162035ED3-FM-D-BLOCK-DISNEY-082919.600x400.jpg",
+      "publishedAt": "2019-08-29T22:03:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Melissa Lee",
+      "title": "Crude oil rallies on new trade deal hope",
+      "description": "RBC's Helima Croft on where oil is headed. With CNBC's Melissa Lee and the Fast Money traders, Steve Grasso, Savita Subramanian, Dan Nathan and Guy Adami.",
+      "url": "https://www.cnbc.com/video/2019/08/29/crude-oil-rallies-on-new-trade-deal-hope.html",
+      "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2019/08/29/106103968-5ed3-fm-c-block-082919.600x400.jpg",
+      "publishedAt": "2019-08-29T22:01:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Karen James Sloan",
+      "title": "US surfboard maker catches a break in ongoing trade war",
+      "description": "Making surfboards is a dying craft in Hermosa Beach, California. But at least one surfboard maker hopes the tide will turn once President Trump's latest round of tariffs takes effect in just a few days.",
+      "url": "https://www.cnbc.com/2019/08/29/us-surfboard-maker-catches-a-break-in-ongoing-trade-war.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106103877-1567112375908surfguywithmaga.jpg?v=1567112464",
+      "publishedAt": "2019-08-29T21:58:58Z",
+      "content": "HERMOSA BEACH, Calif. Inside Dennis Jarvis' small workshop, the noise is almost deafening as he buffs and smooths the hard styrofoam before him on a recent afternoon.\r\nHe's a surfboard maker or shaper, as they are called in the industry and he's one of the be… [+4412 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Melissa Lee",
+      "title": "S&P setting up for a big drop, strategist says. Here's how to trade it",
+      "description": "Sven Henrich, NorthmanTrader, on the risks to the rally. With CNBC's Melissa Lee and the Fast Money traders, Steve Grasso, Savita Subramanian, Dan Nathan and Guy Adami.",
+      "url": "https://www.cnbc.com/video/2019/08/29/sp-setting-up-for-a-big-drop-strategist-says-heres-how-to-trade-it.html",
+      "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2019/08/29/106103955-15671153795ED3-FM-A-BLOCK-2-082919.600x400.jpg",
+      "publishedAt": "2019-08-29T21:49:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Melissa Lee",
+      "title": "Stocks rallied on trade optimism, but is this just the calm before the tariff storm?",
+      "description": "Stocks rally on optimism about trade, but is it unfounded? With CNBC's Melissa Lee and the Fast Money traders, Steve Grasso, Savita Subramanian, Dan Nathan and Guy Adami.",
+      "url": "https://www.cnbc.com/video/2019/08/29/stocks-rally-on-trade-optimism-is-this-the-calm-before-tariff-storm.html",
+      "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2019/08/29/106103954-15671153305ED3-FM-A-BLOCK-082919.600x400.jpg",
+      "publishedAt": "2019-08-29T21:48:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Elizabeth Myong",
+      "title": "Stocks making the biggest moves after hours: Ulta, Ambarella and Dell",
+      "description": "See which stocks are posting big moves after the bell.",
+      "url": "https://www.cnbc.com/2019/08/29/stocks-making-the-biggest-moves-after-hours-ulta-ambarella-and-dell.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105802638-1553025572717gettyimages-965301868.jpeg?v=1567110275",
+      "publishedAt": "2019-08-29T21:41:00Z",
+      "content": "Check out the companies making headlines after the bell:\r\nShares of Ulta nosedived 21% after the company lowered its guidance and missed earnings estimates. The beauty company lowered its revenue growth guidance to 9%-12%, compared to the 12.3% Refinitiv esti… [+1865 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "CNBC US Source",
+      "title": "Final Trades: MSFT, CBS, and more",
+      "description": "The \"Fast Money\" traders share their final trades of the day including MSFT, CBS, and more",
+      "url": "https://www.cnbc.com/video/2019/08/30/final-trades-msft-cbs-and-more.html",
+      "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2019/08/30/106104969-15671673235ED3-FM-FINALTRADE-082919.600x400.jpg",
+      "publishedAt": "2019-08-29T21:30:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Jake Novak",
+      "title": "Israel will soon have to choose between China and the US",
+      "description": "The Trump administration has made repeated warnings to Israel over the past year and a half that the Jewish state must distance itself and even cancel a number of economic deals it's made with Beijing.",
+      "url": "https://www.cnbc.com/2019/08/29/israel-will-soon-have-to-choose-between-china-and-the-us.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104883828-GettyImages-687249136.jpg?v=1567109688",
+      "publishedAt": "2019-08-29T21:16:50Z",
+      "content": "\"Make new friends, but keep the old; Those are silver, these are gold.\"\r\nThat's the line about friendship that some of us were taught as kids.\r\nIt may also hold true for foreign policy, at least that's what some top bureaucrats in Israel are hoping to prove.\r… [+6234 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Jasmine Wu",
+      "title": "Ulta shares plummet as profit and sales miss expectations and company slashes outlook",
+      "description": "Shares of Ulta Beauty tanked 21% after the company reported earnings after the bell Thursday that missed analysts' expectations and slashed its outlook for the fiscal year.",
+      "url": "https://www.cnbc.com/2019/08/29/ulta-shares-plummet-as-profit-and-sales-miss-expectations-and-company-slashes-outlook.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105825892-1554130702842ulta1.jpg?v=1567108541",
+      "publishedAt": "2019-08-29T20:38:00Z",
+      "content": "Shares of Ulta Beauty tanked more than 20% after the company reported earnings after the bell Thursday that missed analysts' expectations and slashed its outlook for the fiscal year.\r\nHere's how the company did, according to a survey of analysts from Refiniti… [+1289 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Tyler Clifford",
+      "title": "NASCAR's Kurt Busch says changing tracks, TV contracts could boost ratings",
+      "description": "\"Do something different, do something fun, but we're kind of boxed in with some of the TV contracts and the track ownership portion of our sport,\" Kurt Busch says.",
+      "url": "https://www.cnbc.com/2019/08/29/nascars-kurt-busch-says-new-track-tv-deals-could-boost-ratings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106103370-1567098727781img_7283r.jpg?v=1567098771",
+      "publishedAt": "2019-08-29T20:33:00Z",
+      "content": "NASCAR needs to host events at new tracks and reach more markets to draw more fans to the sport, champion driver racer Kurt Busch told CNBC on Thursday.\r\nBusch, who is in his 19th season in the Monster Energy NASCAR Cup Series, said the auto racing organizati… [+2426 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "CNBC US Source",
+      "title": "UBS survey: 43% likely to subscribe to Disney+",
+      "description": "CNBC's \"Closing Bell\" team talks about Disney as a new theme park opens and the media empire anticipates the launch of its streaming service with John Hodulik of UBS and Barry Knapp of Ironsides Macroeconomics.",
+      "url": "https://www.cnbc.com/video/2019/08/29/ubs-survey-43percent-likely-to-subscribe-to-disney.html",
+      "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2019/08/29/106103626-ubs.600x400.jpg",
+      "publishedAt": "2019-08-29T20:27:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Nia Warfield",
+      "title": "Ulta Beauty is tumbling on earnings, but one trader sees strength ahead",
+      "description": "Investors are ditching Ulta Beauty in the extended session Thursday, but one trader sees a strong fundamental case for the stock.",
+      "url": "https://www.cnbc.com/2019/08/29/ulta-beauty-is-tumbling-on-earnings-but-one-trader-sees-strength-ahead.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105825892-1554130702842ulta1.jpg?v=1567108541",
+      "publishedAt": "2019-08-29T20:25:00Z",
+      "content": "Investors are ditching Ulta Beauty in the extended session Thursday.\r\nShares plummeted 13% after hours following an earnings and revenue miss. Comparable store sales also came in under expectations.\r\nShares of Ulta are up more than 37% this year but still dow… [+1403 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Lauren Feiner",
+      "title": "Disney sells its stake in YES Network to investor group that includes Amazon",
+      "description": "The Yankees and Sinclair Broadcast Group are also among the members of the investor group.",
+      "url": "https://www.cnbc.com/2019/08/29/disney-sells-its-stake-in-yes-network-to-investor-group-that-includes-amazon.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105981365-1561120926627rts2iu76.jpg?v=1561121003",
+      "publishedAt": "2019-08-29T20:21:00Z",
+      "content": "Disneyannounced Thursday it has sold its stake in the YES Network to an investor group including Amazon.\r\nThe investor group, which also includes the Yankees and Sinclair Broadcast Group, acquired the 80% stake of the YES Network that was not already held by … [+1055 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Kevin Breuninger",
+      "title": "Watch: Trump announces the establishment of US Space Command at the White House",
+      "description": "The Space Command is responsible for deploying military troops to \"accomplish directed missions in the space domain,\" the White House told NBC News.",
+      "url": "https://www.cnbc.com/2019/08/29/watch-trump-announces-the-establishment-of-us-space-command.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106103463-1567101659297trump.jpg?v=1567101718",
+      "publishedAt": "2019-08-29T19:55:00Z",
+      "content": "[The stream is scheduled to start at 4 p.m. ET. Please refresh the page if you do not see a player above at that time.]\r\nPresident Donald Trump on Thursday is slated to announce the formal establishment of the newest division of the Department of Defense: the… [+476 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Annie Nova",
+      "title": "Hackers are going after colleges, leaving students at risk of identity theft",
+      "description": "A new report finds that hackers are increasingly targeting the education industry, leaving students' information vulnerable to identity theft and other types of fraud.",
+      "url": "https://www.cnbc.com/2019/08/29/hackers-are-targeting-colleges-for-students-data.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/102045818-cyber.jpg?v=1566399347",
+      "publishedAt": "2019-08-29T19:41:00Z",
+      "content": "Hackers are increasingly targeting the education industry, leaving students' information vulnerable to identity theft and other types of fraud.\r\nColleges, training providers and other private educational companies received more malicious emails than any other… [+2215 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Jasmin Kim",
+      "title": "Columbia Sportswear CEO says China is not the 'big bad market' that Trump makes it out to be",
+      "description": "The CEO of Columbia Sportswear told CNBC on Thursday that China is not the \"big bad market\" that President Donald Trump makes it out to be, but one of the biggest geographic opportunities for his company.",
+      "url": "https://www.cnbc.com/2019/08/29/columbia-sportswear-ceo-says-china-is-not-a-big-bad-market.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104332576-GettyImages-512131112.jpg?v=1556313224",
+      "publishedAt": "2019-08-29T19:33:00Z",
+      "content": "The CEO of Columbia Sportswear told CNBC on Thursday that China is not the \"big bad market\" that President Donald Trump makes it out to be.\r\n \"I don't see the issues that the president talks about,\" CEO Tim Boyle said in an interview with \"Squawk on the Stree… [+2308 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Berkeley Lovelace Jr.",
+      "title": "Hospitals gather supplies, prepare staff as Hurricane Dorian approaches Florida coast",
+      "description": "Hospitals play a crucial role during hurricanes, contributing emergency medical assistance to those injured, provide shelter and are often equipped with backup generators.",
+      "url": "https://www.cnbc.com/2019/08/29/hospitals-prepare-for-hurricane-dorian-on-pace-for-florida.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106103397-1567099775932ap_19241545355771.jpg?v=1567099836",
+      "publishedAt": "2019-08-29T19:25:00Z",
+      "content": "Some of the nation's largest investor-owned hospitals are working to gather supplies and prepare for Hurricane Dorian as it rapidly approaches the Florida coast as potentially devastating Category 4 storm.\r\nHospitals play a crucial role during hurricanes, pro… [+2050 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Brian Schwartz",
+      "title": "Myanmar bank hires legal powerhouse Williams & Connolly after UN implicates holding company",
+      "description": "Kanbawza Bank of Myanmar hires legal powerhouse in fear of U.S. sanctions after holding company was implicated in a U.N report.",
+      "url": "https://www.cnbc.com/2019/08/29/myanmar-kbz-bank-hires-williams-connolly-for-potential-legal-trouble.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106103285-1567096178397kbz.jpg?v=1567096256",
+      "publishedAt": "2019-08-29T19:16:00Z",
+      "content": "One of the most lucrative private banks in Myanmar has hired a legal powerhouse after its holding company was implicated in a scathing United Nations report that blasted the country's military.\r\nKanbawza Bank has tapped Williams &amp; Connolly, a U.S.-based l… [+2591 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Jacob Pramuk",
+      "title": "Democratic candidate Beto O'Rourke releases trade plan that would end Trump's China tariffs",
+      "description": "\"Trade is not the problem—Trump is,\" Democratic presidential candidate and former Rep. Beto O'Rourke said in releasing his trade policy.",
+      "url": "https://www.cnbc.com/2019/08/29/2020-candidate-beto-orourke-releases-plan-to-end-trump-china-trade-war.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106037684-1563989709412rtx70uxk.jpg?v=1567103671",
+      "publishedAt": "2019-08-29T19:02:00Z",
+      "content": "Democratic presidential candidate Beto O'Rourke released a trade plan Thursday that would end President Donald Trump's tariffs on China and make various reforms meant to boost American workers. \r\nThe former Texas congressman's proposal would toss out the Whit… [+2130 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "CNBC US Source",
+      "title": "Exclusive look inside America's most expensive listing—the $195 million 'Chartwell Estate'",
+      "description": "The most expensive house for sale in America is priced at $195 million. CNBC's Robert Frank takes an inside look.",
+      "url": "https://www.cnbc.com/video/2019/08/29/exclusive-look-inside-americas-most-expensive-listing.html",
+      "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2019/08/29/106103551-power.600x400.jpg",
+      "publishedAt": "2019-08-29T19:01:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Anna Hecht",
+      "title": "Tiffany beat profit expectations—but many millennials still aren't buying diamonds",
+      "description": "Tiffany & Co announces earnings this week with news that it beat expectations and is on track to meet its full-year sales forecast. However, that's surprising based on millennials' spending habits.",
+      "url": "https://www.cnbc.com/2019/08/29/tiffany-beat-expectations-but-millennials-still-arent-buying-diamonds.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105948602-1559667366727tifany.jpg?v=1566992085",
+      "publishedAt": "2019-08-29T18:54:00Z",
+      "content": "Despite a drop in tourist spending in the U.S. and protests in Hong Kong slowing sales, American luxury jewelry retailer Tiffany &amp; Co still beat estimates on its quarterly profits, although the company's revenue fell short, it announced in its earnings re… [+5088 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Annie Palmer",
+      "title": "Senators ask Jeff Bezos to crack down on thousands of unsafe products on Amazon",
+      "description": "Three Senate Democrats sent a letter to Amazon urging the company to do something about the thousands of unsafe or banned products listed on the e-commerce site.",
+      "url": "https://www.cnbc.com/2019/08/29/senators-ask-jeff-bezos-to-crack-down-on-unsafe-products-on-amazon.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104535030-GettyImages-127506191-jeff-bezos.jpg?v=1532563819",
+      "publishedAt": "2019-08-29T18:49:00Z",
+      "content": "Three Senate Democrats sent a letter to Amazon urging the company to do something about the thousands of unsafe or banned products listed on the e-commerce site.\r\nIn a letter sent to Amazon CEO Jeff Bezos on Thursday, Sen. Richard Blumenthal (D-Conn.), Sen. B… [+2096 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Chuck Mikolajczak",
+      "title": "US STOCKS-China trade comments lift Wall Street as tech, industrials lead - CNBC",
+      "description": "NEW YORK, Aug 29- Wall Street's main indexes rallied on Thursday, led by the trade-sensitive technology and industrial sectors, as China sounded hopeful on trade negotiations with the United States, easing concerns that more combative stances could stoke a re…",
+      "url": "https://www.cnbc.com/2019/08/29/reuters-america-us-stocks-china-trade-comments-lift-wall-street-as-tech-industrials-lead.html",
+      "urlToImage": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804",
+      "publishedAt": "2019-08-29T18:46:00Z",
+      "content": "* All 11 major S&amp;P 500 sectors climb, tech leads\r\n* Best Buy falls on weak same-store sales forecast\r\n* Dollar General climbs after raising profit forecast\r\n* Dow up 1.39%, S&amp;P 500 up 1.39%, Nasdaq up 1.61% (Updates to midafternoon, changes byline)\r\nN… [+3108 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Dan Mangan",
+      "title": "Jeffrey Epstein case dismissed, lawyers still want judge to probe death",
+      "description": "The dismissal by U.S. District Judge Richard Berman in response to a request by prosecutors was a formality, given the death of Epstein, a former friend of Presidents Donald Trump and Bill Clinton.",
+      "url": "https://www.cnbc.com/2019/08/29/jeffrey-epstein-sex-trafficking-case-dismissed-due-to-suicide.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106009827-1562695684709preview.jpg?v=1567100130",
+      "publishedAt": "2019-08-29T18:39:00Z",
+      "content": "A federal judge on Thursday dismissed the pending criminal child sex trafficking case against wealthy financier Jeffrey Epstein, who authorities have said killed himself in a Manhattan jail earlier this month.\r\nThe dismissal by U.S. District Judge Richard Ber… [+3602 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Kevin Stankiewicz",
+      "title": "'Grossly irresponsible' – Larry Summers blasts ex-Fed president's call to thwart Trump in 2020",
+      "description": "\"That is to misunderstand entirely the role of appointed officials in a democracy,\" Summers said.",
+      "url": "https://www.cnbc.com/2019/08/29/grossly-irresponsible-larry-summers-blasts-ex-fed-presidents-call-to-thwart-trump-in-2020.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104374207-IMG_1080.jpg?v=1543427361",
+      "publishedAt": "2019-08-29T18:20:00Z",
+      "content": "Former New York Fed President Bill Dudley's push for the central bank to consider the 2020 election when crafting monetary policy is \"grossly irresponsible\" behavior, economist Larry Summers told CNBC on Thursday.\r\nDudley, in a Wednesday post on Bloomberg, su… [+2858 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Leslie Josephs",
+      "title": "Airlines brace for Hurricane Dorian as storm threatens to snarl Labor Day weekend travel",
+      "description": "Airlines have started to waive change fees as Hurricane Dorian strengthened and edged northward toward Florida, threatening to snarl travel during Labor Day weekend.",
+      "url": "https://www.cnbc.com/2019/08/29/hurricane-dorian-prompts-american-airlines-to-waives-change-fees-for-florida-flights.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105693052-1548191562702gettyimages-1065089024.jpg?v=1567091839",
+      "publishedAt": "2019-08-29T18:09:00Z",
+      "content": "Hurricane Dorian is strengthening and forecast to hit Florida as a Category 4 storm, threatening to derail travel during the busy Labor Day weekend.\r\nHurricane Dorian is projected to make landfall on Florida with winds reaching 130 miles per hour, according t… [+2221 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Reuters",
+      "title": "Dorian forecast to become Category 4 hurricane as it approaches Florida",
+      "description": "Hurricane Dorian is forecast to strengthen and become a highly dangerous Category 4 hurricane on Sunday, with winds of 130 mph.",
+      "url": "https://www.cnbc.com/2019/08/29/hurricane-dorian-forecast-to-reach-category-4-as-it-approaches-florida.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106103457-1567101291087gettyimages-1170953377.jpeg?v=1567101362",
+      "publishedAt": "2019-08-29T18:05:00Z",
+      "content": "Hurricane Dorian is forecast to strengthen and become a highly dangerous Category 4 hurricane on Sunday, threatening the Atlantic coast of central and south Florida, the National Hurricane Center said on Thursday.\r\nSpurred on by warm Atlantic waters, Dorian i… [+3728 chars]"
+    }
+  ]
+}
