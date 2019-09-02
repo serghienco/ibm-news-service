@@ -1,0 +1,1306 @@
+{
+  "status": "ok",
+  "totalResults": 5430,
+  "articles": [
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Death Toll in West Texas Shooting Rampage Rises to 7",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-09-01/5-dead-after-man-stopped-by-texas-troopers-goes-on-rampage",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T14:55:31Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "American Air Pulls 737 Max From Schedule Through Early December",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-09-01/american-air-pulls-737-max-from-schedule-through-early-december",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T14:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Hezbollah Says it Destroyed Military Verhicle in Northern Israel",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-09-01/hezbollah-says-it-destroyed-military-verhicle-in-northern-israel",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T13:57:44Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Court Gives Vivendi a Window to Challenge Mediaset Merger",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-09-01/court-gives-vivendi-a-window-to-challenge-mediaset-merger",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T13:57:29Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Saudi Arabia Plans New Recycling Facility to Build Up Industry",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-09-01/saudi-arabia-plans-new-recycling-facility-to-build-up-industry",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T13:29:22Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Sanofi Revival Depends on Outsider With a Nose for Blockbusters",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-09-01/sanofi-revival-depends-on-outsider-with-a-nose-for-blockbusters",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T13:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Much-Ado-About-Nothing August Masks Bleeding in Smaller Firms",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-09-01/much-ado-about-nothing-august-masks-bleeding-in-smaller-firms",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T12:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Pope Rescued by Firefighters After Getting Stuck in Elevator",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-09-01/pope-rescued-by-firefighters-after-getting-stuck-in-elevator",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T11:45:08Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Vietnam Says South China Sea Tensions Causing Global Concerns",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-09-01/vietnam-says-south-china-sea-tensions-causing-global-concerns",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T11:38:01Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "U.K. Opposition to Propose Law to Stop No-Deal Brexit on Tuesday",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-09-01/u-k-opposition-to-propose-law-to-stop-no-deal-brexit-on-tuesday",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T11:33:51Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Sunday Strategist: Phone Companies Hate Robocalls, Too",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-09-01/sunday-strategist-phone-companies-hate-robocalls-too",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T11:00:11Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Flying Straight Into Hurricanes: U.S. Weather Corps Hunts Storms",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-09-01/flying-straight-into-hurricanes-u-s-weather-corps-hunts-storms",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T11:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Saudis Sharpen Oil Policy Focus With Energy Ministry Reshuffle",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-09-01/saudis-sharpen-oil-policy-focus-with-energy-ministry-reshuffle",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T10:51:42Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Jonathan Tirone",
+      "title": "Solar Real Estate Is Hiding in Plain Site on Europe’s Rooftops",
+      "description": "Solar Real Estate Is Hiding in Plain Site on Europe’s Rooftops bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2019-09-01/solar-real-estate-is-hiding-in-plain-site-on-europe-s-rooftops",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T10:41:50Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Woodford Blames Frozen Fund's Losses on Momentum-Driven Market",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-09-01/woodford-blames-frozen-fund-s-losses-on-momentum-driven-market",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T10:33:29Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Germany Seeks Forgiveness From Poland 80 Years After WWII Start",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-09-01/germany-seeks-forgiveness-poland-redress-80-after-start-of-ww2",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T10:05:27Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Recession-Risk Insights on Tap as Trade War Flares: Economy Week",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-09-01/recession-risk-insights-on-tap-as-trade-war-flares-economy-week",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T09:27:26Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Brian Swint",
+      "title": "Johnson Unveils More Spending as Election Looms: Brexit Update",
+      "description": "U.K. Prime Minister Boris Johnson pledged billions of pounds for education, social care and transportation, and warned Conservative lawmakers to get behind his Brexit plan or face losing their party affiliation.",
+      "url": "https://www.bloomberg.com/news/articles/2019-09-01/johnson-unveils-more-spending-as-election-looms-brexit-update",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T08:27:06Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Ferdinando Giugliano",
+      "title": "Brexit Prorogation: British Politics Make Italy Look Stable",
+      "description": "Brexit Prorogation: British Politics Make Italy Look Stable bloomberg.com",
+      "url": "https://www.bloomberg.com/opinion/articles/2019-09-01/brexit-prorogation-british-politics-make-italy-look-stable",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T08:14:57Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Bloomberg Daybreak: Middle East Full Show (09/01/2019)",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/videos/2019-09-01/bloomberg-daybreak-middle-east-full-show-09-01-2019-video",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T07:53:31Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Market Fragility On Show as Trade War, China Data Curb Optimism",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-09-01/market-fragility-on-show-as-trade-war-china-data-curb-optimism",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T07:31:10Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Israel's Netanyahu Hopes to Annex All West Bank Settlements",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-09-01/israel-s-netanyahu-hopes-to-annex-all-west-bank-settlements",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T07:09:46Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Shoko Oda, Eltaf Najafizada",
+      "title": "U.S. Says It’s at ‘Threshold’ of Taliban Deal Amid New Attack",
+      "description": "The U.S. said it’s at the “threshold” of a deal with the Taliban after the latest round of talks ended, even amid reports that the group attacked another Afghan city on Sunday.",
+      "url": "https://www.bloomberg.com/news/articles/2019-09-01/u-s-says-it-s-at-threshold-of-taliban-deal-amid-new-attack",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T06:57:33Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Emerging Markets Are Often Bad in August, But Rarely This Bad",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-09-01/emerging-markets-are-often-bad-in-august-but-rarely-this-bad",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T06:54:07Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Tesla Batteries Are Keeping Zimbabwe's Economy Running",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-09-01/tesla-batteries-are-keeping-zimbabwe-s-economy-running",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T06:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Charles Penty",
+      "title": "How Catalonia Remains a Thorn in Spanish Politics",
+      "description": "Remember Catalonia? It’s been two years since the region’s then-government tried to stage a breakaway from Spain and riot police clamped down on an attempt to hold an illegal referendum. The quest for Catalan independence, and how it was quickly quashed, beca…",
+      "url": "https://www.bloomberg.com/news/articles/2019-09-01/how-catalonia-remains-a-thorn-in-spanish-politics-quicktake",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T06:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Giovanni Salzano",
+      "title": "Salvini’s Misstep Is Starting to Hurt His Poll Numbers",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-09-01/salvini-s-misstep-is-starting-to-hurt-his-poll-numbers-chart",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T06:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bn",
+      "title": "China's Fake Social Media Accounts Could Be Devastating: Brett Bruen",
+      "description": "China's Fake Social Media Accounts Could Be Devastating: Brett Bruen bloomberg.com",
+      "url": "https://www.bloomberg.com/news/videos/2019-08-19/china-s-fake-social-media-accounts-could-be-devastating-for-u-s-brett-bruen-says-video",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T05:56:23Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Abbas Al Lawati",
+      "title": "Iran Deputy Foreign Minister to Visit France on Nuclear Deal",
+      "description": "Iran’s deputy foreign minister, Abbas Araghchi, will travel to Paris on Monday with an economic delegation to discuss French proposals for preserving the 2015 nuclear deal, the semi-official Iranian Students’ News Agency reported, quoting a top aide to Presid…",
+      "url": "https://www.bloomberg.com/news/articles/2019-09-01/iran-deputy-foreign-minister-to-visit-france-on-nuclear-deal",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T05:36:16Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Iain Marlow, Aaron Mc Nicholas, Fion Li",
+      "title": "Hong Kong Police, Protesters Clash in Trains as Violence Rages",
+      "description": "Hong Kong’s riot police charged at protesters in subway carriages with batons and pepper spray in a night of some of the worst violence seen in three months of anti-China demonstrations. The city was braced Sunday for planned disruptions to airport transporta…",
+      "url": "https://www.bloomberg.com/news/articles/2019-09-01/hong-kong-police-protesters-clash-in-trains-as-violence-rages",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T05:10:57Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Macau Gaming Revenue Slips on Hong Kong Protests, VIP Caution",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-09-01/macau-gaming-revenue-slips-on-hong-kong-protests-vip-caution",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T05:09:16Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Gut Check Time for Treasuries After Biggest Rally Since 2008 - Bloomberg",
+      "description": "Gut Check Time for Treasuries After Biggest Rally Since 2008 Bloomberg What the Jackson Hole Summit commentary augurs for global financial markets Moneycontrol Only the Fed Can Save Us The New York Times Worried About Negative Interest Rates Coming? They Are …",
+      "url": "https://www.bloomberg.com/news/articles/2019-09-01/gut-check-time-for-treasuries-after-biggest-rally-since-2008",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T04:46:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Trump Heaps More Tariffs on China, Still No Deal in Sight",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-09-01/u-s-tariffs-against-china-due-to-take-effect-sunday",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T04:01:09Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Scottish Independence Is Back, and So Are the Financial Hurdles",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-09-01/scottish-independence-is-back-and-so-are-the-financial-hurdles",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T04:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "IFC-Backed Uber of Trucks Reshapes Nigeria’s Haulage Market - Bloomberg",
+      "description": "IFC-Backed Uber of Trucks Reshapes Nigeria’s Haulage Market Bloomberg An Uber-like App for trucks is making it easier and cheaper for firms to move goods in Africa's most populous nation.",
+      "url": "https://www.bloomberg.com/news/articles/2019-09-01/ifc-backed-uber-of-trucks-reshapes-nigeria-s-haulage-market",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T04:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Huge Returns Raise Risk Alarm at $230 Billion Funds in Denmark",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-09-01/huge-returns-raise-risk-alarm-at-230-billion-funds-in-denmark",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T04:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Shoko Oda",
+      "title": "Barnier ‘Not Optimistic’ on Avoiding No-Deal Brexit: Telegraph",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-09-01/barnier-not-optimistic-on-avoiding-no-deal-brexit-telegraph",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T03:54:04Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Sheryl Tian Tong Lee, Iain Marlow, Shawna Kwan",
+      "title": "Hong Kong Students Vow to Keep Protests Alive as Classes Begin",
+      "description": "While Hong Kong’s government is hoping that the start of the new school year this week will limit students’ time to take to the streets, demonstrators have vowed to continue with the protests and to spread their message on campuses.",
+      "url": "https://www.bloomberg.com/news/articles/2019-09-01/hong-kong-students-vow-to-keep-protests-alive-as-classes-begin",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T01:33:33Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Coco Gauff, 15, Loses to 2018 Champ Osaka At U.S. Open",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/the-latest-no-25-mertens-advances-to-us-open-round-of-16",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T01:08:15Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "South Korea's Export Slump Extends to Ninth Month Amid Gloom",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-09-01/south-korea-s-export-slump-extends-to-ninth-month-amid-gloom",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T00:09:44Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Investors Who Chased Asia's Highest Real Yielders Ended Up Last",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-09-01/investors-who-chased-asia-s-highest-real-yielders-ended-up-last",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T00:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Steve Geimann",
+      "title": "Johnson Sets Out Election Platform in Warning to Rebel Lawmakers",
+      "description": "U.K. Prime Minister Boris Johnson pledged billions of pounds for education, social care and transportation, and warned Conservative lawmakers to get behind his Brexit plan or face losing their party affiliation.",
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/johnson-sets-out-election-platform-in-warning-to-rebel-lawmakers",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T22:14:37Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Multiple Gunshot Victims Reported in Texas Shootings",
+      "description": "Odessa, Texas (AP) -- Police say there are \"multiple gunshot victims\" in West Texas after reports of two suspects opening fire in the area of Midland and Odessa.",
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/urgent-police-multiple-gunshot-victims-from-texas-shootings",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHXQi_d4RLxg/v0/1200x900.jpg",
+      "publishedAt": "2019-08-31T22:09:25Z",
+      "content": "Odessa, Texas (AP) -- Police say there are \"multiple gunshot victims\" in West Texas after reports of two suspects opening fire in the area of Midland and Odessa.\r\nPolice in Odessa, say one or possibly two suspects hijacked U.S. Postal Service the postal vehic… [+866 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Thirty People Shot in Active Shooter Situation in Texas: CBS",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/thirty-people-shot-in-active-shooter-situation-in-texas-cbs",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T21:47:31Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Bahamas PM Makes Urgent Plea as Island Nation Braces for Dorian",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/bahamas-pm-makes-urgent-plea-as-island-nation-braces-for-dorian",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T21:45:05Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Linus Chua",
+      "title": "Hong Kong Police Fire Two Shots Into the Air as Protest Turns Violent",
+      "description": "Hong Kong police said they fired shots into the air twice Saturday night to protect at-risk colleagues as protesters swarmed the city’s streets in defiance of a ban.",
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/hong-kong-police-officers-fire-two-shots-into-air-amid-protest",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T20:44:07Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "From Aircraft To Coral",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/videos/2019-08-31/from-aircraft-to-coral-video",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T20:07:43Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Protesters Speak Out in London",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/videos/2019-08-31/protesters-speak-out-in-london-video",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T19:09:28Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Venezuela Says It Has Proof of Anti-Maduro Plot in Colombia",
+      "description": "Caracas, Venezuela (AP) -- The Venezuelan government presented evidence Saturday of what it called paramilitary training camps in neighboring Colombia to plot violent attacks to undermine President Nicolás Maduro.",
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/venezuela-says-it-has-proof-of-anti-maduro-plot-in-colombia",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T18:25:45Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Gregory Korte, Jennifer Epstein",
+      "title": "Battleground State Ohio Will Host October's Democratic Debate",
+      "description": "Ohio, the ultimate bellwether state, will host the top Democratic contenders for president at a debate on Oct. 15, the state’s Democratic Party said Saturday.",
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/battleground-state-ohio-will-host-october-s-democratic-debate",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T18:04:03Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Brad Skillman",
+      "title": "U.S. Conducts Strike vs Al-Qaeda at Facility Near Idlib",
+      "description": "U.S. forces conducted a strike against al-Qaeda leadership at a facility north of Idlib, Syria, on Aug. 31, U.S. central command said in a statement.",
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/u-s-conducts-strike-vs-al-qaida-at-facility-near-idlib-syria",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T18:03:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Chile's Snowless Slopes",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/videos/2019-08-31/chile-s-snowless-slopes-video",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T17:41:16Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Greg Stohr",
+      "title": "Ginsburg Says After Cancer She’s on the Way to ‘Being Very Well’",
+      "description": "U.S. Supreme Court Justice Ruth Bader Ginsburg said she’s “on my way to being very well” after her latest bout with cancer, telling a crowd of thousands that her work had sustained her through previous health scares.",
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/ginsburg-says-after-cancer-she-s-on-the-way-to-being-very-well",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T17:19:20Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Constantine Courcoulas",
+      "title": "Turkey to Launch Own Plan Unless its Troops Control Syria Buffer",
+      "description": "President Recep Tayyip Erdogan said Turkey will put its own operational plan into effect in northern Syria unless Turkish troops take control of a planned buffer zone along its border within weeks.",
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/turkey-to-launch-own-plan-unless-its-troops-control-syria-buffer",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T17:06:18Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Iran Supertanker Is No Longer Bound for Turkey, Tracking Data Show",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/iran-supertanker-no-longer-bound-for-turkey-tracking-data-show",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T16:57:48Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Timothy L. O'brien",
+      "title": "Puerto Rico Death Toll Isn't Lost on Trump",
+      "description": "Puerto Rico Death Toll Isn't Lost on Trump bloomberg.com",
+      "url": "https://www.bloomberg.com/opinion/articles/2018-09-13/trump-neglected-puerto-rico-but-didn-t-forget-it",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T16:51:46Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Ros Krasny",
+      "title": "Trump Helicopters Into Golf Course After Staying Back for Storm",
+      "description": "President Donald Trump traveled to his private golf club in Northern Virginia on Saturday after canceling a visit to Poland to monitor the approach of Hurricane Dorian to the U.S. East Coast.",
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/trump-helicopters-into-golf-course-after-staying-back-for-storm",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T16:31:16Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Builders Swap Cement for Weed",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/videos/2019-08-31/builders-swap-cement-for-weed-video",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T16:20:43Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Orange Growers Brace for Dorian",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/videos/2019-08-31/orange-growers-brace-for-dorian-video",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T16:20:18Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Sebastian Boyd",
+      "title": "Argentina Plans Aggressive Defense of Peso Starting on Monday",
+      "description": "Argentina’s government has asked the central bank to start an aggressive new defense of the peso on Monday after the currency fell 26% in August, driving the country closer to an eighth default on its international debt.",
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/argentina-plans-aggressive-defense-of-peso-starting-on-monday",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T16:01:53Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Twitter, Amazon Web Services Facing Some Issues: Downdetector",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/twitter-amazon-web-services-facing-some-issues-downdetector",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T15:29:36Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Sudan Court Accepts Corruption Charges Against Al-Bashir",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/sudan-court-will-resume-al-bashir-trial-next-week",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T15:23:36Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bn",
+      "title": "Cloud Transition to Take a Couple of Years: Nutanix CEO Dheeraj Pandey",
+      "description": "Cloud Transition to Take a Couple of Years: Nutanix CEO Dheeraj Pandey bloomberg.com",
+      "url": "https://www.bloomberg.com/news/videos/2019-08-30/nutanix-ceo-on-business-model-transition-trade-war-and-future-of-cloud-video",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T15:22:40Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Ros Krasny",
+      "title": "Sanders Teases Proposal to Write Off $81 Billion in Medical Debt",
+      "description": "Senator Bernie Sanders is proposing to cancel an estimated $81 billion in past-due medical debt owed by Americans as he vies for the 2020 Democratic presidential nomination using a platform focused on health care",
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/sanders-teases-proposal-to-write-off-81-billion-in-medical-debt",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T14:47:25Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "jpm_sd",
+      "title": "What If Silicon Valley’s ‘Brilliant Jerks’ Are Just Jerks?",
+      "description": "Article URL: https://www.bloomberg.com/opinion/articles/2019-08-29/what-if-silicon-valley-s-brilliant-jerks-are-just-regular-ones Comments URL: https://news.ycombinator.com/item?id=20846516 Points: 6 # Comments: 0",
+      "url": "https://www.bloomberg.com/opinion/articles/2019-08-29/what-if-silicon-valley-s-brilliant-jerks-are-just-regular-ones",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T14:35:32Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "U.S. Unleashes Military to Fight Fake News, Disinformation",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/u-s-unleashes-military-to-fight-fake-news-disinformation",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T13:43:26Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Owen Franks",
+      "title": "Hong Kong Protesters Wave U.S. Flags, Urge Trump to Take Action",
+      "description": "Hong Kong Protesters Wave U.S. Flags, Urge Trump to Take Action bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/hong-kong-protesters-wave-u-s-flags-urge-trump-to-take-action",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T13:36:27Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Greece to Tighten Borders, Speed Asylum-Seeker Deportations",
+      "description": "Greece's prime minister and his national security advisers decided Saturday to transfer refugees from overcrowded migrant camps on its eastern islands to the mainland and accelerate the deportation of rejected applicants for asylum without giving them the rig…",
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/greece-to-tighten-borders-speed-asylum-seeker-deportations",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T13:34:59Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Dorian Gains Strength But Direct Hit on Florida Is Less Certain",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/dorian-becomes-category-4-hurricane-on-slow-path-toward-florida",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T13:33:33Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Kristie Pladson, Piotr Skolimowski",
+      "title": "Merkel Calls for Compromise as East-West Gap Risks Social Fabric",
+      "description": "Chancellor Angela Merkel called for a better exchange of ideas between different parts of Germany as social tensions in the former communist east look set to contribute to bruising electoral losses for the parties in her coalition.",
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/merkel-calls-for-compromise-as-east-west-gap-risks-social-fabric",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T13:01:33Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Older Foreigners May Be a Quarter of U.S. Seniors in 50 Years",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/older-foreigners-may-be-a-quarter-of-u-s-seniors-in-50-years",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T12:34:25Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Kathleen Hunter",
+      "title": "Bolsonaro’s Defiance, Loving Trump, Upheaval in Italy: Weekend Reads",
+      "description": "Want to receive this post in your inbox every day? Sign up for the Balance of Power newsletter, and follow Bloomberg Politics on Twitter and Facebook for more.",
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/bolsonaro-s-defiance-loving-trump-upheaval-in-italy-weekend-reads-jzzhuyln",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T12:00:11Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "America's Wealth Hinges on Its Ability to Borrow Big - or Else",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/america-s-wealth-hinges-on-its-ability-to-borrow-big-or-else",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T12:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Protesters Call on Trump for Help",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/videos/2019-08-31/protesters-call-on-trump-for-help-video",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T11:39:29Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Hudson's Bay to Close Dutch Unit and Dismiss 1,400 Workers: Report",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/hudson-s-bay-to-close-dutch-unit-dismiss-1-400-workers-fd-says",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T11:00:38Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "King Dollar Is Left, Right and Center of Emerging-Market Malaise",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/king-dollar-is-left-right-and-center-of-emerging-market-malaise",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T11:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "U.K. Sheep Farmer Wins Restraining Order Against Vegan Activist",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/u-k-sheep-farmer-wins-restraining-order-against-vegan-activist",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T10:41:13Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Hong Kong Clashes Intensify With Water Cannons and Firebombs",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/hong-kong-clashes-escalate-as-water-cannons-firebombs-are-used",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T10:37:49Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bibhudatta Pradhan",
+      "title": "Millions May Be Left Stateless in India’s Citizenship Crackdown",
+      "description": "Millions May Be Left Stateless in India’s Citizenship Crackdown bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/millions-may-be-left-stateless-in-india-s-citizenship-crackdown",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T10:27:12Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Infighting Haunts Italy's Conte as He Seeks to Placate Partners",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/infighting-haunts-italy-s-conte-as-he-seeks-to-placate-partners",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T10:20:46Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Niklas Magnusson",
+      "title": "Denmark’s Liberal Party Opposition Leader Rasmussen Steps Down",
+      "description": "Danish opposition leader Lars Lokke Rasmussen, a two-time prime minister, will step down as chairman of Denmark’s Liberal Party.",
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/denmark-s-liberal-party-opposition-leader-rasmussen-steps-down",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T09:55:42Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Steinhoff Seeks Fresh Start, Nominates New Auditor",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-08-30/steinhoff-seeking-fresh-start-as-mazars-proposed-as-new-auditor",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T09:55:20Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Lagarde Lauds Merkel Method as She Prepares to Become ECB Chief",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/lagarde-lauds-merkel-method-as-she-prepares-to-become-ecb-chief",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T09:30:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Swedish Banks to Foot the Bill as Russia Prompts Defense Splurge",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/swedish-banks-to-foot-the-bill-as-russia-prompts-defense-splurge",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T09:22:18Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "China Rebukes EU, U.S. Politicians for Interfering on Hong Kong",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/china-rebukes-eu-u-s-politicians-for-interfering-on-hong-kong",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T07:44:51Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Marek Strzelecki",
+      "title": "Poland's Prime Minister Takes on Duties of Finance Chief",
+      "description": "Poland’s Prime Minister Mateusz Morawiecki has taken charge of finance after Marian Banas became head of the Supreme Audit Chamber on Friday.",
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/poland-s-prime-minister-takes-on-duties-of-finance-chief",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T07:36:36Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "RFK Assassin Sirhan Sirhan Stable After Prison Stabbing",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/rfk-assassin-sirhan-sirhan-stable-after-prison-stabbing",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T07:10:06Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Shelly Banjo",
+      "title": "Hong Kong Cyber Attack Briefly Disrupts Key Protester Forum",
+      "description": "Hong Kong Cyber Attack Briefly Disrupts Key Protester Forum bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/hong-kong-cyber-attack-briefly-disrupts-key-protester-forum",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T06:27:59Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "North Korea Says Hopes for Talks with U.S. Fade on Pompeo Remark",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/north-korea-criticizes-u-s-s-pompeo-for-rogue-behavior-remark",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T06:06:08Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "William Wilkes, Charlie Devereux, Ewa Krukowska",
+      "title": "Populism and Protest Lurk Behind Europe’s Dying Coal Mines",
+      "description": "Enraged voters in Germany’s mining heartland are on the verge of a rebellion.",
+      "url": "https://www.bloomberg.com/news/features/2019-08-31/germany-election-dying-coal-mines-give-rise-to-populism-protest",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T04:00:11Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Jake Rudnitsky",
+      "title": "Anti-Putin Opposition Marches Through Moscow in Peaceful Protest",
+      "description": "Hundreds of Russians marched through the streets of Moscow in what appeared to be the most peaceful unauthorized rally in a summer of demonstrations against President Vladimir Putin.",
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/anti-putin-opposition-calls-new-protest-amid-crackdown-threat",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T04:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Youth Climate Activists Speak",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/videos/2019-08-31/youth-climate-activists-speak-video",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T03:02:04Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "China Factory Outlook Worsens in August as Trade War Escalates",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/china-factory-outlook-worsens-in-august-as-trade-war-escalates",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T02:18:43Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Travelers Get Green Light From Court to Sue Airport Screeners",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/travelers-get-green-light-from-court-to-sue-airport-screeners",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T02:02:23Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Trump Statue Erected In Slovenia",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/videos/2019-08-31/trump-statue-erected-in-slovenia-video",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T00:58:24Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Florida Nuclear Plants Ready to Shut Down as Dorian Threat Looms",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-08-31/florida-nuclear-plants-ready-to-shut-down-as-dorian-threat-looms",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T00:27:22Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Kevin Crowley",
+      "title": "Exxon to Drop From S&P 500’s 10 Biggest for First Time Ever",
+      "description": "Exxon to Drop From S&P 500’s 10 Biggest for First Time Ever bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2019-08-30/exxon-poised-to-drop-from-s-p-500-s-top-10-for-first-time-ever",
+      "urlToImage": null,
+      "publishedAt": "2019-08-31T00:26:23Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Dorian's Winds May Test Mettle of Florida's Solar Panels",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2019-08-30/dorian-s-savage-winds-may-test-mettle-of-florida-s-solar-panels",
+      "urlToImage": null,
+      "publishedAt": "2019-08-30T23:25:02Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "A Conversation with Leni Robredo Full Show",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/videos/2019-08-30/a-conversation-with-leni-robredo-full-show-video",
+      "urlToImage": null,
+      "publishedAt": "2019-08-30T23:15:04Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "'Bloomberg Best' Full Show (08/30/2019)",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/videos/2019-08-30/-bloomberg-best-full-show-08-30-2019-video",
+      "urlToImage": null,
+      "publishedAt": "2019-08-30T23:07:27Z",
+      "content": null
+    }
+  ]
+}
