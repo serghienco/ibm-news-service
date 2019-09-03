@@ -43,10 +43,6 @@ public class EmployeeService {
         return getEmployeeOrThrowNotFound(id).getLanguages();
     }
 
-    public List<Employee> findEmployeesByLanguage(String language) {
-        return employeeLanguageRepository.findEmployeesByLanguage(language);
-    }
-
     private Employee getEmployeeOrThrowNotFound(long id) {
         return employeeRepository.findById(id).orElseGet(() -> {
             throw new ResponseStatusException(HttpStatus.NOT_FOUND, "employee not found");

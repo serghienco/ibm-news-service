@@ -7,6 +7,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.rest.webmvc.PersistentEntityResource;
 import org.springframework.data.rest.webmvc.PersistentEntityResourceAssembler;
 import org.springframework.data.rest.webmvc.RepositoryRestController;
+import org.springframework.hateoas.ExposesResourceFor;
+import org.springframework.hateoas.MediaTypes;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.RequestBody;
@@ -16,6 +18,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import javax.validation.Valid;
 
 @RepositoryRestController
+@ExposesResourceFor(News.class)
 public class NewsController {
 
     private final NewsService service;
@@ -25,7 +28,7 @@ public class NewsController {
         this.service = service;
     }
 
-    @RequestMapping(method = RequestMethod.POST, path = "/news")
+    @RequestMapping(method = RequestMethod.POST, path = "/news", produces = MediaTypes.HAL_JSON_VALUE)
     public ResponseEntity<PersistentEntityResource> createNews(
             @RequestBody @Valid News news,
             PersistentEntityResourceAssembler assembler) {
