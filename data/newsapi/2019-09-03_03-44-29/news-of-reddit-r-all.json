@@ -1,0 +1,253 @@
+{
+  "status": "ok",
+  "totalResults": 19,
+  "articles": [
+    {
+      "source": {
+        "id": "reddit-r-all",
+        "name": "Reddit /r/all"
+      },
+      "author": "Pinboard",
+      "title": "Django Projects For Beginners",
+      "description": "91 votes and 32 comments so far on Reddit",
+      "url": "https://www.reddit.com/r/Python/comments/cypr3l/django_projects_for_beginners/",
+      "urlToImage": null,
+      "publishedAt": "2019-09-02T20:53:30Z",
+      "content": "So, I've been learning Django for a while now, starting with thenewboston(Bucky Roberts)'s tutorials to Corey Schafer's tutorial on youtube. I've created a blog website with the help of Corey's tutorial, which I think, is pretty good for beginners. But now th… [+186 chars]"
+    },
+    {
+      "source": {
+        "id": "reddit-r-all",
+        "name": "Reddit /r/all"
+      },
+      "author": "baloki",
+      "title": "Popular UK Transport App Reverse Engineered to Provide Free Tickets for All",
+      "description": "Article URL: https://reddit.com/r/manchester/comments/cyefu5/activists_release_code_to_generate_free_public/ Comments URL: https://news.ycombinator.com/item?id=20857977 Points: 4 # Comments: 0",
+      "url": "https://www.reddit.com/r/manchester/comments/cyefu5/activists_release_code_to_generate_free_public/",
+      "urlToImage": null,
+      "publishedAt": "2019-09-02T09:59:03Z",
+      "content": "I don't understand people on this sub. Constantly complaining about public transport, saying it's underfunded etc.\r\nThen they steal tickets from the operators. Why do so many people think that the buses and trams just work for free?"
+    },
+    {
+      "source": {
+        "id": "reddit-r-all",
+        "name": "Reddit /r/all"
+      },
+      "author": "netweb",
+      "title": "Usage Share of Internet Browsers 1996 - 2019 [OC] : dataisbeautiful",
+      "description": "Usage Share of Internet Browsers 1996 - 2019 (via @reddit )",
+      "url": "https://www.reddit.com/r/dataisbeautiful/comments/cxuah9/usage_share_of_internet_browsers_1996_2019_oc/",
+      "urlToImage": "https://external-preview.redd.it/bT9T7xTz_ouz8sEjVDZheMhzFQt_kHlTJM0hmTRprS8.png?format=pjpg&auto=webp&s=26ac539e1752efbed0bad28a7b165c11faf87a9d",
+      "publishedAt": "2019-09-02T05:47:01Z",
+      "content": "And there was a massive hoo-harr about Internet explorer coming pre-intalled on Windows, even though Netscape and AOL had also been pre-intalled.\r\nYet nobody seemed to give two shits when Google paid virtually every developer with application to bundle chrome… [+594 chars]"
+    },
+    {
+      "source": {
+        "id": "reddit-r-all",
+        "name": "Reddit /r/all"
+      },
+      "author": null,
+      "title": "Hong Kong Police shamed into retreat by everyday citizens",
+      "description": "1,252 votes and 61 comments so far on Reddit",
+      "url": "https://www.reddit.com/r/HongKong/comments/cyau4z/meanwhile_in_shatin_citizens_response_to_the/",
+      "urlToImage": "https://external-preview.redd.it/F7F-XH8BGOWoPlewybapt-UHqXHciZB_DIRxiOIOVSQ.png?format=pjpg&auto=webp&s=b188e929aa1fb0581d51b0d040c0a3959de7c9a3",
+      "publishedAt": "2019-09-02T01:25:48Z",
+      "content": "mostly just jeers, telling the cops fuck off, leave, fuck yo mama on repeat\r\nthe chanting from the middle onwards is calling them \r\nslang for triads (or in this situation, corrupt police/mainland soldiers in uniform?)"
+    },
+    {
+      "source": {
+        "id": "reddit-r-all",
+        "name": "Reddit /r/all"
+      },
+      "author": null,
+      "title": "Wag's new TOS charges users $1000 for going off Wag",
+      "description": "489 votes and 106 comments so far on Reddit",
+      "url": "https://www.reddit.com/r/legaladviceofftopic/comments/cwe79d/does_this_seem_like_wag_is_trying_to_get_around/",
+      "urlToImage": null,
+      "publishedAt": "2019-09-01T19:09:43Z",
+      "content": "I havent been personally affected by this, but it has been really bothering me, so Id love to get thoughts from the legal community on whether the new TOS by Wag are enforceable (see: https://wagwalking.com/terms).\r\nAs background, Wag is an on demand dog walk… [+1390 chars]"
+    },
+    {
+      "source": {
+        "id": "reddit-r-all",
+        "name": "Reddit /r/all"
+      },
+      "author": "fnord77",
+      "title": "Redditor works out which satellite took pics of missile site from the shadows",
+      "description": "Article URL: https://www.reddit.com/r/politics/comments/cxmfjd/president_trump_tweets_sensitive_surveillance/eymf0w0/ Comments URL: https://news.ycombinator.com/item?id=20844394 Points: 9 # Comments: 0",
+      "url": "https://www.reddit.com/r/politics/comments/cxmfjd/president_trump_tweets_sensitive_surveillance/",
+      "urlToImage": "https://external-preview.redd.it/Cegk0XtaHp1nKtOHdHtj5wboZ4RsF5FWT6WJKcG9dxc.jpg?auto=webp&s=b264a0aad0207de827a4fc012b5a63c5038d2238",
+      "publishedAt": "2019-08-31T03:00:27Z",
+      "content": "As someone who works in GIS and in the past remote sensing using satellite imagery, I find this fascinating.\r\nThe black and white image is consistent with it being a panchromatic image, from one of the 3 or 4 active KH-12 Keyhole satellites. Panchromatic band… [+1387 chars]"
+    },
+    {
+      "source": {
+        "id": "reddit-r-all",
+        "name": "Reddit /r/all"
+      },
+      "author": null,
+      "title": "Using Medicare and Medicaid data for uninsured to price shop medical care",
+      "description": "14 votes and 7 comments so far on Reddit",
+      "url": "https://www.reddit.com/r/datascienceproject/comments/cu2a3a/using_medicare_medicaid_data_for_uninsured_to/",
+      "urlToImage": null,
+      "publishedAt": "2019-08-27T10:11:37Z",
+      "content": "Healthcare costs in the U.S. are too much to bear. I found some datasets of the current bid and ask price of medical care in the U.S. for Medicare and Medicaid.\r\nWithin the dataset you can look up any hospital and see their history of bills submitted which in… [+2828 chars]"
+    },
+    {
+      "source": {
+        "id": "reddit-r-all",
+        "name": "Reddit /r/all"
+      },
+      "author": "misc",
+      "title": "Don’t download this app. It uses a fingerprint scam to charge you $100 : iphone",
+      "description": "1,091 votes and 108 comments so far on Reddit",
+      "url": "https://www.reddit.com/r/iphone/comments/a1j76o/dont_download_this_app_it_uses_a_fingerprint_scam/",
+      "urlToImage": "https://external-preview.redd.it/aFe6Rx3lcVH4N9HxYe2NbHCM7eT-ENHG1OluHlogFu0.png?format=pjpg&auto=webp&s=246aa1c4d89f3ba16170efd6a234216f5fa8f910",
+      "publishedAt": "2019-08-26T05:47:01Z",
+      "content": "Apple isn't going to sue them. They get 30%!\r\nThe true answer here is, if this charge went through, you need to contact your credit card and issue a chargeback."
+    },
+    {
+      "source": {
+        "id": "reddit-r-all",
+        "name": "Reddit /r/all"
+      },
+      "author": null,
+      "title": "Discussion: 9 years ago Sketch took the torch from Adobe Fireworks, but...",
+      "description": "https://www.reddit.com/r/sketchapp/comments/cuoyy3/9_years_ago_sketch_took_the_torch_from_adobe/",
+      "url": "https://www.reddit.com/r/sketchapp/comments/cuoyy3/9_years_ago_sketch_took_the_torch_from_adobe/",
+      "urlToImage": null,
+      "publishedAt": "2019-08-25T16:42:00Z",
+      "content": "Personally I really like what Figma is doing. They do a lot of things that I wish Sketch would be doing.I feel the pain with Sketch and the bugs, but it has improved greatly the last few months. The speed of innovation is also catching up. My biggest problem … [+1319 chars]"
+    },
+    {
+      "source": {
+        "id": "reddit-r-all",
+        "name": "Reddit /r/all"
+      },
+      "author": "curtis",
+      "title": "Why didn't the Romans contribute much to mathematics?",
+      "description": "Article URL: https://old.reddit.com/r/AskHistorians/comments/cuu8rc/why_didnt_the_romans_contribute_much_to/ Comments URL: https://news.ycombinator.com/item?id=20790545 Points: 6 # Comments: 0",
+      "url": "https://www.reddit.com/r/AskHistorians/comments/cuu8rc/why_didnt_the_romans_contribute_much_to/",
+      "urlToImage": "https://www.redditstatic.com/new-icon.png",
+      "publishedAt": "2019-08-25T00:15:02Z",
+      "content": "It used to be assumed that the Romans were simply too \"practical\" to bother with pure mathematics. The infamous murder of Archimedes by a Roman soldier after the siege of Syracuse has sometimes been taken to epitomize this brutal indifference.\r\nThe truth, of … [+3704 chars]"
+    },
+    {
+      "source": {
+        "id": "reddit-r-all",
+        "name": "Reddit /r/all"
+      },
+      "author": null,
+      "title": "Average faces of executive leadership at each of the top 15 US companies.",
+      "description": "Average faces of executive leadership at each of the top 15 US companies. ↩︎ Reddit View Post →",
+      "url": "https://www.reddit.com/r/dataisbeautiful/comments/cse0jc/average_faces_of_executive_leadership_for_each_of/",
+      "urlToImage": "https://external-preview.redd.it/fQBp4EjlRDj1uxfHuVN6owU11bUnrEHhHvZ6G-yVaFc.jpg?auto=webp&s=9d1aba3d71904ce242c2084507c7035d0e8a2f4c",
+      "publishedAt": "2019-08-19T15:53:00Z",
+      "content": "I've been playing with face averaging recently. After creating average faces for rap, rock, and country musicians, I wanted to work on a topic that might generate more serious conversation. So I decided to create representative average faces from the executiv… [+1017 chars]"
+    },
+    {
+      "source": {
+        "id": "reddit-r-all",
+        "name": "Reddit /r/all"
+      },
+      "author": "Dave Mark",
+      "title": "I dropped my headphones in the sand and all the iron collected on the magnets",
+      "description": "First, follow the headline link to see the image. It's interesting and, at first, I found it hard to believe. But then I read this. Now I believe. ∞ Read this on The Loop",
+      "url": "https://www.reddit.com/r/mildlyinteresting/comments/cfq37w/i_dropped_my_headphones_in_the_sand_and_all_the/",
+      "urlToImage": "https://preview.redd.it/ymnirm36kib31.jpg?auto=webp&s=6eba4e8a1246fe07c53b615e35a8888ceb1601b6",
+      "publishedAt": "2019-08-19T12:38:58Z",
+      "content": "Aww, cripes. I didn't know I'd have to write a description. How many words is that so far, like a hundred? Soooo, yeah. Mildly interesting stuff. Stuff that interests you. Mildly. It's in the name, ffs."
+    },
+    {
+      "source": {
+        "id": "reddit-r-all",
+        "name": "Reddit /r/all"
+      },
+      "author": "BostonTom",
+      "title": "Thought Experiment – Summer Camp for All Rather Than Universal Basic Income",
+      "description": "Article URL: https://www.reddit.com/r/BasicIncome/comments/crmxxc/thought_experiment_summer_camp_for_all_rather/ Comments URL: https://news.ycombinator.com/item?id=20724565 Points: 5 # Comments: 0",
+      "url": "https://www.reddit.com/r/BasicIncome/comments/crmxxc/thought_experiment_summer_camp_for_all_rather/",
+      "urlToImage": null,
+      "publishedAt": "2019-08-17T15:42:29Z",
+      "content": "Here's a thought - municipalities and non-profits would build lots of housing and food courts for those in need, and in exchange people would work to build and maintain the housing and food courts and do any work needed such as teaching and health care and co… [+2992 chars]"
+    },
+    {
+      "source": {
+        "id": "reddit-r-all",
+        "name": "Reddit /r/all"
+      },
+      "author": "majikarp",
+      "title": "It is perfectly OK to only code at work, you can have a life too",
+      "description": "Article URL: https://www.reddit.com/r/programming/comments/bjsoeh/it_is_perfectly_ok_to_only_code_at_work_you_can/ Comments URL: https://news.ycombinator.com/item?id=20723093 Points: 17 # Comments: 9",
+      "url": "https://www.reddit.com/r/programming/comments/bjsoeh/it_is_perfectly_ok_to_only_code_at_work_you_can/",
+      "urlToImage": null,
+      "publishedAt": "2019-08-17T09:43:27Z",
+      "content": "I would go so far as to say that if you're not learning new things at work, you're cheating yourself out of a great opportunity.\r\nLearning on company time is even better than pooping on company time. When you poop on the job, you're getting paid for doing not… [+697 chars]"
+    },
+    {
+      "source": {
+        "id": "reddit-r-all",
+        "name": "Reddit /r/all"
+      },
+      "author": "starpilot",
+      "title": "I've reproduced 130 research papers about “predicting the stock market”",
+      "description": "Article URL: https://www.reddit.com/r/algotrading/comments/cr7jey/ive_reproduced_130_research_papers_about/ Comments URL: https://news.ycombinator.com/item?id=20720095 Points: 12 # Comments: 2",
+      "url": "https://www.reddit.com/r/algotrading/comments/cr7jey/ive_reproduced_130_research_papers_about/",
+      "urlToImage": "https://external-preview.redd.it/TyAA122KFtL3EqWHg_TtiSukdODlS9FMCJRhKUqOijs.jpg?auto=webp&s=505fa96a2c423df066f889118ce0da27b70d3df1",
+      "publishedAt": "2019-08-16T21:55:36Z",
+      "content": "ok, so firstly,\r\nall of the papers I found through Google search and Google scholar. Google scholar doesn't actually have every research paper so you need to use both together to find them all. They were all found by using phrases like \"predict stock market\" … [+5818 chars]"
+    },
+    {
+      "source": {
+        "id": "reddit-r-all",
+        "name": "Reddit /r/all"
+      },
+      "author": "segfaultbuserr",
+      "title": "Cut my job? Say goodbye to millions of dollars",
+      "description": "Article URL: https://old.reddit.com/r/MaliciousCompliance/comments/cax8ad/cut_my_job_say_goodbye_to_millions_of_dollars/ Comments URL: https://news.ycombinator.com/item?id=20704994 Points: 8 # Comments: 0",
+      "url": "https://www.reddit.com/r/MaliciousCompliance/comments/cax8ad/cut_my_job_say_goodbye_to_millions_of_dollars/",
+      "urlToImage": "https://www.redditstatic.com/new-icon.png",
+      "publishedAt": "2019-08-15T13:31:29Z",
+      "content": "I worked for a major (U.S.) telecommunications company for over 10 years. One of the jobs I had there was as emergency overnight tech support for our major accounts. I'm talking about accounts like emergency services, traffic lights, the FBI, NASA, and the Wh… [+6642 chars]"
+    },
+    {
+      "source": {
+        "id": "reddit-r-all",
+        "name": "Reddit /r/all"
+      },
+      "author": null,
+      "title": "HK police fires rubber bullet at protesters and civilians at point blank range",
+      "description": "1,908 votes and 104 comments so far on Reddit",
+      "url": "https://www.reddit.com/r/HongKong/comments/coycrb/zero_regard_for_human_life_anymore_close_range/",
+      "urlToImage": "https://external-preview.redd.it/-0DbudDybGZAxEmOir-1Iit4dTg4DELm8uSV7o2_QLc.png?format=pjpg&auto=webp&s=ed5f017a53124646a2a8c73ac9c03134bfb6edbd",
+      "publishedAt": "2019-08-12T01:52:49Z",
+      "content": "This really proves that the Hong Kong police are not police, they are state sponsored street brawlers. In most protests under more disciplined cops, the police will make mass arrests and release most of them except people of importance, and disperse the rest … [+734 chars]"
+    },
+    {
+      "source": {
+        "id": "reddit-r-all",
+        "name": "Reddit /r/all"
+      },
+      "author": null,
+      "title": "History of the broken vertical bar, being the ¦ form of |",
+      "description": "26 votes and 5 comments so far on Reddit",
+      "url": "https://www.reddit.com/r/typography/comments/aqcesg/history_of_the_broken_vertical_bar_being_the_form/",
+      "urlToImage": null,
+      "publishedAt": "2019-08-06T17:15:47Z",
+      "content": "In old computer fonts, it was common for the vertical bar (also known as the pipe) to be represented with a gap in the middle. This seems to have been an early way to distinguish it from the I and l which is important in programming, the most common use of th… [+5834 chars]"
+    },
+    {
+      "source": {
+        "id": "reddit-r-all",
+        "name": "Reddit /r/all"
+      },
+      "author": "terminalhealth",
+      "title": "An explanation of why we ground electrical systems",
+      "description": "Article URL: https://www.reddit.com/r/electricians/comments/38qiyy/an_explanation_of_why_we_ground_electrical/ Comments URL: https://news.ycombinator.com/item?id=20594667 Points: 4 # Comments: 0",
+      "url": "https://www.reddit.com/r/electricians/comments/38qiyy/an_explanation_of_why_we_ground_electrical/",
+      "urlToImage": null,
+      "publishedAt": "2019-08-02T17:14:33Z",
+      "content": "/u/eleitl posted a question about why 'neutral's' and 'ground's' and connected at the panel. There was a TON of inaccurate information presented in response, so I tried to tackle the issue, which ended up being a lot longer than I intended. In my experience, … [+7348 chars]"
+    }
+  ]
+}

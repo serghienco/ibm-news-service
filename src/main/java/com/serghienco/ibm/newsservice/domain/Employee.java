@@ -1,5 +1,7 @@
 package com.serghienco.ibm.newsservice.domain;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
@@ -8,10 +10,12 @@ import org.springframework.hateoas.Identifiable;
 import javax.persistence.*;
 import javax.validation.constraints.Positive;
 import javax.validation.constraints.Size;
+import java.util.List;
 
 @Entity
 @NoArgsConstructor
 @Table(name = "employees")
+@JsonIgnoreProperties({"hibernateLazyInitializer", "handler"})
 public class Employee implements Identifiable<Long> {
 
     @Id
@@ -59,4 +63,9 @@ public class Employee implements Identifiable<Long> {
     @Setter
     @Positive
     private long zip;
+
+    @Getter
+    @JsonIgnore
+    @OneToMany(fetch = FetchType.LAZY, cascade = CascadeType.ALL, orphanRemoval = true, mappedBy = "employee")
+    private List<EmployeeLanguage> languages;
 }
