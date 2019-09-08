@@ -67,9 +67,4 @@ public class News implements Identifiable<Long> {
     @Getter
     @Setter
     private String content;
-
-    //  @Getter
-    //  @JsonIgnore
-    // @OneToMany(fetch = FetchType.LAZY, mappedBy = "news", cascade = CascadeType.ALL, orphanRemoval = true)
-    // private List<RecommendedNews> recommendedNews;
 }
