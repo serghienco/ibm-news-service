@@ -8,6 +8,8 @@ import com.serghienco.ibm.newsservice.repo.NewsRepository;
 import com.serghienco.ibm.newsservice.repo.RecommendedNewsRepository;
 import lombok.NonNull;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
@@ -44,6 +46,10 @@ public class NewsService {
             recommendedNewsRepository.save(new RecommendedNews(news, employee, recommendedDate));
         }
         return news;
+    }
+
+    public Page<News> get(LocalDate localDate, Pageable pageable) {
+        return newsRepository.findByPublishedAt(localDate, pageable);
     }
 
     private LocalDate setPublishedAtNowIfNullAndGet(News news) {

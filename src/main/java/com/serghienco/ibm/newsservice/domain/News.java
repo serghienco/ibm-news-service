@@ -1,5 +1,6 @@
 package com.serghienco.ibm.newsservice.domain;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
@@ -9,6 +10,7 @@ import org.springframework.hateoas.Identifiable;
 import javax.persistence.*;
 import javax.validation.constraints.Size;
 import java.time.LocalDate;
+import java.util.List;
 
 @Entity
 @Table(name = "news")
@@ -67,4 +69,9 @@ public class News implements Identifiable<Long> {
     @Getter
     @Setter
     private String content;
+
+    @JsonIgnore
+    @Getter
+    @OneToMany(mappedBy = "news", orphanRemoval = true, cascade = CascadeType.ALL, fetch = FetchType.EAGER)
+    private List<RecommendedNews> recommendedNews;
 }
